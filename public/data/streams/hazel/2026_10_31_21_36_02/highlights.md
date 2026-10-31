@@ -1,0 +1,212 @@
+## 晚安回复
+
+---
+generatedAt: "2026-10-31T19:41:48.375Z"
+sourceHighlight: "录制-1713546334-20261031-213602-527-万圣节（_) 歌杂_merged_AI_HIGHLIGHT.txt"
+provider: "daiYu"
+model: "gpt-6-luna"
+fallback: false
+attempts:
+  - provider: "daiYu"
+    model: "gpt-6-luna"
+    status: "success"
+    finishReason: "completed"
+    maxTokens: 100000
+    completionTokens: 173
+    promptTokens: 30917
+    cachedTokens: 4224
+    cacheWriteTokens: 0
+    reasoningTokens: 103
+    apiModeRequested: "responses"
+    apiModeUsed: "responses"
+    sharedPromptCacheKey: "2e829c2f12c0d26e215eb269f238fd6f3c71cb5ea401de87aff2145f33f66bfe"
+    sharedPromptPrefixChars: 40176
+    explicitPromptCache: "implicit_routed"
+    promptCacheRolloutBucket: 1599
+    totalTokens: 31090
+    requestId: "24a8eb7e-0c4f-4c6c-b0a7-ff0029cb8521"
+    responseId: "resp_0e3c168a9a3515d0016ae64479b334819191580388ba272301"
+    requestStarted: true
+---
+英文歌硬是唱成了三审现场，念经还要二审三审，满神你是真不服判啊。万圣节歌杂听得我又笑又替你嗓子累，别再加考了，喝口水赶紧休息，晚安！
+
+---
+
+## Highlight
+
+【摘要】(保留率: 前35%热度 + 10%随机)
+---
+【参与者】计划参与: 无
+【参与者】实际出声: 无
+【归属说明】名单不证明逐句身份；实际出声仅指音轨匹配，也可能来自被观看内容。UNKNOWN和匿名标签不可归给房主。
+---
+[0m] 🔥 [UNKNOWN] 秘BGM。[UNKNOWN] 真万圣节快乐好像也不流行过。[UNKNOWN] 这个其实所以只是娱乐。[UNKNOWN] 没有说是一定说是这个一定是一个要过的。[UNKNOWN] 一个日子啥的。[UNKNOWN] 晚上好晚上好晚上好。[UNKNOWN] 对还没退休啊。[UNKNOWN] 说今晚的话如果要哼的话  (💬 晚上好晚上好(x13) / 可爱可爱(x4) / 可爱捏(x3) / 晚上好呀(x3) / 萌萌萌(x3))
+[2m] ▫️ [UNKNOWN] 还有是万圣节小蛋糕来着  (💬 蛐蛐年(x5) / 跳了(x4) / 那叫前年(x4) / 啊？(x3) / 耐听(x3))
+[3m] ▫️ [UNKNOWN] 啊现在成为亚比了吗  (💬 罕见(x11) / 大大方方唱(x11) / ltp(x4) / 懂你意思(x3) / 我去)
+[4m] ▫️ [UNKNOWN] 就这个感觉是大部分人可以说哦。[UNKNOWN] 小满今天素颜出门有被路人夸。[UNKNOWN] 万圣节妆容好绝望。[UNKNOWN] 有看到很多那种奇装异服的人。[UNKNOWN] 很久以前我们学校有那种不能说化妆舞会。[UNKNOWN] 从不是僵尸妆容有吗。[UNKNOWN] 那没招了。[UNKNOWN] 想多了没有啊  (💬 咋这样(x10) / 羞辱(x5) / 哈哈哈(x3) / 神头鬼脸(x3) / 一点都不卡)
+[5m] ▫️ [UNKNOWN] 可能是换季。[UNKNOWN] 因为身边人也也有点那个什么。[UNKNOWN] 那种猫人都演的很迷逼成那种猫女。[UNKNOWN] 我们我们开始第一个吧。[UNKNOWN] 宇兽说你这首歌也唱的太难听了吧。[UNKNOWN] 他说你为什么你还是你开场曲放一下吧。[UNKNOWN] 但是你还是别唱吧  (💬 百老汇(x4) / 不卡(x3) / 芙蕖(x3) / 福瑞(x3) / 小灰猫)
+[7m] 🔥 [UNKNOWN] 他以前都不灰泽满说的。[UNKNOWN] Ok下一个下一个是等一一下。[UNKNOWN] 嗯来找找一下歌词哒。[UNKNOWN] 哒哒桌上的滚小马好可爱。[UNKNOWN] 惠资本才知道原来歌曲是有教程的。[UNKNOWN] 程。[UNKNOWN] 我试一下哼哼嗯这首啊  (💬 咋这样(x7) / 不考(x7) / 呃呃(x5) / 考不动了(x4) / 罕见(x4))
+[10m] 🔥 [UNKNOWN] no哦no哎他有他有伴奏啊。[UNKNOWN] 他有回回唱啊。[UNKNOWN] 嗯嗯q拉猫colkitnokey。[UNKNOWN] 那豆蔻一斤你吃一口子大鱼哟。[UNKNOWN] 想要可乐可技鹅高开高处高。[UNKNOWN] 吃下去加油九八q靠近奥一点肉。[UNKNOWN] 默偶我休息。[UNKNOWN] 在马店看的按摩椅  (💬 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x15) / 可爱捏(x11) / 可爱可爱(x7) / 好听🥰好听💖好听😘好听🥰好听💖好听😘好听🥰好听💖好听😘好听🥰(x6) / 烤羊(x5))
+[10m] 🔥 [UNKNOWN] 塔玛尼亚玛黑在空中想你我写可了。[UNKNOWN] 下的爱子西大美巴咧。[UNKNOWN] 西德满意运气看佳了。[UNKNOWN] 对的执迷到底哪感悟代比。[UNKNOWN] 你扣一个八个孩子冲开了kimi。[UNKNOWN] 那豆蔻一起你亲一口子大鱼肉。[UNKNOWN] 想表刻脑壳。[UNKNOWN] 就高开狗皮狗屁下起脚嘴大q  (💬 chu(x21) / 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x19) / 耐听的🔑(x8) / 可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑(x6) / 可爱可爱(x5))
+[11m] 🔥 [UNKNOWN] 呼卡罗卡咪达。[UNKNOWN] 咧开达巴巴卡米大米拼你打开你的路由。[UNKNOWN] 你来羽毛狗何必玩。[UNKNOWN] 秋kim打开你的路由。[UNKNOWN] AY you no go。[UNKNOWN] 何必玩。[UNKNOWN] 就他爱你。[UNKNOWN] also cover走到开头  (💬 chu(x23) / 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x21) / 娘念(x10) / 耐听的🔑(x8) / 可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑(x7))
+[12m] 🔥 [UNKNOWN] 等会儿你。[UNKNOWN] 所以在卡路卡拉呢六厘米切相近。[UNKNOWN] 你阿姨吗。[UNKNOWN] 是太大姨妈啊我太礼貌了。[UNKNOWN] 亲要吸游戏把我来吸小脸的眉毛一样打卡。[UNKNOWN] 啦。[UNKNOWN] 一想你一点呢年年都可考。[UNKNOWN] 可爹爹撸闹摩西卡西跌  (💬 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x10) / 可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑(x7) / chu(x6) / 好记吧南亭(x5) / chu~(x5))
+[12m] 🔥 [UNKNOWN] 恰恰哒求你告别子你给他给你挖。[UNKNOWN] 口吐骂甲。[UNKNOWN] 你跳开了TV nosky naoul。[UNKNOWN] cy。[UNKNOWN] 今年记忆cosplango。[UNKNOWN] 想打哭老壳就不公开。[UNKNOWN] 三七加入嘴巴QQ哆巴可阿咪达。[UNKNOWN] 哇秋啊念的时候很熟练  (💬 chu(x25) / 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x11) / 花q(x9) / chu~(x8) / 可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑(x7))
+[13m] 🔥 [UNKNOWN] 嗯是什么意思。[UNKNOWN] 等一下我心点绷不住啊。[UNKNOWN] 其实念的时候这个日语是很熟练的。[UNKNOWN] 你直播的时候很紧张。[UNKNOWN] 而且呃没有那个呃罗马音。[UNKNOWN] 所以完全的呃完全不行。[UNKNOWN] 嗯只有处是可以的真的假的啊。[UNKNOWN] 好吧太难听了很熟练吧  (💬 娘念(x10) / chu(x9) / onp(x7) / 好听(x6) / 那完了(x6))
+[14m] 🔥 [UNKNOWN] 呃不抽烟确实不行。[UNKNOWN] 好下一个是那下一个更不行了。[UNKNOWN] 这个放第一首证明这个是练的比较熟练的。[UNKNOWN] 一首啊。[UNKNOWN] 那下一个更不行了。[UNKNOWN] 哎有哪一个不带吊扇儿。[UNKNOWN] 完了完了完了嗯  (💬 大大方方念(x11) / onp(x8) / 那完了(x7) / 好听(x3) / 大大方方唱(x3))
+[15m] ▫️ [UNKNOWN] 但是呃这个放了原唱可以听到很经典的。[UNKNOWN] 面檬酷拉库纳里。[UNKNOWN] 索达卡拉贝加毛衣卡西拉秋的你玛和。[UNKNOWN] 阿尼卡开达咧达毗你呢。[UNKNOWN] 我可喜可乐他被叫错。[UNKNOWN] 帮助一高傲monkey绿a咪应呢阿奇。[UNKNOWN] 玛卡卡啊  (💬 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x9) / 考住(x9) / 经典(x6) / 谁在敲门(x5) / 大大方方唱(x3))
+[16m] 🔥 [UNKNOWN] 不是这个原唱的嗯不敢唱。[UNKNOWN] 不会了后面好久。[UNKNOWN] 嗯好啦叮当for does。[UNKNOWN] 好嘞。[UNKNOWN] 那你小娃TS七三一二八大气球有了。[UNKNOWN] 是的可你no no下妈。[UNKNOWN] 亲你一口大day happy。[UNKNOWN] helloloying  (💬 😅(x6) / 可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑(x6) / 区叫(x6) / 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x5) / 可爱的🔑(x5))
+[16m] 🔥 [UNKNOWN] 打起叫都听不到烤鸡猫。[UNKNOWN] 烤鸡猫吹个吹一万个大day。[UNKNOWN] happy。[UNKNOWN] Hello me。[UNKNOWN] 我唱不上去啊你们听吧。[UNKNOWN] 你们听后面的只能文字叫啊。[UNKNOWN] 后面啊后面就呃更心虚了。[UNKNOWN] 心窍了  (💬 可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑(x8) / 我考我再考(x7) / 这里是考点(x6) / 😅(x6) / 断气了(x6))
+[18m] ▫️ [UNKNOWN] halloween。[UNKNOWN] 妈妈的大鸡寞跑鸡毛吹个吹大day。[UNKNOWN] hockey。[UNKNOWN] hloey还有有吸气哒。[UNKNOWN] 可边家烤小马丁的茶杯hellove在。[UNKNOWN] 努力到最后啊。[UNKNOWN] 好好听啊这个原唱好好听啊啊。[UNKNOWN] 这个么么跳唱的好好听啊  (💬 😅(x12) / 可是……宝宝唱的也太难听了(x5) / 可是满满唱歌也🥺…太可爱了吧🥺(x4) / 笑牛魔(x4) / 羊宫妃满(x3))
+[19m] 🔥 [UNKNOWN] 这个组合啊不错不错这首歌很好听。[UNKNOWN] 嗯不错不错这首歌很好听。[UNKNOWN] 哎这首歌原唱很好听。[UNKNOWN] 哎呀这首歌听太多别人唱过了。[UNKNOWN] 很键版你自己不太会啊。[UNKNOWN] 嗯不好说了我们只是听一下呃。[UNKNOWN] 听听进一个那个了啊。[UNKNOWN] 女室友说刚刚质疑我的人道歉  (💬 对不起(x9) / 😅(x8) / 奶龙对不起(x4) / 可是满满也🥺。。。太可爱了吧🥰🥰🥰(x3) / 歌回听原唱的来(x3))
+[19m] 🔥 [UNKNOWN] 谢谢呃哎我看到了嗯谢谢哈利克贝塔。[UNKNOWN] 满城别放别放大方的唱唱了呀。[UNKNOWN] 好像真有女鬼掐住了你的脖子。[UNKNOWN] 你能有多难题呃呃。[UNKNOWN] AN七纯路人主播唱歌一直这么好听吗。[UNKNOWN] 糖。[UNKNOWN] 鬼就这么唱的。[UNKNOWN] 但是中文的很少有这个就是有这个氛围的  (💬 对不起(x9) / onp(x5) / 奶龙对不起(x4) / 听听难听的(x4) / 听听(x3))
+[21m] ▫️ [UNKNOWN] 知道吧。[UNKNOWN] 只能单人哼嗯悄悄的今晚相遇。[UNKNOWN] 这里不要向任何人提起。[UNKNOWN] 要到咪悄悄的来到印尼之地。[UNKNOWN] 接下来做什么事情啊。[UNKNOWN] 月光才会一啊云雾变的浓密。[UNKNOWN] 来到了这里你有什么目的。[UNKNOWN] 在这迷人少女花园里黑暗的夜  (💬 onp(x45) / ？？？(x19) / ？？(x9) / 何意味(x7) / 48(x5))
+[23m] 🔥 [UNKNOWN] 原来隐藏着般甜蜜。[UNKNOWN] 不知那陷影已变成荆棘。[UNKNOWN] 一步一步是否愿意充满危险的游戏。[UNKNOWN] 无意间两双对峙的眼睛沉默。[UNKNOWN] 让彼此更坚定向你靠近你。[UNKNOWN] 我的心刺绣像回忆夜空中电影塔谈了嗯。[UNKNOWN] 秘密的变得不像我自己  (💬 发卡的停停(x25) / 卡谈了(x21) / lltthhb(x12) / 发卡的婷婷(x10) / 卡黄了(x7))
+[23m] 🔥 [UNKNOWN] 妈妈如果迟到一定会生气。[UNKNOWN] 秘密的就这样不搭理。[UNKNOWN] 就可以从清迟到。[UNKNOWN] 天明啊树下不曾遇见啊。[UNKNOWN] 又酸甜又浓郁别伤我心急。[UNKNOWN] 我会带领着你来到迷人少女怀月。[UNKNOWN] 你爱情总是让人意乱捉摸不定。[UNKNOWN] 你也在这里  (💬 卡谈了(x33) / 发卡的婷婷(x8) / 卡谈了是什么意思？(x8) / 发卡的停停(x6) / 卡黄了(x5))
+[25m] 🔥 [UNKNOWN] 你好你好。[UNKNOWN] 黑暗的夜。[UNKNOWN] 原来隐藏着般甜蜜。[UNKNOWN] 不知不接受危险已变成荆棘。[UNKNOWN] 雌雄像回忆夜空中蝶影。[UNKNOWN] 我真的很无语的一件事。[UNKNOWN] 就是为什么会那本直播唱歌可以这么难听。[UNKNOWN] 我说说实话  (💬 笑牛魔(x16) / 我有流感今年不一样我有流感今年不一样我有流感今年不一样我有流感今年不一样我有流感(x8) / 你好(x8) / （一段对白）(x6) / 好听好听(x6))
+[26m] 🔥 [UNKNOWN] 这个这个频唱的真没这么难听。[UNKNOWN] 每次只要打开电脑对着这摄像头唱歌。[UNKNOWN] 就可以唱出这辈子最难听的声音。[UNKNOWN] 就很奇怪真的很奇怪。[UNKNOWN] 以后会去买这KTV的时候。[UNKNOWN] 全念就是小录一下。[UNKNOWN] 嗯这个正正常发挥吗  (💬 小路一下(x57) / 小路(x19) / 太不了解了(x9) / 好听好听(x8) / 小路？(x8))
+[26m] 🔥 [UNKNOWN] 真的假的。[UNKNOWN] 我靠受不了了呀这首我不太了解。[UNKNOWN] 嗯拜嗯菲菲。[UNKNOWN] 其像赫洛已相信到主播是特意为了庆祝万。[UNKNOWN] 圣节唱这么吓。[UNKNOWN] 人的吗。[UNKNOWN] 不是好吧行写特鲁JK。[UNKNOWN] 这首确实有金甲的效果了  (💬 小路一下(x56) / 小路(x19) / 太不了解了(x9) / 小路？(x8) / 333(x4))
+[26m] 🔥 [UNKNOWN] 又赋予太多。[UNKNOWN] 嗯只是个普通的歌曲吧。[UNKNOWN] 谢谢女生。[UNKNOWN] 那是最后能加一个打分环节。[UNKNOWN] 我不好说谢谢。[UNKNOWN] 这还考场啊。[UNKNOWN] 所以会这边打算就是把自己挑选的。[UNKNOWN] 耐听的人们是下一首诗吗。[UNKNOWN] 英文歌来了英文歌来了啊  (💬 ybb(x13) / 下一首(x6) / 333(x4) / 11111111(x4) / 都差求不多(x4))
+[29m] 🔥 [UNKNOWN] 开始知不知道那个节奏开始。[UNKNOWN] 不好意思啊重新放一次啊。[UNKNOWN] 万事兴脑人my party。[UNKNOWN] no seepping。[UNKNOWN] youre on your TP。[UNKNOWN] toscscrapping。[UNKNOWN] a right line  (💬 娘念(x54) / 😅(x12) / 念经(x12) / ？？？(x10) / 轻松绷住(x6))
+[29m] 🔥 [UNKNOWN] No one no inker。[UNKNOWN] So creep me now。[UNKNOWN] bruces on。[UNKNOWN] both many needs。[UNKNOWN] for you。[UNKNOWN] Dont see。[UNKNOWN] thank you。[UNKNOWN] Ok  (💬 娘念(x61) / 念经(x13) / 可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑(x8) / 绷住(x7) / ？？？(x7))
+[30m] 🔥 [UNKNOWN] Thank do what爱忘问。[UNKNOWN] 还忘iting to my。[UNKNOWN] souso so cineno。[UNKNOWN] so you are他不该like。[UNKNOWN] you really。[UNKNOWN] rap。[UNKNOWN] 不该just thank it in  (💬 娘念(x38) / 念经(x9) / 可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑(x9) / ？？？(x7) / 拉夯了(x6))
+[30m] 🔥 [UNKNOWN] all。[UNKNOWN] of le。[UNKNOWN] 却要know走。[UNKNOWN] 怕不该m在拜带mko妈妈现在每口。[UNKNOWN] 咖啡妹买心的丢羞的菜。[UNKNOWN] And the bed time。[UNKNOWN] 但and the back。[UNKNOWN] I like keep when  (💬 娘念(x28) / 可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑(x10) / ？？？(x6) / 拉夯了(x5) / 轻松绷住(x4))
+[30m] 🔥 [UNKNOWN] you take。[UNKNOWN] control。[UNKNOWN] even if you know。[UNKNOWN] that you dont own。[UNKNOWN] me。[UNKNOWN] Ill like to play。[UNKNOWN] the role。[UNKNOWN] Ill be your  (💬 娘念(x14) / 可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑(x11) / ？？？(x9) / 师傅别念了🙉师傅别念了🙉师傅别念了🙉师傅别念了🙉(x7) / duh(x5))
+[31m] 🔥 [UNKNOWN] animal。[UNKNOWN] just always i know。[UNKNOWN] but she wants。[UNKNOWN] seethe the。[UNKNOWN] y the man i know。[UNKNOWN] So your tough guy。[UNKNOWN] like a really  (💬 耐听(x12) / 可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑(x10) / 娘念(x10) / ？？？(x8) / 师傅别念了🙉师傅别念了🙉师傅别念了🙉师傅别念了🙉(x7))
+[31m] 🔥 [UNKNOWN] enough guy。[UNKNOWN] just can enough。[UNKNOWN] guy。[UNKNOWN] just always always。[UNKNOWN] a tough。[UNKNOWN] guy。[UNKNOWN] Im my bad guy。[UNKNOWN] 后面不会的这其实就是女室友说超难听的  (💬 耐听(x14) / 女室友是对的(x12) / 可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑(x9) / ？？？(x8) / 还真是(x8))
+[31m] 🔥 [UNKNOWN] 一首很难亲吗。[UNKNOWN] 很难亲吗。[UNKNOWN] 这首唱的正常吧哼因为灰金美。[UNKNOWN] 你觉得b类艾丽史是那种跟灰金美一样的。[UNKNOWN] 那种肾虚唱法。[UNKNOWN] 他说这首超难听。[UNKNOWN] 他说你千万不能唱这首。[UNKNOWN] 这首还好吧延禧也可以也可以  (💬 耐听(x14) / 女室友是对的(x12) / 还真是(x8) / 好听(x7) / 奶龙是对的(x7))
+[31m] 🔥 [UNKNOWN] 好吧哦ok ok那还是唱了呀。[UNKNOWN] 目前最难听的一首前面失误了呀。[UNKNOWN] 前面失误了呀。[UNKNOWN] 其实BDS里学的歌真的很很合适婚者。[UNKNOWN] 买的那个那个什么什么普通娘娘吧。[UNKNOWN] 我感觉嘴里可爱的气儿。[UNKNOWN] 可能我觉得是那个那个东西了  (💬 女室友是对的(x9) / 说对了(x7) / 耐听(x7) / 😅(x7) / 问题是都有失误啊(x6))
+[32m] 🔥 [UNKNOWN] 不是念经啊这个很念经啊。[UNKNOWN] 居然那可能啊谢谢AC路克。[UNKNOWN] 你是我说对了。[UNKNOWN] 可能是可能是可能是失误了吧。[UNKNOWN] 可能失误了吧可能是太小声失误了。[UNKNOWN] 我感觉没有吧没他说那么夸张吧。[UNKNOWN] 再再试一次吧。[UNKNOWN] 这首应该很适合会再买猜对我说  (💬 😅(x12) / 还有第二关(x8) / 师傅别念了(x6) / ？？？(x6) / 还来？(x6))
+[32m] 🔥 [UNKNOWN] 因为你要看这个歌手是什么样子的对吧。[UNKNOWN] 我不信但他在看直播吗。[UNKNOWN] 我看一眼哦哦ok肯定肯定在啊。[UNKNOWN] 可以。[UNKNOWN] 你再听一次哦。[UNKNOWN] 因为他很喜欢这个歌手啊。[UNKNOWN] BD艾里是这样放开嗯。[UNKNOWN] Why shirts now  (💬 😅(x18) / 还有第二关(x12) / ？？？(x8) / 还来？(x8) / 绝不认输(x7))
+[33m] 🔥 [UNKNOWN] raad my body。[UNKNOWN] no sleeping。[UNKNOWN] You are on your。[UNKNOWN] capital scraping。[UNKNOWN] one。[UNKNOWN] no singer小葵没呢。[UNKNOWN] Bruises on both  (💬 😅(x37) / 娘念(x11) / duh(x11) / 师傅别念了🙉师傅别念了🙉师傅别念了🙉师傅别念了🙉(x7) / 好听的🔑好听­的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的(x7))
+[33m] 🔥 [UNKNOWN] many tes。[UNKNOWN] for you。[UNKNOWN] Dont see。[UNKNOWN] thank you。[UNKNOWN] Ok。[UNKNOWN] Thank you。[UNKNOWN] 我爱one。[UNKNOWN] 问。[UNKNOWN] i want清楚my show小息  (💬 😅(x40) / duh(x12) / 娘念(x11) / 好听的🔑好听­的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的(x8) / 师傅别念了🙉师傅别念了🙉师傅别念了🙉师傅别念了🙉(x7))
+[34m] 🔥 [UNKNOWN] 你可so you are他该来k。[UNKNOWN] ry的rap just。[UNKNOWN] can get enough gui。[UNKNOWN] Always always so。[UNKNOWN] pop guy。[UNKNOWN] Im the bad time。[UNKNOWN] make your  (💬 😅(x38) / duh(x12) / 娘念(x11) / 好听的🔑好听­的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的(x8) / 正常在哪(x8))
+[34m] 🔥 [UNKNOWN] 妈妈saat time make。[UNKNOWN] your coffee。[UNKNOWN] mattime miss都是我太太。[UNKNOWN] im the bad guy。[UNKNOWN] 然啊可以好一点吧正常吧。[UNKNOWN] 行了跳过了行了不折磨了。[UNKNOWN] 可以可以正常吧正常吧  (💬 😅(x36) / duh(x12) / 娘念(x9) / 正常在哪(x8) / skip(x6))
+[34m] 🔥 [UNKNOWN] 好吧一点好一点点哦。[UNKNOWN] 好。[UNKNOWN] I like even you。[UNKNOWN] take control。[UNKNOWN] even if you know。[UNKNOWN] that you。[UNKNOWN] you II ll ay the。[UNKNOWN] anmome好  (💬 😅(x31) / skip(x12) / 正常在哪(x8) / ？？？(x8) / duh(x6))
+[35m] 🔥 [UNKNOWN] 了。[UNKNOWN] 行了好了不考验了不考验你们了。[UNKNOWN] 行了不考验你们行了。[UNKNOWN] 这种怕ass了怕ass了。[UNKNOWN] 怕ass了怕ass了。[UNKNOWN] 可以可以可以没事没事。[UNKNOWN] 好超级气泡仪卡了。[UNKNOWN] 嗯二审维持原判好吧好吧  (💬 区叫(x19) / onp(x15) / ？？？(x13) / 超绝气泡音(x12) / ？？？？(x7))
+[35m] 🔥 [UNKNOWN] 好吧确实确实可能这个确实不行啊。[UNKNOWN] 但后面更不敢了怎么办。[UNKNOWN] 后面更吓人了后面后面夸你们选的歌。[UNKNOWN] 真的很吓人哦很吓人。[UNKNOWN] 真的很吓人。[UNKNOWN] 下一首是lady gaga的歌女。[UNKNOWN] 受立体的一首啊那怎么办  (💬 大大方方唱(x16) / onp(x15) / 区叫(x7) / ？？？(x6) / 力挺(x5))
+[36m] 🔥 [UNKNOWN] 那怎么办啊。[UNKNOWN] 那得退出了呀啊我我看一下后面吧。[UNKNOWN] 我先我先念完这个。[UNKNOWN] 后面的等一下很吓人啊。[UNKNOWN] 这很吓人啊。[UNKNOWN] 我本来以为这不是自娱自乐吗。[UNKNOWN] 这么晚上的时候。[UNKNOWN] 嗯。[UNKNOWN] 啊哎我忘了看到哪里了  (💬 大大方方唱(x15) / onp(x12) / 力挺(x5) / 考住(x4) / 别不唱(x3))
+[36m] ▫️ [UNKNOWN] 啊完蛋了我看到这个  (💬 大大方方唱(x8) / 考住(x3) / 考完了 / 太考了 / 灰澤S)
+[38m] ▫️ [UNKNOWN] 呃缺德买买妈到底多有实力。[UNKNOWN] 它就是平稳的在念基的嗯。[UNKNOWN] 你不是说灰色版念经原曲就这样唱的。[UNKNOWN] 原曲就这样唱的好不好。[UNKNOWN] 你你们是没听过原曲是吗。[UNKNOWN] 我我记得原曲是这样子唱的呀。[UNKNOWN] 嗯这个谢谢烟花皮  (💬 饿啊(x10) / 😅(x5) / 太没跑了(x5) / 我信了(x4) / 太没调了(x4))
+[38m] 🔥 [UNKNOWN] 我头上的紧箍咒越来越紧恶啊。[UNKNOWN] 念咒了谢谢脱口JK女兽没毛病啊。[UNKNOWN] 不过这首也适合今天唱。[UNKNOWN] 可以吃鬼好吧那看一眼太没有。[UNKNOWN] 难道你们要说什么如天仙月什么耳在你了。[UNKNOWN] 不能hello like no。[UNKNOWN] thank you  (💬 如听仙乐耳暂明(x37) / 舒服了(x22) / 饿啊(x12) / 一样在哪(x10) / 太一样了(x9))
+[39m] 🔥 [UNKNOWN] So困不。[UNKNOWN] 谢谢。[UNKNOWN] Good那只。[UNKNOWN] Do you dont say词语。[UNKNOWN] You hold please。[UNKNOWN] I do who者。[UNKNOWN] I我嗯嗯黄金走满锁收。[UNKNOWN] 是你哥小月把它覆盖了  (💬 如听仙乐耳暂明(x21) / 听不出来(x12) / 一样在哪(x9) / 😅(x8) / 舒服了(x7))
+[39m] 🔥 [UNKNOWN] Feill you rough白。[UNKNOWN] just can get good。[UNKNOWN] enough。[UNKNOWN] Its a storory。[UNKNOWN] super。[UNKNOWN] 俺的拌菜每桌妈妈咸菜。[UNKNOWN] 每桌口饭买菜买十可秀。[UNKNOWN] 淡菜  (💬 听不出来(x13) / 😅(x8) / 差球不多(x7) / 都差球不多(x6) / 太听不出来了(x6))
+[40m] 🔥 [UNKNOWN] im the bad guy大巴。[UNKNOWN] 差不多说真的差不多中途坏人了。[UNKNOWN] 你们能听出来吗。[UNKNOWN] 中途坏人能清得出来吗。[UNKNOWN] 也清不出来吧。[UNKNOWN] 好吧他唱的确实挺好听的。[UNKNOWN] 啊谢谢东方御姐破绽其实挺好。[UNKNOWN] 绝对不是因为你考住了  (💬 听不出来(x13) / 差球不多(x7) / 😅(x6) / 都差球不多(x6) / 太听不出来了(x6))
+[40m] 🔥 [UNKNOWN] Ok KK。[UNKNOWN] 嗯谢谢我有无夕阳则满。[UNKNOWN] 小鹤语乡心料相亲了我进寺庙了。[UNKNOWN] 灵光闪雪。[UNKNOWN] 了。[UNKNOWN] 我去小买还有二阶短终极饿。[UNKNOWN] 哎。[UNKNOWN] 在街上街上唱歌吧。[UNKNOWN] 就是唱的难听到那种嗯可以上去抢  (💬 大大方方唱(x8) / 听不出来(x5) / 没听出来(x5) / 都差球不多(x4) / 大大方方(x4))
+[43m] 🔥 [UNKNOWN] 话筒的那种程度啊。[UNKNOWN] 有有中文歌就中文歌。[UNKNOWN] 有有中国学生唱歌。[UNKNOWN] 在这个街上侧难以完全跑掉。[UNKNOWN] 大白唱真的还真不如黑金版唱的那个感觉。[UNKNOWN] 他就是在街上就是不是说卖唱吧。[UNKNOWN] 但是就嫁一个那个音响。[UNKNOWN] 然后调了一个麦克风在路边这样子  (💬 是你吗(x6) / 已特定(x4) / 😅(x4) / 大街上没这么多人(x3) / 没你难听)
+[43m] 🔥 [UNKNOWN] 这样子唱很多呀。[UNKNOWN] 啊是你吗。[UNKNOWN] 不是啊但是很多人都这样做。[UNKNOWN] 我知道和总会现在的感觉。[UNKNOWN] 谢谢幺z四七敢不敢唱再好听点好啊。[UNKNOWN] 直播间真的有比灰金版唱的好听的啊。[UNKNOWN] 算了吧。[UNKNOWN] 以以前有那种v会开那种锤友歌会  (💬 我来(x8) / 😅(x5) / 别不开(x5) / 大街上没这么多人(x4) / 我不好说(x3))
+[44m] 🔥 [UNKNOWN] 你们真的有自信唱的比灰子马好听吗。[UNKNOWN] 这首八概啊很难啊这首歌可以啊。[UNKNOWN] 真的可以吗。[UNKNOWN] 真的真的有吗。[UNKNOWN] 你们没有上麦的机会啊。[UNKNOWN] 不好意思你们只能纸上谈兵啊。[UNKNOWN] 谢一条毛毛虫蛮蛮满。[UNKNOWN] 姐你又不是那种唱歌高手  (💬 我来(x13) / 😅(x7) / ？？？(x6) / 上麦来(x6) / 别不开(x5))
+[44m] ▫️ [UNKNOWN] 回主播唱的像在折磨观众说。[UNKNOWN] 空心版是平均值啊。[UNKNOWN] 就是你你们班你们班同学也就这水。[UNKNOWN] 平的感觉真的真的谢谢好吧。[UNKNOWN] 好吧直播间观众是坏人了吗。[UNKNOWN] 跟昨天不是一批人啊。[UNKNOWN] 感觉呃又又洗了吗。[UNKNOWN] 这个唱歌就等于是洗了一波了吗  (💬 太平均了(x11) / 😅(x8) / 平均在哪(x6) / ？？？(x4) / 好普(x4))
+[45m] 🔥 [UNKNOWN] 喜欢KMKYB啊哇。[UNKNOWN] 小马后表有点太好听了。[UNKNOWN] 是啊减七能卡贝奇诺小美你好。[UNKNOWN] 我也轻松崩住。[UNKNOWN] 能夸你一句吗。[UNKNOWN] 你很牛皮佩服你。[UNKNOWN] 嗯嗯哼哼谢谢。[UNKNOWN] 等一下我不敢唱下一首了。[UNKNOWN] 那就直接lescgo了  (💬 大大方方唱(x20) / 大大方方(x8) / 😅(x4) / 继续继续(x4) / 大的要来了(x4))
+[46m] 🔥 [UNKNOWN] 感觉很恐怖。[UNKNOWN] 这首歌嗯嗯啊心想中心想中我要笑死了。[UNKNOWN] 来大大方方破坏费去了喝水。[UNKNOWN] 嗯嗯他很。[UNKNOWN] 大哥来了。[UNKNOWN] 哎呀。[UNKNOWN] 今天本来也都是敲了个阴间时间的。[UNKNOWN] 就觉得也无所无所谓的这种感觉  (💬 妈妈妈妈(x28) / 满满满满(x12) / 大的要来了(x11) / ？？？(x8) / mua(x8))
+[46m] 🔥 [UNKNOWN] 好我看一眼啊有点卡。[UNKNOWN] 我这边有点卡真的矮了吗。[UNKNOWN] 真的矮了呀。[UNKNOWN] 妈嗯。[UNKNOWN] i wanna hope。[UNKNOWN] then let them。[UNKNOWN] doing texes。[UNKNOWN] Please folld let  (💬 妈妈妈妈(x33) / 满满满满(x21) / mua(x10) / ？？？(x7) / 😅(x6))
+[47m] 🔥 [UNKNOWN] them him。[UNKNOWN] me me。[UNKNOWN] Receive baby stay。[UNKNOWN] with me。[UNKNOWN] Lock him intuition。[UNKNOWN] play the car space。[UNKNOWN] to star。[UNKNOWN] and after heping  (💬 还行(x12) / 灰泽满最强！灰泽满最强！灰泽满最强！灰泽满最强！灰泽满最强！灰泽满最强！(x10) / ？？？(x8) / 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听­的🔑好听的🔑好听的(x6) / 满满满满(x5))
+[47m] 🔥 [UNKNOWN] who go go pay the。[UNKNOWN] one that。[UNKNOWN] on his heart。[UNKNOWN] 哦。[UNKNOWN] 嗷嗷哦HI get him。[UNKNOWN] her。[UNKNOWN] show him my god。[UNKNOWN] 哦。[UNKNOWN] i get him her show  (💬 还行(x12) / 灰泽满最强！灰泽满最强！灰泽满最强！灰泽满最强！灰泽满最强！灰泽满最强！(x10) / ？？？(x8) / 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听­的🔑好听的🔑好听的(x6) / fff(x5))
+[47m] 🔥 [UNKNOWN] him。[UNKNOWN] Why i got can riry。[UNKNOWN] my carry。[UNKNOWN] my no。[UNKNOWN] he can read my。[UNKNOWN] own。[UNKNOWN] coffees。[UNKNOWN] She egone me like  (💬 灰泽满最强！灰泽满最强！灰泽满最强！灰泽满最强！灰泽满最强！灰泽满最强！(x11) / ？？？(x8) / 还行(x6) / 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听­的🔑好听的🔑好听的(x5) / fff(x5))
+[47m] 🔥 [UNKNOWN] nobody。[UNKNOWN] carry my carry。[UNKNOWN] my nohain can read。[UNKNOWN] my poll。[UNKNOWN] coffees。[UNKNOWN] Shescgot me like。[UNKNOWN] nobody泡。[UNKNOWN] 咖飞发飞飞啪放咖啡es发发  (💬 灰泽满最强！灰泽满最强！灰泽满最强！灰泽满最强！灰泽满最强！灰泽满最强！(x11) / ？？？(x9) / fff(x6) / 嗷嗷嗷(x6) / fffff(x5))
+[47m] 🔥 [UNKNOWN] 发喝face。[UNKNOWN] I wanna jobe with。[UNKNOWN] in the。[UNKNOWN] help l。[UNKNOWN] be ll be a。[UNKNOWN] little。[UNKNOWN] 干净。[UNKNOWN] 一切访问you with me。[UNKNOWN] 发现有泪is not the  (💬 灰泽满最强！灰泽满最强！灰泽满最强！灰泽满最强！灰泽满最强！灰泽满最强！(x11) / ？？？(x8) / fff(x8) / fffff(x6) / 嗷嗷嗷(x6))
+[48m] 🔥 [UNKNOWN] same without。[UNKNOWN] a gon and baby微笑。[UNKNOWN] 拉皮合鹅一间房哦。[UNKNOWN] Tell you that i。[UNKNOWN] love you。[UNKNOWN] kiss or hockey。[UNKNOWN] cucause my  (💬 ffff(x12) / 灰泽满最强！灰泽满最强！灰泽满最强！灰泽满最强！灰泽满最强！灰泽满最强！(x10) / fffff(x7) / 嗷嗷嗷(x6) / fff(x6))
+[49m] 🔥 [UNKNOWN] bluffin with my。[UNKNOWN] muffin。[UNKNOWN] Im not lying。[UNKNOWN] Im just dunning。[UNKNOWN] with my。[UNKNOWN] love glugami。[UNKNOWN] just like a。[UNKNOWN] chicken in the  (💬 娘念(x23) / ？？？(x9) / 开念(x8) / ？？？？(x5) / 😅(x4))
+[49m] 🔥 [UNKNOWN] casino。[UNKNOWN] Take your band。[UNKNOWN] before i pay you。[UNKNOWN] out。[UNKNOWN] i promise it。[UNKNOWN] promise。[UNKNOWN] 嗯嗯。[UNKNOWN] 哼那个东西carry my know  (💬 娘念(x22) / ？？？(x7) / 开念(x6) / ？？？？(x5) / 😅(x4))
+[49m] 🔥 [UNKNOWN] he。[UNKNOWN] can read my ball。[UNKNOWN] coffees。[UNKNOWN] She is gall me。[UNKNOWN] like nobody。[UNKNOWN] Can we mmy carry。[UNKNOWN] my no。[UNKNOWN] he can read my  (💬 娘念(x17) / ffff(x11) / 开念(x3) / 我不行了(x3) / 哈哈哈哈哈哈哈哈哈(x3))
+[49m] ▫️ [UNKNOWN] book caface。[UNKNOWN] She is gone me。[UNKNOWN] nobody can ad my。[UNKNOWN] my know。[UNKNOWN] i can read my bow。[UNKNOWN] coffees。[UNKNOWN] She egall me my  (💬 ffff(x19) / fff(x6) / fffff(x4) / 法法法(x4) / 娘念(x3))
+[50m] 🔥 [UNKNOWN] nobody啪啪。[UNKNOWN] 啪。[UNKNOWN] P poker face发her。[UNKNOWN] face爸。[UNKNOWN] 爸八poker face。[UNKNOWN] 发爸爸her face。[UNKNOWN] 这种失误真失误经传失误了。[UNKNOWN] 这首真真不是这样唱的  (💬 ffff(x35) / fff(x11) / 法法法(x9) / fffff(x8) / 发发发(x8))
+[50m] 🔥 [UNKNOWN] 就开开头不是这样唱的。[UNKNOWN] 嗯我看一眼我看园曲咋唱的。[UNKNOWN] 我再试一次再试一次。[UNKNOWN] 唉。[UNKNOWN] 这首其实练了一下子怎么怎么这回事啊。[UNKNOWN] 感觉开头不是这样子唱的。[UNKNOWN] 嗯嗯。[UNKNOWN] 看一下二审啊。[UNKNOWN] 看一下二审金在元区  (💬 妈妈妈妈(x25) / 满满满满(x12) / ffff(x7) / 维持原判(x7) / 还有第二关(x5))
+[51m] 🔥 [UNKNOWN] 看一下援教吧。[UNKNOWN] 我真的不能不开辅助的妈妈。[UNKNOWN] 妈。[UNKNOWN] I wanna hold him。[UNKNOWN] lazy doing。[UNKNOWN] texes。[UNKNOWN] please wlna him。[UNKNOWN] him。[UNKNOWN] me with me  (💬 妈妈妈妈(x23) / 满满满满(x12) / 维持原判(x7) / 二周目(x5) / ✨\小满/✨\小满/✨\小满/✨\小满/✨\小满/✨\小满/✨(x5))
+[51m] 🔥 [UNKNOWN] Baby stay with me。[UNKNOWN] not in iniation。[UNKNOWN] plays a car。[UNKNOWN] with pay ststart。[UNKNOWN] She get him her ry。[UNKNOWN] go me my her heart  (💬 ✨\小满/✨\小满/✨\小满/✨\小满/✨\小满/✨\小满/✨(x10) / ffff(x8) / 满满满满(x5) / 二周目(x3) / 满满满满满(x3))
+[51m] 🔥 [UNKNOWN] H。[UNKNOWN] Hes he hold her。[UNKNOWN] my cafe。[UNKNOWN] She carry ncarry。[UNKNOWN] me一起访问you are with。[UNKNOWN] 差不多差不多。[UNKNOWN] 认可了认可你们说的了。[UNKNOWN] 这玩意没说的了  (💬 这么生气(x36) / 这么生气？(x23) / 急了(x16) / 差球不多(x14) / ffff(x13))
+[52m] 🔥 [UNKNOWN] 行这也差不多完蛋了。[UNKNOWN] 这首歌是会哥在你身边。[UNKNOWN] 嗯很很多人喜欢的歌完蛋了。[UNKNOWN] 这首这首歌真流传出去了。[UNKNOWN] 要完蛋出问题了出问题了。[UNKNOWN] 哎嗯这也差不多等一下。[UNKNOWN] 我把这个嗯放个屁夹carry。[UNKNOWN] my carry  (💬 这么生气(x38) / 这么生气？(x27) / 急了(x15) / 差球不多(x10) / 语气对了(x3))
+[52m] 🔥 [UNKNOWN] my。[UNKNOWN] 我觉得是因为是不是因为因为前面突然夹。[UNKNOWN] 起来了。[UNKNOWN] 我靠  (💬 强在哪(x3) / 这么生气 / 折麽生气 / 最恐怖的是唱成这样直播间还能上人的，太考了 / 中肯)
+[54m] ▫️ [UNKNOWN] 嗯。[UNKNOWN] 我看还有几首啊。[UNKNOWN] 就是我操女一个女主播。[UNKNOWN] 就是萝卜青菜各有所爱。[UNKNOWN] 就是有有喜欢喝那一款的啊。[UNKNOWN] 但是欢姐目前前没发现现有一坚坚定。[UNKNOWN] 口口在在播播间说你唱的太好了啊。[UNKNOWN] 谢谢  (💬 还有三首？(x5) / 确实猎奇(x5) / 这么短(x4) / 牛来(x4) / 太猎奇了(x3))
+[55m] 🔥 [UNKNOWN] 苦一一千万粉内内好的歌歌。[UNKNOWN] 好好谢苦酒。[UNKNOWN] 麦麦啤酒是一首无穷无尽的念经。[UNKNOWN] 无穷无尽的念经。[UNKNOWN] 好嗯谢谢我要睡觉。[UNKNOWN] 慢慢我听到牛叫的麦万澳洲万圣节可以放。[UNKNOWN] 牛吗。[UNKNOWN] 啊叫叫家这你等着吧  (💬 你唱的太好听了(x97) / 你唱得太好听了(x11) / 已标记(x10) / 你唱的太耐听了(x6) / 你唱的太好听了！(x5))
+[56m] ▫️ [UNKNOWN] carry my carry my。[UNKNOWN] 念稳一点。[UNKNOWN] 其实为什么灰泽满喜欢这首歌。[UNKNOWN] 然后来找灰色满的是清梦啊。[UNKNOWN] 所以所以唱歌会失误你们知道吗。[UNKNOWN] 你觉得吗。[UNKNOWN] 我们到最后再留着最后一首吧。[UNKNOWN] 像弗洛洛动几个  (💬 ffff(x8) / 树脂(x8) / fffff(x5) / ffffff(x5) / fff(x4))
+[58m] ▫️ [UNKNOWN] 是的是的灰色鸟拌猪吃掉了。[UNKNOWN] 呃谢谢阿玛吉亚斯还是哪里。[UNKNOWN] 你们猜灰色玛雅思口语多少。[UNKNOWN] 把你们气死六点五六点五好吧。[UNKNOWN] 最低的是听力嗯。[UNKNOWN] 听力和那个听力和作文很低。[UNKNOWN] 雅思口语六点五的水平。[UNKNOWN] 你是六点五很高六点五真的很高  (💬 这里是考点(x3) / 先抑后抑 / 还真是 / 哈哈哈 / 哈哈哈哈哈哈)
+[59m] 🔥 [UNKNOWN] 你时真的撞口运了。[UNKNOWN] 那个考官跟灰斯麦聊起来了。[UNKNOWN] 知道吧。[UNKNOWN] 谢谢天使者卢克你后面还选了啥。[UNKNOWN] 哥我有点害怕了。[UNKNOWN] 围。[UNKNOWN] 谢BB四九七九六。[UNKNOWN] 那天不直播。[UNKNOWN] 我还在思考呀就取一个月相关的事吧  (💬 黑幕(x26) / 考官被脑控了(x8) / 赐名了(x7) / 脑控考官了(x6) / 考官(x5))
+[60m] ▫️ [UNKNOWN] 可是可是我觉得这个很好听啊。[UNKNOWN] 就你们可能没有听过。[UNKNOWN] 灰资板已经是把这首歌的最难听的部分唱。[UNKNOWN] 就我操还有这么好听的歌。[UNKNOWN] 谢陈语眠的舰长。[UNKNOWN] 总是咸鱼打完游戏发现没声音。[UNKNOWN] 以为是直播卡。[UNKNOWN] 原来是我忘了刚才唱太人气被你静音的  (💬 乌色月(x10) / 还有赐名(x9) / 赐名了(x6) / 不患寡而患不均(x6) / 赐名(x5))
+[62m] 🔥 [UNKNOWN] 我的你嗯出去。[UNKNOWN] 好。[UNKNOWN] 这首下一个是这个下个这个我看一下嗯。[UNKNOWN] 这首也是带鬼的一个歌。[UNKNOWN] 害怕了嗯喝口水喝口水。[UNKNOWN] 你爱咖啡低调的感觉。[UNKNOWN] 偏爱手机的音乐乖的很另类耶。[UNKNOWN] 你很特别。[UNKNOWN] 每一个小细节嗓子哑了  (💬 这么生气(x44) / 这么生气？(x26) / 哈气了(x20) / 出去(x12) / 急了(x9))
+[63m] 🔥 [UNKNOWN] 我清假嗓我嗓子好哑。[UNKNOWN] 我哑不哑感觉不影响。[UNKNOWN] 感觉跟这首歌好不好听。[UNKNOWN] 没有直接关系。[UNKNOWN] 嗯你看。[UNKNOWN] 偏爱手机的音乐快的很另类耶。[UNKNOWN] 我很狼狈为失恋掉眼泪。[UNKNOWN] 哎呀离你远一些。[UNKNOWN] 喜欢看你紧紧皱眉你叫我胆小鬼  (💬 的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑✨\小满/✨\小满/✨\(x6) / 娘念(x5) / 小满/✨\小满/✨\小满/✨\小满/✨(x5) / 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x4) / 跑调了(x3))
+[65m] 🔥 [UNKNOWN] 你的表情大过于朋友的暧昧。[UNKNOWN] 寂寞的称为甜蜜的责备。[UNKNOWN] 要同一呼喊专属的。[UNKNOWN] 特别喜欢看你紧紧皱眉。[UNKNOWN] 叫我胆小鬼。[UNKNOWN] 我的心情就像和情人在斗嘴奇怪的直觉。[UNKNOWN] 错误的定位。[UNKNOWN] 对你爱呀呀我有点胆怯  (💬 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x25) / 可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑(x13) / ✨\小满/✨\小满/✨\小满/✨\小满/✨\小满/✨\小满/✨好听的🔑好听的(x8) / 笑牛魔(x4) / 小满/✨\小满/✨\小满/✨\小满/✨(x4))
+[65m] 🔥 [UNKNOWN] 前面失误了。[UNKNOWN] 我我怕浪费情绪的错觉  (💬 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x24) / 小满/✨\小满/✨\小满/✨\小满/✨(x6) / 可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑(x6) / 哎呀呀呀(x5) / 我有点胆怯(x4))
+[68m] ▫️ [UNKNOWN] 知道吗。[UNKNOWN] 这首歌太变态了太那个了。[UNKNOWN] 嗯有点搞了啊。[UNKNOWN] 嗯还有一个ok速战速决。[UNKNOWN] 速战速决太晚了太晚了。[UNKNOWN] 太晚了。[UNKNOWN] 最后好了。[UNKNOWN] 晨素颜错觉来了。[UNKNOWN] 素颜错觉来了很很低抬高走了  (💬 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x9) / 才巴点(x7) / 你问我？(x4) / 巴哥来了(x4) / 小满/✨\小满/✨\小满/✨\小满/✨(x3))
+[68m] 🔥 [UNKNOWN] 嗯倒数第二首倒数第二首了龙卷风。[UNKNOWN] 因为很灾难啊。[UNKNOWN] 所以就往这个这个上面靠喷喷啊。[UNKNOWN] 嗯一下嗯。[UNKNOWN] 喝口水。[UNKNOWN] 这样的节奏谁都无可奈何。[UNKNOWN] 嘿嗯  (💬 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x9) / 巴哥来了(x8) / 才巴点(x6) / ✨\小满/✨\小满/✨\小满/✨\小满/✨\小满/✨\小满/✨好听的🔑好听的(x5) / 巴巴(x5))
+[71m] ▫️ [UNKNOWN] 我不我不我不能我情走得太快。[UNKNOWN] 默默离开陷入了危险边缘。[UNKNOWN] 我不我不我不要再想你爱情来得太快  (💬 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x22) / 小满/✨\小满/✨\小满/✨\小满/✨(x11) / 的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑✨\小满/✨\小满/✨\(x5) / ✨\小满/✨\小满/✨\小满/✨\小满/✨\小满/✨\小满/✨好听的🔑好听的(x3) / 好听(x3))
+[73m] ▫️ [UNKNOWN] 又过了一个秋后知后觉。[UNKNOWN] 我该好好的生活。[UNKNOWN] 不知不觉你已了离开我。[UNKNOWN] 不知不觉我跟了这节奏后知后觉。[UNKNOWN] 后知后觉。[UNKNOWN] 嗯好嗯等一下哦。[UNKNOWN] 真真只有最后一个了呀。[UNKNOWN] 真只有最后一个了还得吃八个的哥  (💬 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x25) / 小满/✨\小满/✨\小满/✨\小满/✨(x7) / 😅(x6) / 后知后觉(x6) / 真的(x6))
+[75m] 🔥 [UNKNOWN] 第三第四个字是啥。[UNKNOWN] 哦呀。[UNKNOWN] 什么难为亲吗。[UNKNOWN] 嗯我不知道谢谢威宁。[UNKNOWN] 今天这个厚脸皮的小鬼。[UNKNOWN] 到底是谁把我们那个唱歌唱不好。[UNKNOWN] 会害羞的小女孩还过来这个呃绘记本确实。[UNKNOWN] 很回你们真的  (💬 喜多(x60) / 外国人？(x20) / zhaozha(x15) / 😅(x11) / 丈育(x9))
+[75m] 🔥 [UNKNOWN] 很害羞啊回你们真的很害羞很紧张。[UNKNOWN] 整个人都出汗了。[UNKNOWN] 写陈手集suky的灰金满唱的好。[UNKNOWN] 自然没有刻意唱歌的感觉。[UNKNOWN] 反而像是在和我表白很幸福。[UNKNOWN] 谢谢海哲千层蛋糕。[UNKNOWN] 对你哎呀呀我有点胆怯。[UNKNOWN] 好奇怪谢谢  (💬 喜多(x60) / 😅(x10) / 🍵(x8) / 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x8) / 呃呃(x6))
+[76m] ▫️ [UNKNOWN] 嗯可以最后给你们一个嗯。[UNKNOWN] 可哎真是last one啊。[UNKNOWN] 最后一首啊啊这首歌是灰金满。[UNKNOWN] 可啊安可这样子。[UNKNOWN] 安可的话。[UNKNOWN] 到时候你们选一首之前就会在你唱的这些。[UNKNOWN] 歌。[UNKNOWN] 里面。[UNKNOWN] 然后会在你重新唱一次三审一下行不行  (💬 安可(x14) / 夜蝶(x11) / 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x10) / 那算了(x9) / 寻梦环游记(x5))
+[76m] 🔥 [UNKNOWN] 三审一下哈没有别的了。[UNKNOWN] 只有这些。[UNKNOWN] 嗯。[UNKNOWN] 啊这首歌这首歌非常非常喜欢的电影啊。[UNKNOWN] 最喜欢的动画片电影的歌啊。[UNKNOWN] 唱完了你们就是可以慢慢的听着这首歌睡。[UNKNOWN] 觉了啊。[UNKNOWN] 是个非常温柔的歌曲  (💬 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x11) / 夜蝶(x10) / 寻梦环游记(x6) / 有品(x6) / 那算了(x5))
+[77m] ▫️ [UNKNOWN] dont lady make。[UNKNOWN] Remember me in in。[UNKNOWN] so get。[UNKNOWN] 嗯睡嗯嗯咪嗯咪啊这手很短。[UNKNOWN] 是的就这首有人没看过吗。[UNKNOWN] 是那个coco那个电影里的寻猫狂想狂。[UNKNOWN] 想曲的里面  (💬 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x25) / 原创曲(x6) / 小满/✨\小满/✨\小满/✨\小满/✨(x6) / 咪咪咪(x6) / 灰泽满永远世界第一可爱🤍灰泽满永远世界第一可爱🤍灰泽满永远世界第一可爱🤍(x4))
+[78m] 🔥 [UNKNOWN] 你哎超度了谢小咪眯起来了。[UNKNOWN] Ok啊今天就真没了。[UNKNOWN] 今天真没了今天真没了。[UNKNOWN] 呃本来就定的是十一点结束。[UNKNOWN] 今天真没了。[UNKNOWN] 嗯谢谢呃我新婚吧。[UNKNOWN] 终于唱我的胆小会了。[UNKNOWN] 呃小满可爱比娘念英语都高好多了  (💬 夜蝶(x41) / 安可(x16) / 寻梦环游记(x10) / 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x9) / 安可呢(x5))
+[79m] 🔥 [UNKNOWN] 真的假的。[UNKNOWN] 真的假的。[UNKNOWN] 安可就是安。[UNKNOWN] 可是需要就是今天从今天唱过的歌里面随。[UNKNOWN] 机选一首啊。[UNKNOWN] 证明一下这个说不定之前没有唱好啊。[UNKNOWN] 算了感觉这个证明太变态了。[UNKNOWN] 不太会唱这首歌就是很绕  (💬 夜蝶(x58) / 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x10) / 安可(x7) / 再来一首巴哥吧(x6) / 第一首(x5))
+[80m] ▫️ [UNKNOWN] 嗯我看一眼小恶魔的话  (💬 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x19) / 夜蝶(x11) / 8q(x10) / 花q(x9) / 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x3))
+[81m] 🔥 [UNKNOWN] 好吧差不多了老表怕哦。[UNKNOWN] 请你打开你的路友a来  (💬 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x25) / chu(x21) / 小满小满🤍 心动加满🤍小满小满🤍 心动加满🤍小满小满🤍 心动加满🤍(x10) / 小满/✨\小满/✨\小满/✨\小满/✨(x8) / 可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑(x6))
+[83m] 🔥 [UNKNOWN] 正常吧正常吧哇。[UNKNOWN] 但是唱的也太可爱了吧。[UNKNOWN] 这首因为很活力啊。[UNKNOWN] 所以是放到第一首啊。[UNKNOWN] 不是别的意思。[UNKNOWN] 很嗯还有哪个这个这个比刚开始唱的好一。[UNKNOWN] 点吗。[UNKNOWN] 你觉得主得唱的比刚开始好一点  (💬 喜多(x14) / 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x10) / 😅(x7) / 好一点(x7) / ✨\小满/✨\小满/✨\小满/✨\小满/✨\小满/✨\小满/✨好听的🔑好听的(x6))
+[84m] 🔥 [UNKNOWN] 还是难一点谢谢。[UNKNOWN] 呃。[UNKNOWN] 临时的音想把再来首的也滴好好唱一遍吧。[UNKNOWN] 写灵光闪雪。[UNKNOWN] 真的没人在意lonvely。[UNKNOWN] hellove。[UNKNOWN] me唱的咋样。[UNKNOWN] 蛮像我们唱。[UNKNOWN] 我们真的不像本词顺不下来夜节吗  (💬 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x10) / 好一点(x7) / 好多了(x6) / ✨\小满/✨\小满/✨\小满/✨\小满/✨\小满/✨\小满/✨好听的🔑好听的(x5) / 小满/✨\小满/✨\小满/✨\小满/✨(x5))
+[84m] 🔥 [UNKNOWN] 夜蝶啊哎夜蝶好不到哪去了。[UNKNOWN] 但是如果也不是不行啊。[UNKNOWN] 因为叶蝶是两个那个就会在煤气  (💬 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x11) / 就是啊(x8) / ✨\小满/✨\小满/✨\小满/✨\小满/✨\小满/✨\小满/✨好听的🔑好听的(x5) / 还真是(x5) / 小满/✨\小满/✨\小满/✨\小满/✨(x4))
+[85m] ▫️ [UNKNOWN] 月光在回应啊啊。[UNKNOWN] 嗯一百秘密的变得不像我自己  (💬 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x14) / 小满/✨\小满/✨\小满/✨\小满/✨(x5) / 发卡的婷婷(x5) / ✨\小满/✨\小满/✨\小满/✨\小满/✨\小满/✨\小满/✨(x5) / ✨\小满/✨\小满/✨\小满/✨\小满/✨\小满/✨\小满/✨好听的🔑好听的(x4))
+[87m] ▫️ [UNKNOWN] 无法再压抑的靠近。[UNKNOWN] 这个结束了这个结束了。[UNKNOWN] 这个没了这没了好一点哦。[UNKNOWN] 好一点啊好很多啊。[UNKNOWN] 哎这个真的好多真的假的。[UNKNOWN] 哎真的假的。[UNKNOWN] 真的假的。[UNKNOWN] 你们真觉得这个好很多吧。[UNKNOWN] 你们是你们  (💬 真的(x28) / 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x13) / 好多了(x8) / 真的真的(x8) / 小满/✨\小满/✨\小满/✨\小满/✨(x6))
+[88m] 🔥 [UNKNOWN] 你们是因为想想把灰子版夸满意了。[UNKNOWN] 然后让辉子赶紧滚下播吧。[UNKNOWN] 我看一下嗯谢谢灵光闪学哦。[UNKNOWN] 不就看过谢谢宫城夜月。[UNKNOWN] 好听的好听的钥匙好听的钥匙哦。[UNKNOWN] 真的假的。[UNKNOWN] 嗯  (💬 真的(x18) / 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x11) / 真的真的(x5) / 好听(x5) / 小满/✨\小满/✨\小满/✨\小满/✨(x5))
+[89m] ▫️ [UNKNOWN] 谢谢ICT。[UNKNOWN] 龙卷风跟夜蝶是完全没电。[UNKNOWN] 哦还有一首还有一首没唱对。[UNKNOWN] 还有一首找一下等一下。[UNKNOWN] 我记得我发了  (💬 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x10) / 满满桑(x5) / 😅(x5) / 婷婷(x5) / 😓(x3))
+[92m] 🔥 [UNKNOWN] 晚风吹动着竹林月光拉长了身影。[UNKNOWN] 萤火虫一闪闪漫山飞舞的铅笔。[UNKNOWN] 天上银河在发光地上风铃在歌唱。[UNKNOWN] 织女星在远方地老浪漫在歌唱。[UNKNOWN] 幸福在蔓延爱你永恒不孤单。[UNKNOWN] 偷偷的在思念那是我们相爱的琴行  (💬 灰泽满永远世界第一可爱🤍灰泽满永远世界第一可爱🤍灰泽满永远世界第一可爱🤍(x9) / 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x7) / 好听好听(x6) / 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x6) / 小满/✨\小满/✨\小满/✨\小满/✨(x6))
+[94m] ▫️ [UNKNOWN] 樱花草春载漫步的边唱。[UNKNOWN] 这么高吗  (💬 可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑(x11) / ✨\­小满/✨\小满/✨\小满/­✨\小满/✨\小满/✨\小满/✨(x8) / ✨\小满/✨\小满/✨\小满/✨\小满/✨\小满/✨\小满/✨好听的🔑好听的(x6) / 可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑(x6) / 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x6))
+[95m] ▫️ [UNKNOWN] 偷偷的在思念那是我们相爱的味道  (💬 可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑(x4) / ✨\­小满/✨\小满/✨\小满/­✨\小满/✨\小满/✨\小满/✨(x4) / 断气了(x3) / 好听好听(x3) / 可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑可爱的🔑(x3))
+[97m] ▫️ [UNKNOWN] 这个感觉谢谢。[UNKNOWN] 舰长谢谢你谢童聊寻的靓影的舰长。[UNKNOWN] 花家版。[UNKNOWN] 小准备谢谢看下这个这个小姐姐。[UNKNOWN] 马上就要迎来我们一起。[UNKNOWN] 哇塞好想哎呀我在说啥。[UNKNOWN] 其实我特别想说。[UNKNOWN] 本来说迎迎一起迎来这个十一月的第  (💬 别走(x18) / 黏住(x9) / 丨吧宝宝(x6) / 丨吧(x5) / 可以(x4))
+[98m] 🔥 [UNKNOWN] 一签的但是好像有点难。[UNKNOWN] 有点难可以吗。[UNKNOWN] 好还还剩四十分钟。[UNKNOWN] 哎。[UNKNOWN] 可是这个也应该这个十一月一号的嗯。[UNKNOWN] 纠结了纠结啊我先把这个念完了。[UNKNOWN] 谢谢三k档的喜欢你谢谢。[UNKNOWN] 较三三七的喜欢你童装  (💬 黏住(x32) / 别走(x23) / 丨吧宝宝(x6) / 考住(x6) / 可以(x5))
+[98m] 🔥 [UNKNOWN] 灭瓜的那些小莲谢啊。[UNKNOWN] 七的告白气球。[UNKNOWN] 谢送的水母的喜欢你。[UNKNOWN] 谢KMKIB。[UNKNOWN] 就不是很喜欢唱很喜欢听好。[UNKNOWN] 瓜唱机  (💬 黏住(x18) / 帅在哪(x9) / 别走(x8) / 真的很帅(x6) / 考住(x4))
+[101m] ▫️ [UNKNOWN] 你谢谢你哦谢灰色小夜灯。[UNKNOWN] 没有那么的呃不是很好听。[UNKNOWN] 两首两个吧这个月这个月有两个。[UNKNOWN] 哎。[UNKNOWN] 车。[UNKNOWN] 谢就因为这个因为这个呃。[UNKNOWN] 谢谢警花一号。[UNKNOWN] 很是很多事情都要请表现。[UNKNOWN] 签名啥的  (💬 赖了(x15) / 不尬不尬(x3) / 真是新衣？ / 那就是会 / 那就是新衣)
+[105m] ▫️ [UNKNOWN] 谢谢酷普酷普的喜欢你谢什么一  (💬 来来来(x4) / 谈什么(x3) / 别不来(x3) / 111 / hzm❤️stf)
+[106m] ▫️ [UNKNOWN] 然后办的那种很神秘的东西。[UNKNOWN] 看来奶农确实是今年很热的一个IP。[UNKNOWN] 眼球汤挺好吃的  (💬 男的女的(x6) / 还有下半场(x3) / 百鬼夜行(x3) / 查询满今色(x3) / 很普)
+[107m] ▫️ [UNKNOWN] 叫什么rich。[UNKNOWN] 你专门点的挺好喝的  (💬 讨厌你(x5) / 英语人(x4) / 你惊扰了witch / 要吃成胖宝宝了😭 / 懂你意思)
+[109m] ▫️ [UNKNOWN] 大家都是正经学习人而且都很刻苦啊。[UNKNOWN] 就发现平时班里面最乖的那种学生。[UNKNOWN] 带来上课。[UNKNOWN] 就是有一个超级乖乖女的一个学生。[UNKNOWN] 把他们家家微炉炉来来我他那那微微炉炉。[UNKNOWN] 书。[UNKNOWN] 他说他今天用这个微波炉炉她的书包  (💬 反差(x41) / onp(x13) / 神人(x9) / 神了(x5) / 压抑了(x4))
+[109m] 🔥 [UNKNOWN] 我说我靠啊就那种巨乖巧的那种啊。[UNKNOWN] 戴个眼镜的那种形象啊。[UNKNOWN] 就做灰字板旁边。[UNKNOWN] 我看她突然拎了一个微波炉。[UNKNOWN] 出现在这个教室里。[UNKNOWN] 然后里面里面拿出她的课本。[UNKNOWN] 他说啊今天有这个契机。[UNKNOWN] 学校可以可以这样子子不知知吗  (💬 onp(x11) / 反差(x9) / 神人(x8) / 魔了(x4) / 四眼(x4))
+[109m] 🔥 [UNKNOWN] 啊我说我知道但是我我会会么么。[UNKNOWN] 我说我知道道是我是我是逃。[UNKNOWN] 谢谢一个茶也布朗的喜欢你。[UNKNOWN] 写运游戏的喜欢你前头。[UNKNOWN] 谢谢你带的什么东西。[UNKNOWN] 女。[UNKNOWN] 别别来找灰子本聊天。[UNKNOWN] 他们也会来跟你聊天  (💬 onp(x4) / 那你带了什么 / 谁偷走了我的青春 / 很有创意 / 人家这么有趣你说人家反差)
+[112m] 🔥 [UNKNOWN] 会星们之有在一起。[UNKNOWN] 说说中文的那些那个小团体里。[UNKNOWN] 才能发挥自己稍微有趣的一面吧。[UNKNOWN] 啊那些人是至今不可能知道灰泽满说。[UNKNOWN] 中文的时候有多有意思。[UNKNOWN] 说英文的时候只能啊ok ok。[UNKNOWN] ok啊耶哦。[UNKNOWN] 哦谢谢金木发谣的披的配毛琴  (💬 oh yeah(x10) / 玉玉了(x4) / xtt拉我(x4) / xtt(x3) / okok(x3))
+[112m] 🔥 [UNKNOWN] 但是其实大家都挺好的。[UNKNOWN] 就那些人都蛮好的。[UNKNOWN] 他们是很愿意跟你去聊天。[UNKNOWN] 只是看你太太b了所以但你太脆壁了。[UNKNOWN] 谢西班烧烤的黑猫体温  (💬 oh yeah(x8) / onp(x6) / 没否认xny(x5) / 肯定不是绿冻(x4) / 反正不是绿冻(x3))
+[114m] ▫️ [UNKNOWN] 原来和鱼一样嘛都是为浮钱。[UNKNOWN] 时候是浮去人。[UNKNOWN] 曲。[UNKNOWN] 是雅雅吗。[UNKNOWN] 不是不是雅雅发的是谁发的。[UNKNOWN] 忘了抬棺吗。[UNKNOWN] 抬棺是雅雅发给灰泽麦的吗。[UNKNOWN] 好好荣幸啊。[UNKNOWN] 他说他难道他第一个等一下  (💬 hzm我浮起来了……(x6) / 外星人？(x5) / 抬棺(x5) / kly吗(x4) / 不然呢)
+[115m] 🔥 [UNKNOWN] 难道克罗雅的第一个选项是灰泽麦吗。[UNKNOWN] 他第一个那个呃他以为他会找第一口。[UNKNOWN] 或者是算了算了算了。[UNKNOWN] 可能是那口约了别人吗。[UNKNOWN] 因为他当时找灰泽买灰最麦很正绩。[UNKNOWN] 既然是首选吗。[UNKNOWN] 还是其他的玩过了。[UNKNOWN] 嗯哦是找不到人的才找你  (💬 你是最后一个(x10) / 还真是(x8) / 备胎(x6) / 只剩你了(x5) / 真的(x5))
+[115m] 🔥 [UNKNOWN] 真的假的不可能吧。[UNKNOWN] 嗯说的是灰灰你想一起玩那个吗。[UNKNOWN] 我说我最近啊我说十一月的可以看情况嘛。[UNKNOWN] 嗯很喜欢因为有点忙啊。[UNKNOWN] 他说他们怎么全都有人了。[UNKNOWN] 好吧那可能确实是后面一个是吧。[UNKNOWN] 懂你意思了。[UNKNOWN] 好我说我也想和你玩  (💬 我爱你(x12) / 我也爱你(x11) / 还真是(x5) / 备胎(x5) / 跳了(x5))
+[115m] 🔥 [UNKNOWN] 他说啊他说我我爱你。[UNKNOWN] 这个后俩是那种天天我爱你。[UNKNOWN] 就可以随便说说口的人吗。[UNKNOWN] 很厉害心动。[UNKNOWN] 现在拿招带下阿空。[UNKNOWN] 让绿洞飞猴装给男毕业。[UNKNOWN] 老师路边的狗只有一个能掉进水里。[UNKNOWN] 你想你想谁掉水里啊  (💬 我爱你(x12) / 这么恨(x12) / 我也爱你(x11) / ？？？(x10) / 语气对了(x6))
+[116m] 🔥 [UNKNOWN] 你们可以不要老是提到会在麦老。[UNKNOWN] 师故事里随便编的人物吗。[UNKNOWN] 就是有些人根本就是别再提了。[UNKNOWN] 可以的吗。[UNKNOWN] 你你应该可以知道是哪一个吧。[UNKNOWN] 嗯是雅团子吃这么好。[UNKNOWN] 谢谢明哲奇幻花心美一直不喜欢慧哀。[UNKNOWN] 是不是讨厌成绩好聪明漂亮的女生啊  (💬 这么恨(x15) / 我也爱你(x7) / 我爱你(x6) / 还在恨(x6) / 语气对了(x6))
+[116m] 🔥 [UNKNOWN] 还在恨成绩好的猴姐吗。[UNKNOWN] 那他很丑啊但是哦对不起啊。[UNKNOWN] 对不起我操有女生吗。[UNKNOWN] 完蛋了灰资本谢谢阿恩的。[UNKNOWN] 嗯对不起啊对不起。[UNKNOWN] 我俩明这个意思了发现没这个意思哎。[UNKNOWN] 呃呃这个意思是怎么说呢。[UNKNOWN] 嗯嗯  (💬 这么恨(x14) / ？？？(x8) / 这么生气(x6) / 太恨了(x6) / 恨也迷人(x6))
+[116m] 🔥 [UNKNOWN] 这个灰子板不想灰哀的原因很正常。[UNKNOWN] 什么你说什么可哀出轨啥的。[UNKNOWN] 可能我没有讨厌陈晓盼的聪明女生啊。[UNKNOWN] 然后前期贝尔摩的一直都是想杀这个会。[UNKNOWN] 人癌但是一直杀不成。[UNKNOWN] 那灰泽满就看着干着急啊。[UNKNOWN] 就小小年纪的时候在这个屏幕前就做  (💬 力挺(x17) / 懂你意思(x8) / 这么恨(x4) / 这么生气(x4) / 无终恨意(x4))
+[118m] 🔥 [UNKNOWN] 就特别的着急啊。[UNKNOWN] 就说啊怎么怎么可以怎么怎么怎么还。[UNKNOWN] 不杀杀不死还杀不死啊。[UNKNOWN] 有一张很性感的是有一张很性感的画面。[UNKNOWN] 就是贝尔蒙德坐在这个浴缸里。[UNKNOWN] 然后把这个飞镖就制到那个啊雪莉的这个。[UNKNOWN] 照片上  (💬 这么恨(x17) / 这么恨？(x13) / 恨也迷人(x10) / 杜甫(x8) / 太恨了(x8))
+[118m] 🔥 [UNKNOWN] 好像是那样子一个场景忘记了。[UNKNOWN] 就给灰金板看的特别心动。[UNKNOWN] 然后就觉得哎呀什么那个然后觉得啊就火。[UNKNOWN] 车一定要把他。[UNKNOWN] 炸死啊。[UNKNOWN] 然后这边就说哎哎我要我要准备姐加。[UNKNOWN] 他说小兰是天使灰键板很吃醋啊  (💬 这么恨(x15) / 这么恨？(x11) / 恨也迷人(x9) / ？？？(x9) / 你是？(x9))
+[119m] 🔥 [UNKNOWN] 明明只是救他一命。[UNKNOWN] 灰键板也可以救啊啊。[UNKNOWN] 如果那个那个时机灰家板思考一下。[UNKNOWN] 觉得也也是那种不见死不救。[UNKNOWN] 救人人怎么就叫要碰碰了。[UNKNOWN] 受受不了啊谢谢KMKYB啊。[UNKNOWN] 绿色的果冻奶黄色的龙飞飞的薄荷  (💬 ltp(x39) / 你是？(x14) / 恨也迷人(x10) / ？？？(x9) / onp(x8))
+[119m] 🔥 [UNKNOWN] 灰哀掉水里。[UNKNOWN] 你希望拿两个在水下人工呼吸。[UNKNOWN] 你怎么天天出这种考题啊。[UNKNOWN] 有啥意义意义。[UNKNOWN] 水下人工呼吸吗。[UNKNOWN] 那肯定选灰埃呀我操说实话会在哪。[UNKNOWN] 网上呼喷得了灰哀还是很有魅力的角色真。[UNKNOWN] 的很有魅力力  (💬 ltp(x42) / 恨也迷人(x16) / 色魔(x7) / 你是？(x5) / 找补(x5))
+[119m] 🔥 [UNKNOWN] 这聪明明可爱。[UNKNOWN] 爱谁不想跟跟水下人呼呼吸一下。[UNKNOWN] 虽然只是网上说说得了呀。[UNKNOWN] 但是你他是个很有挺不错的一个角色。[UNKNOWN] 真的恨眼迷人啊。[UNKNOWN] 是这样子的真的啊不是恋童癖啊。[UNKNOWN] 她就是很智商很高的一个女生  (💬 ltp(x40) / 恨也迷人(x15) / 色魔(x7) / 跳了(x5) / 一秒饭菜(x4))
+[120m] ▫️ [UNKNOWN] 虽然后面画风有点变了。[UNKNOWN] 她明明已经是吃过药。[UNKNOWN] 其实很久没看了像coce的运动。[UNKNOWN] 所以就那种小姐姐就是一个小姐。[UNKNOWN] 是在飞机上看的。[UNKNOWN] 近期很好看的是万圣节的一个。[UNKNOWN] 很好看。[UNKNOWN] 那个什么贝壳街的一个啥东西也不错  (💬 恨也迷人(x7) / 灰help灰(x5) / ltp(x4) / 智性恋(x3) / 合法(x3))
+[122m] ▫️ [UNKNOWN] 现在不会看了。[UNKNOWN] 正常吧算是好评率很高的。[UNKNOWN] 好喜欢那个荷叶和服部的CP。[UNKNOWN] 是的你不是最不合CP之人吗。[UNKNOWN] 辅务频次呃。[UNKNOWN] 会键板。[UNKNOWN] 确实是是黑皮你喜欢黑皮吗。[UNKNOWN] 没人黑皮皮相比白皮肯肯定更喜欢黑皮  (💬 唐红的恋歌(x11) / 迷宫的十字路口 / ？？？ / [UPOWER_1298779265_汗] / 代入了)
+[125m] 🔥 [UNKNOWN] 对。[UNKNOWN] 对了。[UNKNOWN] 因为因为以前以前老是被灌输那种啊。[UNKNOWN] 皮肤白是有点啊那种娘腔嘛。[UNKNOWN] 就是那种感觉。[UNKNOWN] 就以前班里皮肤白的男生可能会被怼一下。[UNKNOWN] 说这个人很很娘嘛。[UNKNOWN] 但是灰尘感觉这是一个不太好的一个  (💬 内个(x35) / 跳了(x34) / 不黑不吹(x7) / ？？？(x7) / 比较硬(x6))
+[125m] 🔥 [UNKNOWN] 可能是个不太好的刻板印象吧。[UNKNOWN] 但是现在肯定没有这样的感受啊。[UNKNOWN] 是不是有那种天生都晒不黑的人也。[UNKNOWN] 我不喜欢那个啊。[UNKNOWN] 对我不喜欢那个想害怕害怕。[UNKNOWN] 灰子们。[UNKNOWN] 你觉得哎呀这句话是不是会很很那个很恶  (💬 内个(x45) / 种族骑士(x16) / 跳了(x11) / 种族骑士来了(x9) / 比较硬(x6))
+[126m] 🔥 [UNKNOWN] 心。[UNKNOWN] 但大晚上无所谓了。[UNKNOWN] 灰泽满觉得除了除了亚洲人。[UNKNOWN] 就除了亚亚裔啊。[UNKNOWN] 就是除了除了呃黄总算了。[UNKNOWN] 这个说起来太明显了。[UNKNOWN] 不行啊。[UNKNOWN] 就其他人在绘字板这里看来都有升职隔离。[UNKNOWN] 哎就是对其他人都完全不感冒  (💬 种族骑士(x38) / 内个(x20) / 种族骑士来了(x19) / 骑士(x13) / 骑士来了(x8))
+[126m] 🔥 [UNKNOWN] 就是很害怕那种感觉啊。[UNKNOWN] 难道哎其实外键版其实很很小的时候。[UNKNOWN] 就跟很多外校认识。[UNKNOWN] 就小的时候也也知道很多外教啊。[UNKNOWN] 就跟你看就有很多外教。[UNKNOWN] 就幼儿园的时候。[UNKNOWN] 幼儿园就很请很多外教。[UNKNOWN] 所以并不是说因为你小的时候形成了  (💬 种族骑士(x22) / 种族骑士来了(x11) / onp(x5) / 骑士(x5) / 骑士了(x4))
+[126m] 🔥 [UNKNOWN] 什么世界观。[UNKNOWN] 所以被打破了所以你不想被打破。[UNKNOWN] 不是。[UNKNOWN] 就从小的时候就有点害怕这种感觉。[UNKNOWN] 就天生的可能是我猜的我猜的啊。[UNKNOWN] 这个真这个真不好真真不合适啊。[UNKNOWN] 因为以以前那种而且灰字版脸盲。[UNKNOWN] 终于有和你想的一样的了啊  (💬 种族骑士(x5) / 对咯(x3) / 骑士(x3) / 还真是(x3) / 懂你意思(x3))
+[127m] ▫️ [UNKNOWN] 就像你在一个这个仙侠小说里。[UNKNOWN] 哎就灰质般可能是人人类。[UNKNOWN] 他们是那个仙人族。[UNKNOWN] 有一有一点吧有一点吧。[UNKNOWN] 一起看全网最好看的。[UNKNOWN] 柯南解说电影吗。[UNKNOWN] 辉之版刚关注一个up主。[UNKNOWN] 哎只能说一码归一马  (💬 兽人(x12) / 羊人(x9) / 哥布林(x6) / ？？？(x5) / 羊人tv(x4))
+[129m] ▫️ [UNKNOWN] 是他是他是的是是他是他。[UNKNOWN] 我不说是谁呀。[UNKNOWN] 是这个是这个对。[UNKNOWN] 看完他的那些事视频。[UNKNOWN] 很少很少说。[UNKNOWN] 我靠。[UNKNOWN] 嗯。[UNKNOWN] 完全为了水直播水不是水。[UNKNOWN] 面那个。[UNKNOWN] 姐姐来主动也不可能是妹妹啊  (💬 麦子(x3) / 灰考子(x3) / 捏着鼻子看(x3) / 收到(x3) / 是他)
+[131m] 🔥 [UNKNOWN] 不知道啊。[UNKNOWN] 不知道啊不要假定人家多大了。[UNKNOWN] 超级超级让灰金版震惊。[UNKNOWN] 就会金板以为这是灰金版的女粉。[UNKNOWN] 然后居然是个大雷coser当时很震惊。[UNKNOWN] 然后后面一看说啊原来是因为三谋。[UNKNOWN] 所以互关的这样子  (💬 色魔(x24) / 色魔满姐(x12) / 大大大(x9) / 看看(x8) / 色泽满灰魔(x7))
+[131m] 🔥 [UNKNOWN] 后面他做了是谁认识一下啊。[UNKNOWN] b站的大雷抠s还少吗。[UNKNOWN] 感觉我超级多啊。[UNKNOWN] 后面那个啊这是一个呃b站。[UNKNOWN] 我是这样想的结果结果我果然不看了。[UNKNOWN] 但现在感觉唱剑区没有以前那么火了。[UNKNOWN] 焦虑的一个事情啊  (💬 色魔(x6) / 色魔满姐(x5) / 大大大(x5) / 看看(x5) / 细说(x4))
+[133m] ▫️ [UNKNOWN] 就需要那种专业老师辅导一下吧。[UNKNOWN] 唉抖舞是最简单的灰。[UNKNOWN] 是这么想我不能直接的。[UNKNOWN] 全都是全都是全都是手势舞也太变态了吧。[UNKNOWN] 你得抓紧了你你再不练。[UNKNOWN] 你就完蛋了。[UNKNOWN] 因为因为幼儿园的时候惠姿满有婴儿肥  (💬 大摆锤(x10) / 老师男的女的(x5) / 大大方方(x3) / 朴泽满(x3) / 男教练来了😭)
+[135m] 🔥 [UNKNOWN] 然后会在满满妈非常的焦虑。[UNKNOWN] 他非常崩溃。[UNKNOWN] 他觉得女儿没有遗传来他的那个骷髅兵的。[UNKNOWN] 基因。[UNKNOWN] 他特别的伤心。[UNKNOWN] 他跟那个幼儿园老师还吐槽说。[UNKNOWN] 哎呀。[UNKNOWN] 我女儿就不太像我啊之类这种感觉啊  (💬 胖宝宝(x27) / 暗示(x16) / 暗示了(x7) / 肥泽满(x6) / 捏捏小脸(x4))
+[135m] 🔥 [UNKNOWN] 到到了大班的时候。[UNKNOWN] 惠金满才稍微的就抽调一点。[UNKNOWN] 就稍微的可能婴儿肥减下去了一点。[UNKNOWN] 他才说安心一点。[UNKNOWN] 那种独创场景感觉都有很多积分。[UNKNOWN] 够是够。[UNKNOWN] 所以别焦虑这个店了。[UNKNOWN] 病态了吧很搞笑  (💬 胖宝宝(x26) / 暗示(x7) / 肥泽满(x4) / 大肥区(x4) / 肥泽满灰猪(x4))
+[136m] 🔥 [UNKNOWN] 我多嘴问一句你和你爸爸长得像吗。[UNKNOWN] 呃呃。[UNKNOWN] 思考一下。[UNKNOWN] 灰心满觉得爸妈颜值在灰色满之上吧。[UNKNOWN] 你要实在说的话。[UNKNOWN] 他们不一定希望灰字满长得像。[UNKNOWN] 不一定说真的灰心。[UNKNOWN] 满都怀疑他们不希望别人说啊  (💬 顶普(x80) / 好普(x14) / 暗示(x12) / 抱错了(x11) / 那就是不像(x7))
+[136m] 🔥 [UNKNOWN] 李人甲长得很像你我怀疑啊。[UNKNOWN] 因为辉元炫长得还可能因为因为灰心满爸。[UNKNOWN] 妈却长得还可。[UNKNOWN] 以长得挺好看。[UNKNOWN] 灰心版就正常。[UNKNOWN] 就路上啊灰甲就只能当普普通路人甲。[UNKNOWN] 所以说我怀疑他们都会。[UNKNOWN] 哎呀我跟你讲个最恶心的一个点  (💬 顶普(x71) / nbz(x25) / 标志(x20) / 哈哈哈(x11) / 好普(x10))
+[137m] 🔥 [UNKNOWN] 有一次出门的时候啊。[UNKNOWN] 有一次出门的时候。[UNKNOWN] 呃应该不是出门的时候。[UNKNOWN] 就某一次吧。[UNKNOWN] 嗯。[UNKNOWN] 灰心满和满地。[UNKNOWN] 我们两个还有满妈三个人可能跟他。[UNKNOWN] 的朋友一起见面。[UNKNOWN] 他就说了一句啊  (💬 nbz(x41) / 标志(x21) / 顶普(x17) / 哈哈哈(x11) / 脸色对了(x10))
+[137m] 🔥 [UNKNOWN] 你女儿跟你长得还挺像的哦。[UNKNOWN] 不满地应该不在场。[UNKNOWN] 然后买买就唉乞祷否认。[UNKNOWN] 他说啊没有我儿子长得更像。[UNKNOWN] 我是这样的。[UNKNOWN] 嗯。[UNKNOWN] 原来讲第一张拍太满还蛮标志的标志啊。[UNKNOWN] 很一个男标志  (💬 nbz(x41) / 标志(x21) / 哈哈哈(x11) / 脸色对了(x10) / 这么生气(x8))
+[137m] 🔥 [UNKNOWN] 对他说没有没有我儿子长得更像。[UNKNOWN] 他说你也看一下我儿子的照片。[UNKNOWN] 什么意思什么意思什么意思啊。[UNKNOWN] 什么意思。[UNKNOWN] 我当时真的是。[UNKNOWN] 但是他可能没这个意思啊。[UNKNOWN] 他可能真的觉得觉得儿子长长得更像自己。[UNKNOWN] 吧  (💬 nbz(x34) / 这么生气(x7) / 男标志(x6) / 羞辱(x5) / 蛐蛐(x4))
+[138m] 🔥 [UNKNOWN] 但其实是这段你会就然听出了一点弦外之。[UNKNOWN] 音的感觉。[UNKNOWN] 嗯。[UNKNOWN] 一家人不太熟了。[UNKNOWN] 谢谢鸣鸣蛇牵换我去满城是不是。[UNKNOWN] 幼儿园上的拉丁舞课。[UNKNOWN] 三至幼儿园的课外。[UNKNOWN] 他家的服装是那个黑色舞蹈服啊  (💬 脸色对了(x4) / 哈人(x4) / 已特定(x4) / 已切割(x3) / 语气对了(x3))
+[138m] 🔥 [UNKNOWN] 什么玩意。[UNKNOWN] 你别吓到我了。[UNKNOWN] 而且有种种隔的的。[UNKNOWN] 青出于蓝。[UNKNOWN] 应该没人他下播了吗。[UNKNOWN] 他下播了吗。[UNKNOWN] 我不知道他问那个几号玩那个游戏呃。[UNKNOWN] 能别说只剩几分钟了吗。[UNKNOWN] 只剩几分钟了十一月的礼物是啥  (💬 已特定(x4) / 哈人(x3) / 还真是(x3) / aa(x3) / 👩发起了语音通话👩发起了语音通话👩发起了语音通话)
+[140m] 🔥 [UNKNOWN] 呃别上是随机想哎。[UNKNOWN] 其实感觉感觉就是很哎。[UNKNOWN] 其实这个月的挺实用的啊。[UNKNOWN] 算了。[UNKNOWN] 会计本这样有点我操嘴里没有没有没有下。[UNKNOWN] 个月的。[UNKNOWN] 我不好说我建议建建议别别想啊。[UNKNOWN] 哎。[UNKNOWN] 然后觉得自己虽然不能说舞痴  (💬 别上(x24) / 那就是要上(x6) / 本来不想上的(x4) / 收到(x3) / 别上都来了(x3))
+[142m] 🔥 [UNKNOWN] 但是稍微也不是那么的协调的一个人。[UNKNOWN] 就是是一个长征啊是个万里长征。[UNKNOWN] 所以真的得下很多功夫了。[UNKNOWN] 真的来点音声嗯很尴尬会怎么。[UNKNOWN] 阴身是棒毒类型。[UNKNOWN] 之前有被人这么评价过。[UNKNOWN] 所以不太想不太搞音生  (💬 蠕动(x28) / 已特定(x8) / 武痴(x6) / 僵尸(x6) / 看看(x5))
+[142m] 🔥 [UNKNOWN] 超级尴尬的那种。[UNKNOWN] 不太会不太会那个嗯情绪似的  (💬 已特定(x45) / 就要棒读(x5) / 已标记(x5) / 收到(x3) / 大大方方用(x3))
+[143m] 🔥 [UNKNOWN] 你们就天天在群里安静恩信是什么恩信啊。[UNKNOWN] 马上还有三十秒的时候。[UNKNOWN] 就要迎来我们十一月的第一天了。[UNKNOWN] 这第一次灰金版跟你们一起跨越哦。[UNKNOWN] 应该是吧。[UNKNOWN] 真的是第一次哦。[UNKNOWN] 这是个可喜可贺的时间啊。[UNKNOWN] 哇塞哒那啊  (💬 到了(x43) / 11月快乐(x36) / 十一月快乐(x18) / iceb(x11) / 娘养(x9))
+[143m] 🔥 [UNKNOWN] 啊啊。[UNKNOWN] 完了这首歌又洗脑。[UNKNOWN] 嗯行嗯谢安尔和啡娅的进账。[UNKNOWN] 谢啊好。[UNKNOWN] 很心动了谢谢。[UNKNOWN] 灵光闪闪的满城十一月快乐。[UNKNOWN] 十日快乐。[UNKNOWN] 十日快还没到啊还没到啊。[UNKNOWN] 还没到  (💬 到了(x43) / 11月快乐(x40) / 十一月快乐(x24) / iceb(x9) / 娘养(x5))
+[144m] 🔥 [UNKNOWN] 哎呀我重新加载了提示器。[UNKNOWN] 我去你大爷。[UNKNOWN] 哦到了。[UNKNOWN] 对现在到了耶快越了。[UNKNOWN] 快日了。[UNKNOWN] 是的是的是的哈哈不错不错。[UNKNOWN] 十一月的话灰金版确实。[UNKNOWN] 这是我新嗯新东西见面吧。[UNKNOWN] 哎呀  (💬 11月快乐(x36) / 到了(x28) / 十一月快乐(x26) / 拜拜拜拜(x16) / 丨吧宝宝(x9))
+[145m] 🔥 [UNKNOWN] 拜拜啊拜拜大家快乐。[UNKNOWN] 很完美的万圣节啊我们下次再见面吧。[UNKNOWN] 我们下次直播再见面吧。[UNKNOWN] 咸探的见长谢谢你谢谢你啊。[UNKNOWN] 谢谢东东大大啊今天是你生日吗。[UNKNOWN] 满城我今天生日祝你生日快乐。[UNKNOWN] 你万圣节生日。[UNKNOWN] 哎你好厉害啊祝你生日快乐  (💬 那咋了(x40) / 丨吧宝宝(x16) / 拜拜拜拜(x16) / 还真是(x10) / 晚安晚安(x9))
+[145m] 🔥 [UNKNOWN] 满满生日快乐啊也祝你生日快乐。[UNKNOWN] 哦你好不错写了十些高里灰金版。[UNKNOWN] 剑里是有音声的话。[UNKNOWN] 对于律动来说是最好的。[UNKNOWN] 例如实体店里考虑成本。[UNKNOWN] 这模型吧阴声的话自己也方便。[UNKNOWN] 但是有一个很恶心的点。[UNKNOWN] 就是呃电子礼物会有人开源  (💬 那咋了(x66) / 感谢开源(x18) / 还真是(x11) / 互联网精神(x10) / 感谢同担(x9))
+[145m] 🔥 [UNKNOWN] 就有那种特别无私啊。[UNKNOWN] 哎呀你咋这么无私啊。[UNKNOWN] 就他会直接发出来。[UNKNOWN] 他直接发出来就说哎呀。[UNKNOWN] 建礼免费的觉得自己多么多厉害。[UNKNOWN] 一样觉得自己是全世界最慷慨之人。[UNKNOWN] 老厉害了。[UNKNOWN] 然后底下一堆说哎呀  (💬 那咋了(x67) / 感谢开源(x20) / 还真是(x11) / 互联网精神(x11) / 感谢同担(x9))
+[145m] 🔥 [UNKNOWN] 感谢感谢啊感谢啊感谢感谢。[UNKNOWN] 嗯。[UNKNOWN] 哼我觉得这个对就是会有点不公平的一些。[UNKNOWN] 事。[UNKNOWN] 就其他就不是所有的。[UNKNOWN] 就其他人如果同样上线了。[UNKNOWN] 会有点不爽。[UNKNOWN] 就所以帕奇这样的争执啊。[UNKNOWN] 感谢老板啊  (💬 那咋了(x33) / 感谢开源(x14) / 互联网精神(x9) / 我没意见(x9) / 圣人(x8))
+[146m] 🔥 [UNKNOWN] 对。[UNKNOWN] 他一个人发了倒是爽了。[UNKNOWN] 嗯感谢从南开元。[UNKNOWN] 是的是的这样子所以就说算了吧。[UNKNOWN] 嗯。[UNKNOWN] XTT拉我老佛爷复复我的什么玩意。[UNKNOWN] 鼠餐垫尽量搞得好一点吧。[UNKNOWN] 嗯尽量不要把你们吃中毒啊  (💬 那咋了(x7) / 我没意见(x7) / 圣人(x5) / 感谢开源(x5) / 😅(x5))
+[147m] 🔥 [UNKNOWN] 或者你们吃中毒的。[UNKNOWN] 不要呃不要说是灰心。[UNKNOWN] 买那个嗯餐具的问题啊。[UNKNOWN] 可以当摆设也行。[UNKNOWN] 嗯好上次的没舍得用啊。[UNKNOWN] 哎呀别舍不得了。[UNKNOWN] 嗯谢谢呃我忘了看到他了。[UNKNOWN] Cf长瞬间小心测虎  (💬 0人想听(x17) / 丨吧宝宝(x15) / 0人(x14) / 没有(x13) / 拜拜拜拜(x11))
+[147m] 🔥 [UNKNOWN] 要销毁你的亲命距离。[UNKNOWN] 不要牵起了亲命距离好了。[UNKNOWN] 真的生的滚了真的滚了。[UNKNOWN] 坚持播到结束了拜。[UNKNOWN] 拜拜。[UNKNOWN] 好我们下期直播再见吧。[UNKNOWN] 嗯就来一个这个就还想再听一遍。[UNKNOWN] 有没有人想再听一遍这个八嘎呀  (💬 0人想听(x19) / 丨吧宝宝(x16) / 0人(x14) / 没有(x13) / 拜拜拜拜(x11))
+[147m] 🔥 [UNKNOWN] 这首歌有没有人很很想听这首歌。[UNKNOWN] 嗯哼嗯退嗯真痛。[UNKNOWN] 哎其实BBI里是有首歌也挺好听的。[UNKNOWN] 叫做什么买一个朋友。[UNKNOWN] 嗯嗯。[UNKNOWN] 哼我忘了忘了是不是这首歌名人呀。[UNKNOWN] 放到下播曲好吗。[UNKNOWN] 听这首歌会做噩梦睡觉吗  (💬 0人想听(x18) / 0人(x13) / 没有(x10) / 想听(x6) / 丨吧宝宝(x5))
+[148m] 🔥 [UNKNOWN] 应该不会吧我也是噩梦的。[UNKNOWN] 会做美梦哦是的。[UNKNOWN] 嗯my are。[UNKNOWN] And the bed guy。[UNKNOWN] i know so you are。[UNKNOWN] tough guy。[UNKNOWN] Come the bed。[UNKNOWN] 谢谢阿拉的点长企业的话去了八气的  (💬 三审维持原判(x10) / 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x8) / 娘念(x7) / 维持原判(x4) / 好听的🔑(x3))
+[150m] 🔥 [UNKNOWN] 八气的八气的晚安。[UNKNOWN] 大家气泡应该放松  (💬 晚安晚安(x12) / 好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑好听的🔑(x3) / ？？？(x3) / 晚安宝宝 / 晚安哦)
