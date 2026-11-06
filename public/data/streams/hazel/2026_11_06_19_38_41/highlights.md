@@ -1,0 +1,212 @@
+## 晚安回复
+
+---
+generatedAt: "2026-11-06T14:04:09.348Z"
+sourceHighlight: "录制-1713546334-20261106-193841-377-和雅雅玩一会儿游戏_AI_HIGHLIGHT.txt"
+provider: "daiYu"
+model: "gpt-6-luna"
+fallback: false
+attempts:
+  - provider: "daiYu"
+    model: "gpt-6-luna"
+    status: "success"
+    finishReason: "completed"
+    maxTokens: 100000
+    completionTokens: 288
+    promptTokens: 28377
+    cachedTokens: 28160
+    cacheWriteTokens: 0
+    reasoningTokens: 211
+    apiModeRequested: "responses"
+    apiModeUsed: "responses"
+    sharedPromptCacheKey: "e27e69a4e38b0a6bc5e3b58c95ffd2c872b1b08c8ece9a6d7b2393156a08e06c"
+    sharedPromptPrefixChars: 38305
+    explicitPromptCache: "implicit_routed"
+    promptCacheRolloutBucket: 5396
+    totalTokens: 28665
+    requestId: "99f0b7c2-ba75-4f39-97e4-4b3d60d73b10"
+    responseId: "resp_0499a5ac261e59c2016aedde43baf087d08d203af8413a69ec"
+    requestStarted: true
+---
+从数字猜37到青蛙跳喷，满神今天是把智力和物理一起关机了，全球首通终于来了，语气也对了。播到浑身发抖还惦记明天的游戏，赶紧吃点东西休息，别真把自己播没了。
+
+---
+
+## Highlight
+
+【摘要】(保留率: 前35%热度 + 10%随机)
+---
+【参与者】计划参与: 无
+【参与者】实际出声: 无
+【归属说明】名单不证明逐句身份；实际出声仅指音轨匹配，也可能来自被观看内容。UNKNOWN和匿名标签不可归给房主。
+---
+[0m] 🔥 [UNKNOWN] 他是你觉得是老还是不老。[UNKNOWN] 就这种感觉了。[UNKNOWN] 嗯好吧。[UNKNOWN] 其实我觉得其实也蛮好问的。[UNKNOWN] 比如说我说我要是有这个数量的。[UNKNOWN] 我要是有这个数量这个数字的。[UNKNOWN] 你说你说什么一点想要说好了啊啊。[UNKNOWN] 换一个不太棒了啊啊  (💬 48(x35) / 4016(x24) / 30(x6) / iceb(x6) / 不尬不尬(x6))
+[0m] 🔥 [UNKNOWN] 我要是有这颗数字的啊。[UNKNOWN] 钱我能不能啊买一台新电脑。[UNKNOWN] 可以可以可以也行也行。[UNKNOWN] 对吧。[UNKNOWN] 也行这个就很好定义大范围了。[UNKNOWN] 那就一到我觉得一到一百。[UNKNOWN] 因为我们只能问十个问题。[UNKNOWN] 好吧一到一百吧  (💬 48(x47) / 4016(x21) / 40.16(x9) / 😅(x8) / 88(x7))
+[0m] 🔥 [UNKNOWN] 然后我这边我想个数字啊。[UNKNOWN] 很难。[UNKNOWN] Ok哎我觉得这数字很直播间很难。[UNKNOWN] 我觉得很难。[UNKNOWN] 因为一到一百。[UNKNOWN] 其他有很多个数字。[UNKNOWN] 一到一百这太好猜了。[UNKNOWN] 我觉得很好猜很好猜行呃。[UNKNOWN] 哎呃我们先说清楚啊  (💬 48(x57) / 4016(x17) / 40.16(x8) / 67(x7) / 88(x7))
+[0m] 🔥 [UNKNOWN] 只可以整数不带小数点呢。[UNKNOWN] 只可以整数啊。[UNKNOWN] 我知道不带小数点。[UNKNOWN] 但是我就想说。[UNKNOWN] 呃整数 Ok懂懂你思。[UNKNOWN] 我还以为你说只能嗯嗯只能是那我。[UNKNOWN] 五五的倍数呢我想一想。[UNKNOWN] 嗯。[UNKNOWN] ok我我想好  (💬 48(x38) / 😅(x11) / 67(x9) / 4016(x9) / 40.16(x6))
+[1m] 🔥 [UNKNOWN] 我听我也我也想好了。[UNKNOWN] Ok ok谁先问。[UNKNOWN] 呃那我等一下。[UNKNOWN] 我把这个字体颜色调一下。[UNKNOWN] 我怕这个大家看不见。[UNKNOWN] 我本来想的是设数字设定什么。[UNKNOWN] 一到二十万只可以了。[UNKNOWN] 可以了别别剧透啊  (💬 48(x29) / 67(x11) / 😅(x10) / 4016(x8) / 不尬不尬(x8))
+[1m] 🔥 [UNKNOWN] 但们不要剧透啊。[UNKNOWN] 但们不能那个啥我不看他们。[UNKNOWN] 呃我们只能互相问十个问题是吧。[UNKNOWN] 嗯。[UNKNOWN] 啊。[UNKNOWN] 你。[UNKNOWN] 我们可以问个位数双位数吗。[UNKNOWN] 是不是这个不行啊。[UNKNOWN] 这个。[UNKNOWN] 这可以吗  (💬 48(x18) / 不尬不尬(x14) / 😅(x12) / 67(x11) / 不尬(x8))
+[1m] 🔥 [UNKNOWN] 不不问了吧播了吧。[UNKNOWN] 因为一共才一百个数字了啊。[UNKNOWN] Ok嗯ok。[UNKNOWN] 我把弹幕关一下先 算了算了。[UNKNOWN] 我们不看就行了。[UNKNOWN] 那那你先问吧。[UNKNOWN] 好。[UNKNOWN] 我呃这个我的数字就是。[UNKNOWN] 啊我如果我如果有  (💬 笑牛魔(x35) / 不尬不尬(x25) / 不尬(x14) / 😅(x12) / 高能(x7))
+[2m] 🔥 [UNKNOWN] 我如果有。[UNKNOWN] 我要是吃我那个数字分量的。[UNKNOWN] 就是就是就是就是。[UNKNOWN] 就是能我能吃一顿饭吗。[UNKNOWN] 我那个数字的钱够我吃一顿饭吗。[UNKNOWN] 够是吧。[UNKNOWN] 嗯ok ok我我觉得是够的啊。[UNKNOWN] 我不知道你平时吃啥啊  (💬 笑牛魔(x36) / 不尬不尬(x21) / 不尬(x12) / 😅(x9) / 高能(x8))
+[2m] 🔥 [UNKNOWN] 行我不知道你平均吃的什么。[UNKNOWN] 就是你要吃那个你喜欢。[UNKNOWN] 吃的那个大黄鱼。[UNKNOWN] 还是说吃你的那个什么披萨。[UNKNOWN] 那那肯定不够了。[UNKNOWN] Ok ok行这个够了。[UNKNOWN] 我觉得是很正常的。[UNKNOWN] 一个是一个夹克  (💬 不尬不尬(x18) / 笑牛魔(x13) / ？？？(x12) / 😅(x11) / ？？？？(x6))
+[2m] 🔥 [UNKNOWN] 行ok ok ok没吧问吗。[UNKNOWN] 嗯。[UNKNOWN] 我这个数字的人。[UNKNOWN] 如果。[UNKNOWN] 参加。[UNKNOWN] 如果你在等一下我思考一下。[UNKNOWN] 如果参加高考。[UNKNOWN] 你觉得是正常的。[UNKNOWN] 还是说是不正常。[UNKNOWN] 等等一下什么叫参加  (💬 ？？？(x13) / 😅(x11) / 不尬不尬(x11) / iceb(x11) / 高能(x7))
+[3m] 🔥 [UNKNOWN] 不应该这么说。[UNKNOWN] 应该说我这个数字的人。[UNKNOWN] 如果在那个大学里。[UNKNOWN] 你遇见就当你的同学是这个人。[UNKNOWN] 你觉得是正常还是不正常。[UNKNOWN] 呃什么意思。[UNKNOWN] 你是说比如说你的。[UNKNOWN] 同班同学有这个人数正不正常吗  (💬 ？？？(x13) / 😅(x13) / iceb(x10) / 你是人类吗(x6) / 不尬不尬(x5))
+[3m] 🔥 [UNKNOWN] 有这个有这个人也不对。[UNKNOWN] 不不是有这个人数。[UNKNOWN] 是有这个年龄的人。[UNKNOWN] 你觉得正不正常哦。[UNKNOWN] 这个年龄的人啊对哦。[UNKNOWN] 就这个年纪人是在上学。[UNKNOWN] 你觉得正常吗。[UNKNOWN] 不太正不太正常吧。[UNKNOWN] 但是非要说的话也对吧  (💬 😅(x14) / iceb(x9) / ？？？(x6) / 转人工(x6) / 你是人类吗(x5))
+[3m] 🔥 [UNKNOWN] 那有万一有人基因突变呢对吧。[UNKNOWN] 对吧。[UNKNOWN] 那那不是很正常吧。[UNKNOWN] 不不是很正常啊啊。[UNKNOWN] 不正常。[UNKNOWN] Ok ok是那种好是那种天才。[UNKNOWN] 你说我不正常还是那种啊。[UNKNOWN] 这是新的问题了。[UNKNOWN] Ok ok新是新的问题了  (💬 😅(x12) / 不尬不尬(x8) / 两个高能(x7) / 两个外国人(x7) / 两个iceb(x6))
+[4m] 🔥 [UNKNOWN] 嗯嗯。[UNKNOWN] 那我的第二个问题我想想哦。[UNKNOWN] 中午吃晚饭了是吧。[UNKNOWN] 那肯定不会特别小了。[UNKNOWN] 那我。[UNKNOWN] 嗯。[UNKNOWN] 我哦这个数字的话。[UNKNOWN] 我们这个数字你说够吃一顿饭。[UNKNOWN] 我觉得应该我觉得应该我猜测  (💬 菜菜子(x46) / 难说(x34) / 笑牛魔(x12) / 不好说(x11) / 😅(x9))
+[4m] 🔥 [UNKNOWN] 应该选的数字还是不是那么小的。[UNKNOWN] 我们应该我们应该这个。[UNKNOWN] VR的所有level的年龄。[UNKNOWN] 应该都比这个数字小吧。[UNKNOWN] 是VR所有level的年龄。[UNKNOWN] 都比这个数字小吗。[UNKNOWN] 你的问题是这个吗。[UNKNOWN] 对  (💬 菜菜子(x58) / 难说(x43) / 笑牛魔(x12) / 不好说(x11) / 菜菜子呢(x11))
+[4m] 🔥 [UNKNOWN] 我们应该都没有做出这个。[UNKNOWN] 我觉得是的我觉得是的哦。[UNKNOWN] ok ok ok ok。[UNKNOWN] 我觉得都比这个数字小啊。[UNKNOWN] 是的ok ok ok好聊该我们。[UNKNOWN] 呃我问个我觉得我。[UNKNOWN] 刚刚那个问题问的是个肺语问题  (💬 菜菜子(x57) / 难说(x40) / 菜菜子呢(x11) / 菜菜子？(x10) / 不好说(x10))
+[5m] 🔥 [UNKNOWN] 所以我要换一个换一个比较有。[UNKNOWN] 嗯哎我真忘了我可真。[UNKNOWN] 忘了我之前要问啥哦。[UNKNOWN] ok这个年龄的人嗯啊。[UNKNOWN] 你觉得他的我思考一下。[UNKNOWN] 哎话说我想确认一件事情啊。[UNKNOWN] 我问的这个问题。[UNKNOWN] 我说的够不够  (💬 菜菜子(x18) / 难说(x11) / 日元(x11) / 😅(x7) / 罕见(x7))
+[5m] 🔥 [UNKNOWN] 吃一顿饭是以人民币为单位啊。[UNKNOWN] 是不是以澳币。[UNKNOWN] 不是澳币也不是英镑啊。[UNKNOWN] 不是英镑啊不是英镑啊。[UNKNOWN] 什么意思。[UNKNOWN] 为什么要强调英镑啊。[UNKNOWN] 人民币啊人民币啊。[UNKNOWN] 好赶紧想一个问题。[UNKNOWN] 等一下我在思考  (💬 日元(x11) / 😅(x10) / 罕见(x8) / ？？？(x7) / ltp(x7))
+[5m] 🔥 [UNKNOWN] 想一下。[UNKNOWN] 啊这个这个这个年龄。[UNKNOWN] 就你这个数字人的年龄。[UNKNOWN] 你觉得他呃没结婚这么就结。[UNKNOWN] 我想想应该这么说人家结婚了。[UNKNOWN] 正不正常结婚了是是你的数字啊。[UNKNOWN] 你的数字就是结婚。[UNKNOWN] 就是你给我的数字  (💬 ltp(x40) / 😅(x9) / 罕见(x7) / 16(x6) / 日元(x5))
+[6m] 🔥 [UNKNOWN] 对嗯。[UNKNOWN] 不太正常。[UNKNOWN] 不太正常。[UNKNOWN] 但是。[UNKNOWN] 他他这个数字结婚了不太正常是吧。[UNKNOWN] 不太正常。[UNKNOWN] 但是好像。[UNKNOWN] 说不定在这片广袤。[UNKNOWN] 就是地球上有些神秘的国度。[UNKNOWN] 那说这个但是不太正常啊  (💬 ltp(x40) / 😅(x9) / 16(x7) / 结过婚我也认(x4) / 14(x3))
+[6m] 🔥 [UNKNOWN] 不太正常。[UNKNOWN] 是那应该很小。[UNKNOWN] 我觉得你这个数字。[UNKNOWN] 我觉得你的数字应该很小。[UNKNOWN] 就是我目前的一个猜测。[UNKNOWN] 嗯好了我要该你了。[UNKNOWN] 嗯已经两个问题了。[UNKNOWN] 我记一下我已经记。[UNKNOWN] 我记一下  (💬 ltp(x40) / 😅(x10) / 16(x6) / 结过婚我也认(x4) / 14(x3))
+[6m] 🔥 [UNKNOWN] 行现在是第三个问题了。[UNKNOWN] 我其实现在有一个。[UNKNOWN] 大致的范围区间啊。[UNKNOWN] 呃我也有我也有。[UNKNOWN] 我大概觉得我大概真的知道你的事。[UNKNOWN] 我大概真的有。[UNKNOWN] 嗯。[UNKNOWN] 你素啊。[UNKNOWN] 我要是有这个  (💬 ltp(x6) / 压力(x5) / 构思(x5) / 两个人没活就唱个夜蝶来(x4) / 😅(x3))
+[7m] 🔥 [UNKNOWN] 这个这个我想问我想我想构思一件。[UNKNOWN] 比较有效的问题 Ok ok你构思。[UNKNOWN] 你慢慢构思我会喝口水。[UNKNOWN] 好。[UNKNOWN] 嗯。[UNKNOWN] 哦不对肯定不够。[UNKNOWN] 嗯那如果我要是有。[UNKNOWN] 你说哦就是我要是要是我们。[UNKNOWN] 要是我们月帮增加这个  (💬 4016(x28) / 构思(x12) / 压力(x9) / 这个直播间的翻译在哪里？(x5) / ？？(x4))
+[8m] 🔥 [UNKNOWN] 数字的人数。[UNKNOWN] 我们能超过互帮吗。[UNKNOWN] 肯。[UNKNOWN] 你这问题这不肯定的吧。[UNKNOWN] 这不压也也总共加起来。[UNKNOWN] 所有人也没多少吧。[UNKNOWN] 就肯定可以是吗。[UNKNOWN] 我跟你讲上人还挺多的。[UNKNOWN] 可以吗  (💬 4016(x14) / 压力(x14) / 这么生气(x12) / 怒了(x8) / 这么生气？(x7))
+[8m] 🔥 [UNKNOWN] 肯肯定可以嗯。[UNKNOWN] 哎哎嗯哎哎你们改一下。[UNKNOWN] 哎算了算了。[UNKNOWN] 没这什么问题 Ok ok嗯嗯。[UNKNOWN] 嗯。[UNKNOWN] 烧烤一下会怎么样。[UNKNOWN] 该我了该我了。[UNKNOWN] 你就问那个废物问题。[UNKNOWN] 嗯该我了  (💬 压力(x14) / 这么生气(x12) / 怒了(x8) / 这么生气？(x8) / 😅😅😅(x6))
+[8m] 🔥 [UNKNOWN] 我想一下OK第三个第三个。[UNKNOWN] 嗯嗯我要是。[UNKNOWN] 每个月吃这个数字的。[UNKNOWN] 嗯垃圾食品。[UNKNOWN] 我身我会死吗。[UNKNOWN] 就是我身体有没有影响这个感觉。[UNKNOWN] 你是你是说次数吗。[UNKNOWN] 这个次数这个次数就一个月  (💬 压力(x11) / 这么生气(x10) / ？？？(x7) / 这么生气？(x6) / iceb(x6))
+[9m] 🔥 [UNKNOWN] 以这个一个月为单位。[UNKNOWN] 比如说三十嗯天内。[UNKNOWN] 我要吃多少次这个数字的补补快餐。[UNKNOWN] 不会的不会的。[UNKNOWN] 不会死不会死。[UNKNOWN] 不会呢ok可以。[UNKNOWN] 我会觉得就是个程度啊。[UNKNOWN] 就是会身体有没有大影响  (💬 ？？？(x11) / 😅(x9) / fw问题(x7) / iceb(x6) / 顶级智斗(x6))
+[9m] 🔥 [UNKNOWN] 会得病因为得大病不不会的。[UNKNOWN] 我真的爱我真知道我真大爱。[UNKNOWN] 知道。[UNKNOWN] 好嗯嗯哼。[UNKNOWN] 嗯。[UNKNOWN] 那我想想啊我的第四问题嗯。[UNKNOWN] 那。[UNKNOWN] 我啊我知道怎么问了。[UNKNOWN] 那我要是呃我要是一个月  (💬 😅(x9) / 笑牛魔(x8) / 黄渤(x8) / ？？？(x7) / fw问题(x6))
+[9m] 🔥 [UNKNOWN] 播。[UNKNOWN] 就是我的数字的这么多次。[UNKNOWN] 就是这么多次的。[UNKNOWN] 洗洗澡电台哦为什么笑呢。[UNKNOWN] 会怎么不是你要问题。[UNKNOWN] 你赶紧我播这么多。[UNKNOWN] 感觉我们两个人说话有点表态。[UNKNOWN] 努力的问题。[UNKNOWN] 我我播这么多次的洗澡电台嗯  (💬 黄渤(x24) / 😅(x12) / 笑牛魔(x8) / ？？？(x7) / 顶级智斗(x5))
+[10m] 🔥 [UNKNOWN] 在会字么。[UNKNOWN] 言语算不算变态呢。[UNKNOWN] 我觉得你会洗秃噜皮。[UNKNOWN] 嗯问你播这么多次的话。[UNKNOWN] 是哎不是我问一下下。[UNKNOWN] 问一下问一下你问问题这个逻辑。[UNKNOWN] 因为我第一个你第一个。[UNKNOWN] 问题问的是说你吃就是这个够不够  (💬 黄渤(x24) / 拷打(x14) / 😅(x11) / 点你呢(x5) / 恩人(x5))
+[10m] 🔥 [UNKNOWN] 你吃饭了单位是元。[UNKNOWN] 我说够那证明这个。[UNKNOWN] 数字它其实不是特别小吧。[UNKNOWN] 嗯好。[UNKNOWN] 哎但是我嗯没事没事。[UNKNOWN] 我自己在在思考考吧。[UNKNOWN] 你你自己思思考一下。[UNKNOWN] 你在思以为什么问这个问题啊。[UNKNOWN] 好像有听那么风声啊  (💬 拷打(x19) / 黄渤(x16) / 😅(x7) / 恩人(x5) / 两个iceb(x4))
+[10m] 🔥 [UNKNOWN] 会灰泽满嗯我我说。[UNKNOWN] 很我说很我说很我说很不错啊。[UNKNOWN] 很很享受啊。[UNKNOWN] 我很小眼睛。[UNKNOWN] 对呀肯定是那种传话太监的错误。[UNKNOWN] 我觉他们误传情报啊。[UNKNOWN] 太坏了他们前面肯定是三减一的。[UNKNOWN] 好吧好吧你你来想个下个问题吧  (💬 拷打(x18) / 还在年龄(x12) / 😅(x5) / 恩人(x5) / 沉默(x5))
+[11m] 🔥 [UNKNOWN] 已经几个了嗯。[UNKNOWN] 已经四个了吧。[UNKNOWN] 啊对我刚刚问了第四个。[UNKNOWN] 然后是你的第四个嗯。[UNKNOWN] 我这个。[UNKNOWN] 嗯我这个数字的年龄的人。[UNKNOWN] 嗯。[UNKNOWN] 如果跟。[UNKNOWN] 哎我这问题不会有点影响吧  (💬 ltp(x29) / 跳了(x28) / 还在年龄(x14) / 拷打(x12) / 暗示(x12))
+[11m] 🔥 [UNKNOWN] 就如果跟我们。[UNKNOWN] 嗯。[UNKNOWN] 表白你觉得正不正常。[UNKNOWN] 跟跟我们表白啊。[UNKNOWN] 就跟我们这个年龄的人表白。[UNKNOWN] 你觉得正不正常不正不正常不正常。[UNKNOWN] 这个也不正常。[UNKNOWN] 不我真知道为什么。[UNKNOWN] 你这个你这有点你这个跟你表白吗  (💬 ltp(x46) / 跳了(x34) / 还在年龄(x17) / 暗示(x17) / 压抑了(x13))
+[12m] 🔥 [UNKNOWN] 这个数字年龄的人啊。[UNKNOWN] 这对有一点不不正常不太正常。[UNKNOWN] 不正常 Ok OK不不正常不正常常。[UNKNOWN] 不正常该是你的概念了。[UNKNOWN] 那我的第五哥的问题是。[UNKNOWN] 嗯就是那我那个数字的。[UNKNOWN] 我的那个数字的年龄的人。[UNKNOWN] 他是更  (💬 ltp(x29) / 跳了(x14) / 非人类(x13) / 还在年龄(x12) / 压抑了(x11))
+[12m] 🔥 [UNKNOWN] 他是更接近我的。[UNKNOWN] 就是就是长我一辈还是两倍。[UNKNOWN] 就是更接近我父母的。[UNKNOWN] 就是接近我们这一代父母。[UNKNOWN] 还是接近爷爷奶奶那一代。[UNKNOWN] 这是个好问题。[UNKNOWN] 因为其实我们两个。[UNKNOWN] 都是不是非人类嘛  (💬 须弥感(x20) / 非人类(x17) / 还在年龄(x10) / 😅(x7) / ？？(x5))
+[12m] 🔥 [UNKNOWN] 所以嗯。[UNKNOWN] 我们其实也很难说自己的父母辈啊。[UNKNOWN] 我觉得他应该算是。[UNKNOWN] 啊我把我的三十五。[UNKNOWN] 亿把我的三十五亿舍掉。[UNKNOWN] 把我的三十五亿舍掉。[UNKNOWN] 我是是。[UNKNOWN] 其实你说你你跟我说了十六岁是吧  (💬 须弥感(x21) / 非人类(x18) / 😅(x7) / ？？(x5) / 虚拟感(x5))
+[13m] 🔥 [UNKNOWN] 对对我觉得如果。[UNKNOWN] 他生孩子比较早的话。[UNKNOWN] 那我觉得他可以当我们的父母呗。[UNKNOWN] 如果他生孩子比较早。[UNKNOWN] 前提是他生孩子比较早。[UNKNOWN] 可以可以可以。[UNKNOWN] 行我知道我大概知道在这。[UNKNOWN] 嗯嗯ok ok  (💬 妈妈(x35) / 须弥感(x19) / 姐姐(x13) / 阿姨(x13) / 😅(x10))
+[13m] 🔥 [UNKNOWN] 嗯。[UNKNOWN] 我觉得你这个问题问的不错啊。[UNKNOWN] 不行这个问题淡淡。[UNKNOWN] 我感觉跟我这个不符合。[UNKNOWN] 那该我问了。[UNKNOWN] 我们应该已经问了五个了啊。[UNKNOWN] 对你的第五个你应该心里有数了吧。[UNKNOWN] 我是有点数。[UNKNOWN] 但是我觉得有点怪怪的  (💬 妈妈(x85) / 阿姨(x22) / 姐姐(x20) / 叫妈妈(x20) / 须弥感(x11))
+[13m] 🔥 [UNKNOWN] 我思考一下啊。[UNKNOWN] 嗯我我问一个比较详细的。[UNKNOWN] 可以吗。[UNKNOWN] 就是我这个数字的人。[UNKNOWN] 看我是不是应该叫姐姐。[UNKNOWN] 是不会叫我姐姐。[UNKNOWN] 嗯。[UNKNOWN] 你很犹豫。[UNKNOWN] 嗯那就是会了。[UNKNOWN] 就是会吧  (💬 妈妈(x100) / 阿姨(x24) / 叫妈妈(x23) / 姐姐(x20) / 奶奶(x8))
+[14m] 🔥 [UNKNOWN] 这就是有一个问题。[UNKNOWN] 就在于。[UNKNOWN] 嗯。[UNKNOWN] 什么问题。[UNKNOWN] 就是他就是他对他可以叫你姐姐。[UNKNOWN] Ok ok只要他。[UNKNOWN] 只要他能说话。[UNKNOWN] 他就能叫你姐姐啊。[UNKNOWN] 你这个我们不能是几个月啊  (💬 妈妈(x69) / 阿姨(x13) / 叫妈妈(x13) / 姐姐(x7) / 奶奶(x6))
+[14m] 🔥 [UNKNOWN] 嗯不能是几个月啊。[UNKNOWN] 那就成小数点了。[UNKNOWN] 那没有没有。[UNKNOWN] 对啊小几个月小数点不行啊。[UNKNOWN] 那我大概大概懂了ok ok。[UNKNOWN] 嗯。[UNKNOWN] 行然后该你了该你了。[UNKNOWN] 我去我会不会说的太详细了。[UNKNOWN] 嗯那我的这个数字  (💬 玛雅大姐(x6) / 妈妈(x5) / ltp(x4) / 阿姨(x3) / 123)
+[14m] 🔥 [UNKNOWN] 嗯嗯。[UNKNOWN] 嗯嗯哎感觉到这么。[UNKNOWN] 我我要是出我要是吃。[UNKNOWN] 可能就一天一天分开了。[UNKNOWN] 要是吃这个数量的。[UNKNOWN] 雪糕我我会拉肚子吗。[UNKNOWN] 啊你一个月吃这个数量的雪糕。[UNKNOWN] 我觉得会拉肚子。[UNKNOWN] 我觉得会嗯  (💬 已经暴露了 / 赢了 / 滑了 / 力竭了 / 非人类)
+[16m] 🔥 [UNKNOWN] ok ok ok怎么说呢。[UNKNOWN] 就是哎反正我觉得是会的了。[UNKNOWN] 有ok KK有百分之五的概率不会。[UNKNOWN] 但是大部分时候我觉得是会的。[UNKNOWN] 嗯ok啊弹幕说不会。[UNKNOWN] 他们说不会他们说不会拉肚子。[UNKNOWN] 真的假弹幕是铁味吗  (💬 会牛魔(x11) / 不是不看弹幕？(x9) / 不会(x6) / ？？？(x6) / 还在吃(x6))
+[16m] 🔥 [UNKNOWN] 有点搞笑了。[UNKNOWN] Ok啊。[UNKNOWN] 后来我也忘了问几个无所谓。[UNKNOWN] 现在应该是已经问。[UNKNOWN] 完就五个还生气了吧。[UNKNOWN] 我觉得差不多能猜到。[UNKNOWN] 我这个数字的人我这个数字的。[UNKNOWN] 神我都觉得我真能猜到了。[UNKNOWN] 我再思考一下吧  (💬 可以巴(x12) / 不是不看弹幕？(x9) / ？？？(x7) / ltp(x6) / 可以牛魔(x6))
+[17m] 🔥 [UNKNOWN] 是不是在上幼儿园啊。[UNKNOWN] 这个我觉得也很要看情况。[UNKNOWN] 说实话可以又看情况。[UNKNOWN] 又看情况可可以。[UNKNOWN] 我没偷看到。[UNKNOWN] 哎妈呀。[UNKNOWN] 只是刚刚那个手卡。[UNKNOWN] 嗯嗯。[UNKNOWN] 可以吧可以把。[UNKNOWN] 不是吗  (💬 可以巴(x16) / 可以牛魔(x7) / ？？？(x6) / ltp(x6) / 小满看我[比心][比心][比心](x4))
+[17m] 🔥 [UNKNOWN] 嗯那好像就不不上幼儿园吧。[UNKNOWN] 应该是不上幼儿园。[UNKNOWN] 嗯。[UNKNOWN] 行吧问了个废物问题。[UNKNOWN] 哼 我觉得我刚刚问的你很废物。[UNKNOWN] 哎呦哎但是我真觉得。[UNKNOWN] 你这个数字我是在真的感觉到了。[UNKNOWN] 嗯。[UNKNOWN] 哎我想问一个很具体的问题  (💬 可以巴(x14) / 这集非正式会谈真好看啊，好久没看到中文这么流利的嘉宾了🤩🤩🤩(x5) / 小满看我[比心][比心][比心](x4) / 可以牛魔(x3) / 区叫)
+[17m] 🔥 [UNKNOWN] 你问吧你问个具体的吧。[UNKNOWN] 但是我感觉那个确实很具体了。[UNKNOWN] 但是你可能不知道。[UNKNOWN] 我给得给你截个图。[UNKNOWN] 但这相当于直接问数字了。[UNKNOWN] 我是想问这个数字的数量是。[UNKNOWN] 哎我感觉这种就是不是。[UNKNOWN] 博士年龄对你你数一下  (💬 烧脑(x6) / 这集非正式会谈真好看啊，好久没看到中文这么流利的嘉宾了🤩🤩🤩(x5) / 智斗巅峰(x4) / 小满看我[比心][比心][比心] / 幼儿园不说话的来了)
+[19m] 🔥 [UNKNOWN] 按十八岁上大一这样算的话。[UNKNOWN] 我觉得不是我觉得不是哦。[UNKNOWN] 我觉得他懂什么会读博士。[UNKNOWN] 对嗯嗯我觉得他应该。[UNKNOWN] 是就如果一直读书的话。[UNKNOWN] 也不会也不是嗯哼。[UNKNOWN] 然后就他也没有岩。[UNKNOWN] 他他也没有岩的的知  (💬 可以是(x14) / ？？？(x12) / 知识盲区(x9) / 难说(x8) / 知识盲区了(x7))
+[19m] 🔥 [UNKNOWN] 那就正常的话。[UNKNOWN] 我觉得他这个年龄应该是不是。[UNKNOWN] 然后。[UNKNOWN] 就就他还可以读书吗。[UNKNOWN] 硕士可以读博士。[UNKNOWN] 他当然可以读书。[UNKNOWN] 就是正常的就是中间没有间隔。[UNKNOWN] 的一路堵下去的 还在读书年龄  (💬 巅峰在哪(x15) / ？？？(x10) / 可以是(x7) / 恋老癖(x7) / 这么生气(x7))
+[19m] 🔥 [UNKNOWN] 这个年龄是一个非常。[UNKNOWN] 非常棒的一个年龄。[UNKNOWN] 我只能说就是我觉得。[UNKNOWN] 所有的脑力和身体都是巅峰。[UNKNOWN] 就是很好的一个年龄。[UNKNOWN] 但在我看来可以。[UNKNOWN] 所以他可以去读博士。[UNKNOWN] 可以可以可以哦。[UNKNOWN] 那这嗯行  (💬 巅峰在哪(x15) / ？？？(x12) / 多了(x12) / 这么生气(x9) / 恋老癖(x8))
+[19m] 🔥 [UNKNOWN] 行吧。[UNKNOWN] 嗯。[UNKNOWN] 好最后问一个得了。[UNKNOWN] 我想一个那OK。[UNKNOWN] 嗯。[UNKNOWN] 如果我一周播你这个我说。[UNKNOWN] 的是一周啊播你这一种数字的直播。[UNKNOWN] 就是我只播这这个场。[UNKNOWN] 就是你这个数字的这个场  (💬 多了(x16) / 万楼(x14) / 巅峰在哪(x13) / 这么生气(x9) / 恋老癖(x8))
+[20m] 🔥 [UNKNOWN] 你觉得呃观众就是律动会觉得。[UNKNOWN] 是呃接受还是说还说不接受。[UNKNOWN] 我说的就是他不接受的意思。[UNKNOWN] 就是说觉得太少了。[UNKNOWN] 接受就觉得ok也行吧。[UNKNOWN] 就是嗯那播这个数字的场次吗。[UNKNOWN] 那会总嘛。[UNKNOWN] 你应该已经是一具尸体了  (💬 多了(x17) / 万楼(x14) / 车万楼(x8) / 不接受(x8) / 引导(x7))
+[20m] 🔥 [UNKNOWN] 浮在外面的河上面。[UNKNOWN] 哦ok ok ok ok ok。[UNKNOWN] 其实我我想我又想到一个。[UNKNOWN] ok行了行了。[UNKNOWN] 我真的大家知道先弄好。[UNKNOWN] 回什么一个一个。[UNKNOWN] 你应该这个在天堂等着我了好。[UNKNOWN] 哦我想想呢这样一个不太好问啊  (💬 万楼(x10) / 这是一个测试(x9) / 多了(x6) / 哈哈哈(x6) / 试探(x5))
+[21m] 🔥 [UNKNOWN] 嗯我们最后一个问题就。[UNKNOWN] 这个。[UNKNOWN] 嗯。[UNKNOWN] 怎么确定呢。[UNKNOWN] 但是你刚刚说的不。[UNKNOWN] 像是读博士的年龄那。[UNKNOWN] 我觉得你问的最好的。[UNKNOWN] 问题是那个能不能当你爸妈的那个。[UNKNOWN] 我觉得那个我回答都挺挺  (💬 这是一个测试(x9) / 还在生孩子(x9) / fifa(x6) / ？？？(x3) / ltp(x3))
+[21m] 🔥 [UNKNOWN] 就是挺正的对。[UNKNOWN] 因为你说你是十六岁嘛对吧。[UNKNOWN] 然后我你说过这个年龄可不可以。[UNKNOWN] 当你爸妈。[UNKNOWN] 我说其实如果他生孩子比较早。[UNKNOWN] 我觉得是可以的。[UNKNOWN] 嗯 你说的这个生孩子比较早。[UNKNOWN] 也是那种过了  (💬 还在生孩子(x11) / fifa(x10) / ltp(x5) / 这是一个测试(x3) / 😅😅😅(x3))
+[21m] 🔥 [UNKNOWN] 肯定是合法年龄。[UNKNOWN] 生孩子的肯定是合法年龄呀。[UNKNOWN] 啊不好意思啊。[UNKNOWN] 我们直播间不会宣传宣扬那些。[UNKNOWN] 啊啊懂的的对的对的对的对的对的。[UNKNOWN] 肯定是合法的合法的哈。[UNKNOWN] 对对都是合法的。[UNKNOWN] 这个这个都是都是OK的  (💬 还在生孩子(x10) / fifa(x10) / ltp(x5) / ？？？(x3) / 女鬼桥(x3))
+[21m] 🔥 [UNKNOWN] 嗯那。[UNKNOWN] 嗯。[UNKNOWN] 那那。[UNKNOWN] 我理解了。[UNKNOWN] 感觉我还能问什么呀。[UNKNOWN] 我去不好猜。[UNKNOWN] 就是我很难猜到就是那个个位数。[UNKNOWN] 我肯定是你有范围了吗。[UNKNOWN] 你现在已经有范围了。[UNKNOWN] 你就可以在这个范围范围确认一下  (💬 fifa(x7) / ltp(x4) / 还在生孩子(x3) / 不要过早怀孕(x3) / fifa了(x3))
+[22m] 🔥 [UNKNOWN] 你有范围你可以问我一个。[UNKNOWN] 因为因为我觉得你。[UNKNOWN] 这个你跟我的这个答案还比较好猜。[UNKNOWN] 所以说我我给你问。[UNKNOWN] 那我可以我应该可以这样问吧。[UNKNOWN] 就是我这个数字文献。[UNKNOWN] 个位数怎么怎么样嘛。[UNKNOWN] 个位数的部分  (💬 无所谓(x10) / 道歉(x10) / 无效问题(x8) / 车万楼(x5) / 必须道歉(x5))
+[22m] ▫️ [UNKNOWN] 嗯。[UNKNOWN] 我最后问一个。[UNKNOWN] 呃如果我直播迟到这个数字的分钟。[UNKNOWN] 观分钟啊对对分钟。[UNKNOWN] 嗯观众是就是无所谓。[UNKNOWN] 还说是必须嗯必须道歉这样。[UNKNOWN] 我无所谓吧。[UNKNOWN] 无所谓 Ok ok ok我真知道  (💬 道歉(x57) / 必须道歉(x30) / 无效问题(x15) / 无所谓(x13) / 道歉！(x12))
+[23m] 🔥 [UNKNOWN] 我真知道了我真知道。[UNKNOWN] 我大概猜出来了。[UNKNOWN] 嗯。[UNKNOWN] 哎呀这个弹幕怎么有人说道歉呢。[UNKNOWN] 呃这个奥特曼。[UNKNOWN] 嗯。[UNKNOWN] 啊我去怎么呃上小学的年龄。[UNKNOWN] 那就最后一个问题。[UNKNOWN] 那就嗯唉这还没到十十个题吧  (💬 道歉(x54) / 必须道歉(x26) / 道歉！(x12) / 无效问题(x7) / 😅(x6))
+[23m] 🔥 [UNKNOWN] 那算了那就结束吧。[UNKNOWN] 就到。[UNKNOWN] 那我也是我最后一个问题嗯。[UNKNOWN] 那我就还没到十个题数字。[UNKNOWN] 这个数字的个位数。[UNKNOWN] 哎。[UNKNOWN] 后面。[UNKNOWN] 后面在。[UNKNOWN] 这数字的个位数。[UNKNOWN] 在在  (💬 力竭了(x28) / 道歉(x6) / 笑牛魔(x6) / 烧脑(x6) / 😅(x5))
+[24m] 🔥 [UNKNOWN] 在在嗯。[UNKNOWN] 啊。[UNKNOWN] 这个是。[UNKNOWN] 嗯。[UNKNOWN] 哦这个这个数字的个位数。[UNKNOWN] 嗯你说。[UNKNOWN] 嗯。[UNKNOWN] 我像回老家了的感觉。[UNKNOWN] 这个数字的个位数我。[UNKNOWN] 哦我哦哦。[UNKNOWN] 我我来就是我来魔法  (💬 力竭了(x27) / 烧脑(x10) / 笑牛魔(x8) / 😅(x5) / ？？？(x4))
+[25m] 🔥 [UNKNOWN] 区来魔法期来这个天数正不正常。[UNKNOWN] 呃。[UNKNOWN] 就一次魔法期来这个天数正不正常。[UNKNOWN] 我说实话我不太了解这个。[UNKNOWN] 一就什么叫做正常。[UNKNOWN] 什么叫不正常。[UNKNOWN] 你可以你可以跟我说一下。[UNKNOWN] 我记得正常的音乐我记得写着的  (💬 魔法区(x15) / 偷看(x14) / ？？？？(x13) / 正常在哪(x13) / ？？？(x10))
+[25m] 🔥 [UNKNOWN] 正常应该是应该都是。[UNKNOWN] 就是正常人就没有什么问题。[UNKNOWN] 应该是五到七天。[UNKNOWN] 我记得我觉得是正常。[UNKNOWN] 的那这个是正常的。[UNKNOWN] 这个是正常的哦。[UNKNOWN] 你这个很详细的。[UNKNOWN] 所以你就猜吧。[UNKNOWN] 也没办法  (💬 偷看(x20) / 正常在哪(x13) / 偷看了(x11) / ？？？(x10) / onp(x8))
+[25m] 🔥 [UNKNOWN] 行。[UNKNOWN] 嗯我这个数字是我直接猜吧。[UNKNOWN] 我这个数字是。[UNKNOWN] 其实我就在零到三里面。[UNKNOWN] 猜反正我这个数字是一。[UNKNOWN] 吗。[UNKNOWN] 不好意思ok ok看见你了。[UNKNOWN] 猜到了。[UNKNOWN] 嗯一点没看弹幕看弹幕  (💬 偷看(x21) / ？？？(x15) / 正常在哪(x11) / 偷看了(x11) / 😅(x10))
+[26m] 🔥 [UNKNOWN] 我天打了一批。[UNKNOWN] 我要是看你弹幕我先打雷劈。[UNKNOWN] 我我的数字。[UNKNOWN] 哎其实十个问题没问我。[UNKNOWN] 能再问一个可以啊。[UNKNOWN] 你再问一个吧。[UNKNOWN] 质数还是偶数质数还是偶数。[UNKNOWN] 质数还是偶数啊。[UNKNOWN] 这是质数质数质数  (💬 偷看(x15) / ？？？(x14) / 天才(x12) / 你还懂质数(x12) / 😅(x11))
+[26m] 🔥 [UNKNOWN] 质数嗯绝对质数就单单数对吧。[UNKNOWN] 单对那么就。[UNKNOWN] 啊花金板不知道质数什么东西。[UNKNOWN] 不好意思啊这就是质数。[UNKNOWN] 我知道支付啊。[UNKNOWN] 四十七。[UNKNOWN] 哦诶其实差不多。[UNKNOWN] 因为因为真的差不多。[UNKNOWN] 有一个数字有一个字不对  (💬 暗示(x19) / ？？？(x15) / 你还懂质数(x12) / 预防针(x9) / 天才(x8))
+[26m] 🔥 [UNKNOWN] 就有一个字不对。[UNKNOWN] 有一个不对三十七对。[UNKNOWN] 这对的这对的不。[UNKNOWN] 嗯三十七。[UNKNOWN] 三七怎么了。[UNKNOWN] 等一下三十七减十六。[UNKNOWN] 可以可以生孩子啊。[UNKNOWN] 三十七减十到二十一啊。[UNKNOWN] 你你要想想  (💬 暗示(x20) / 预防针(x11) / 跳了(x10) / 暗示了(x7) / 48(x6))
+[26m] 🔥 [UNKNOWN] 你二十岁差不多勉强对。[UNKNOWN] 勉强就是勉强抱且看 哎。[UNKNOWN] 真没问题是吧。[UNKNOWN] 不是我我一开始想的是三十几。[UNKNOWN] 但是我又感觉是不是有点小了。[UNKNOWN] 我就想了我就把三个人撕了。[UNKNOWN] 三十七是吧啊。[UNKNOWN] 三十七三十七减十的  (💬 暗示(x20) / 跳了(x11) / 预防针(x11) / 好玩在哪(x10) / 暗示了(x7))
+[27m] 🔥 [UNKNOWN] 哎算太差了。[UNKNOWN] 对也算猜也算差不多。[UNKNOWN] 对嗯凭什么平手平手行。[UNKNOWN] 平手平手我漏的有点多。[UNKNOWN] 你问我那个什么问题的时候。[UNKNOWN] 我感觉我讲点多。[UNKNOWN] 嗯你问我会不会叫你姐姐啊。[UNKNOWN] 对你我应该是直接有一句话  (💬 好玩在哪(x20) / 好玩牛魔(x11) / 太好玩了(x10) / 跳了(x8) / 预防针(x7))
+[27m] 🔥 [UNKNOWN] 就是那个他会不会说话。[UNKNOWN] 就这个点就是让我。[UNKNOWN] 一下子就觉得应该是很小的一个点。[UNKNOWN] 我应该直接跟你说的。[UNKNOWN] 不会就是就行了。[UNKNOWN] 说不出话了。[UNKNOWN] 因为啊嗯哎呀。[UNKNOWN] 两个神两两个达达能力无敌  (💬 好玩在哪(x21) / 好玩牛魔(x14) / 再来一把(x13) / 太好玩了(x10) / 叫妈妈(x4))
+[27m] 🔥 [UNKNOWN] 的没有我觉得游戏机还挺好的。[UNKNOWN] 哎就就很好玩。[UNKNOWN] 因因为我得你说的。[UNKNOWN] 很多关我我觉得特好玩。[UNKNOWN] 能猜。[UNKNOWN] 还有那个就是打分。[UNKNOWN] 的那个就是那个满分多。[UNKNOWN] 然后我觉得猜是几分的。[UNKNOWN] 那个你们知道吧  (💬 好玩在哪(x21) / 再来一把(x16) / 好玩牛魔(x14) / 太好玩了(x9) / 😅(x5))
+[27m] 🔥 [UNKNOWN] 你猜个西怎么猜。[UNKNOWN] 那个就猜那个猜那个如果对方就是。[UNKNOWN] 是一个满分朋朋友。[UNKNOWN] 他做了什么事情。[UNKNOWN] 你给他扣分啥那个东西。[UNKNOWN] 你刷过那个没有哦。[UNKNOWN] 没没有为怎么吃分了。[UNKNOWN] Ok ok我等会下午弄一下  (💬 再来一把(x14) / 好玩牛魔(x11) / 漏了(x11) / 好玩在哪(x8) / 太好玩了(x5))
+[28m] 🔥 [UNKNOWN] 嗯ok ok。[UNKNOWN] 我们还玩吗。[UNKNOWN] 我们的青蛙然后他。[UNKNOWN] 呵呵哦哦对。[UNKNOWN] 开哦青蛙来了。[UNKNOWN] 青蛙来了青蛙来了。[UNKNOWN] 他这个。[UNKNOWN] 哎我可以直接邀请哦。[UNKNOWN] 他这个有steam上的好友  (💬 漏了(x16) / 再来一把(x9) / 漏完了(x8) / -v-(x5) / 😅(x4))
+[28m] 🔥 [UNKNOWN] 我直接邀请你看有没有收到啊。[UNKNOWN] 不是你们邀请的  (💬 漏了(x19) / 漏完了(x13) / -v-(x5) / 咪咪(x4) / 妈呀大姐(x4))
+[29m] ▫️ [UNKNOWN] 还是这样一下我试一下。[UNKNOWN] 我觉得疯狂吸入灰泽马属性。[UNKNOWN] Ok我把你吐出去哦。[UNKNOWN] 应该是延迟的问题嗯。[UNKNOWN] 嗯这不是。[UNKNOWN] 这个是只能踩衣服。[UNKNOWN] 啊灰度哦重来了重来了啊。[UNKNOWN] 重来了吗。[UNKNOWN] 这是就从头开始  (💬 iceb(x8) / 高能游戏(x3) / 灰之卡比(x3) / 黑化(x3) / 😅(x3))
+[31m] 🔥 [UNKNOWN] 唉我觉得这有个bug。[UNKNOWN] 就是我舔你进去的时候。[UNKNOWN] 它会出现一个舌头。[UNKNOWN] 你看它会有个这个。[UNKNOWN] 粉色的肚子鬼东西。[UNKNOWN] 这不就是你的舌头吗。[UNKNOWN] 但它那个是在外面的那种感觉。[UNKNOWN] 你上不来我去怎么上  (💬 iceb(x21) / 害人精(x14) / 😅(x7) / 高能(x4) / 骇人鲸(x3))
+[31m] ▫️ [UNKNOWN] 这个我把你吐过去。[UNKNOWN] 你想吃啥你想吃啥。[UNKNOWN] 我显示四百片啊我聘是邻居。[UNKNOWN] 我就聘请的。[UNKNOWN] 你请问你是房主啊。[UNKNOWN] 我我没拿赛呀我去啊。[UNKNOWN] 好厉害。[UNKNOWN] 我我先站到那上面。[UNKNOWN] 然后你再吞我  (💬 iceb(x53) / 教学(x26) / 人什么(x22) / 😅(x16) / 高能(x15))
+[32m] 🔥 [UNKNOWN] 对嘿ok我叫我爸。[UNKNOWN] 哎但是我们那个球。[UNKNOWN] 那个球就没拿耶要拿吗。[UNKNOWN] 我操前面怎么有我跟你一样的人。[UNKNOWN] 谁呀。[UNKNOWN] 对呀这是谁呀。[UNKNOWN] 哇这是谁呀。[UNKNOWN] 这谁呀。[UNKNOWN] 我好害怕人机吗  (💬 iceb(x37) / 教学(x26) / 人什么(x22) / 高能(x17) / 😅(x14))
+[32m] 🔥 [UNKNOWN] 我好害怕是谁啊。[UNKNOWN] 我是有点害怕这是人机吧。[UNKNOWN] 我去了他别把你吞走了。[UNKNOWN] 这谁呀。[UNKNOWN] 人机吧那总不能是ai觉醒了吧。[UNKNOWN] 我操AA组AA不是。[UNKNOWN] 哎这是教程我看明白了。[UNKNOWN] 你看这是反复播放的动画哦哦  (💬 iceb(x32) / 教学(x26) / 人什么(x22) / 高能(x16) / 😅(x11))
+[32m] 🔥 [UNKNOWN] 这教程这是教程。[UNKNOWN] 哎呦妈哎我不见了哦。[UNKNOWN] 你把我吞了我把你吞了。[UNKNOWN] 对他那个好像只能踩我看一眼。[UNKNOWN] 我看一眼。[UNKNOWN] 他这个教程他消失了 哦。[UNKNOWN] 这样子他有个那个踩的东西。[UNKNOWN] 踩的那玩意儿不见了啊  (💬 iceb(x25) / 高能(x18) / 😅(x13) / 两个iceb(x8) / 可以牛魔(x8))
+[33m] ▫️ [UNKNOWN] 的我去啊。[UNKNOWN] 你可以吗。[UNKNOWN] 哎不行啊。[UNKNOWN] 不行啊。[UNKNOWN] 我就我在你身上之后跳不动了呀。[UNKNOWN] 哦。[UNKNOWN] 有点道理。[UNKNOWN] 那我们得重开。[UNKNOWN] 唉不行一边跳兵。[UNKNOWN] 一边吐好像也不行  (💬 可以牛魔(x9) / 😅(x8) / 踩头(x6) / 高能(x5) / 智力没问题(x5))
+[33m] 🔥 [UNKNOWN] 唉好像你上去了。[UNKNOWN] 唉我咋上去的。[UNKNOWN] 我帮你吐上去了。[UNKNOWN] 嗯那你接我一下。[UNKNOWN] 接我一下我咋接你啊。[UNKNOWN] 我往这边跳。[UNKNOWN] 哎不行不行不行高度不够。[UNKNOWN] 高度不够高度不够不去呀。[UNKNOWN] 那只能重开了  (💬 😅(x11) / 还有人类吗(x10) / iceb(x10) / ？？？(x4) / 两个高能儿(x4))
+[34m] 🔥 [UNKNOWN] 重开脱脱困脱困投投脱困投票同意。[UNKNOWN] 哦不是不是我懂了。[UNKNOWN] 那我们再重试一下吧。[UNKNOWN] 对那不是有个白色那个球吗。[UNKNOWN] 我忘了哦对呀。[UNKNOWN] 把球给拿过来了。[UNKNOWN] 那我也来了。[UNKNOWN] 对呀我不忘记拿球了  (💬 😅(x11) / 还有人类吗(x10) / iceb(x10) / 两个高能儿(x5) / ？？？(x4))
+[34m] 🔥 [UNKNOWN] 我的妈呀好子。[UNKNOWN] 现在可以重来。[UNKNOWN] 哎现在重来我们能打完一关吗。[UNKNOWN] 今天我能故意关吗。[UNKNOWN] ok ok ok。[UNKNOWN] 那最后拿上吧。[UNKNOWN] Ok唉我这边真的有bug。[UNKNOWN] 牛吧哭屁了。[UNKNOWN] 来吧把我抛过去  (💬 iceb(x10) / 😅(x10) / 还有人类吗(x8) / 踩头(x6) / 两个高能儿(x4))
+[35m] 🔥 [UNKNOWN] 把我吐了。[UNKNOWN] 我以为你要自己跳呢。[UNKNOWN] 怎么还是我给你们过过去。[UNKNOWN] 我不敢来来该你了了。[UNKNOWN] 好ok。[UNKNOWN] ok ok。[UNKNOWN] 哎我怎么。[UNKNOWN] 有了一个这个哎有一个这个。[UNKNOWN] 哎我去。[UNKNOWN] 哎但是这玩意其实  (💬 iceb(x15) / 公主(x12) / 😅(x6) / 软蛋(x4) / 😅😅😅(x4))
+[36m] 🔥 [UNKNOWN] 按理来讲不是用来道具的对呀。[UNKNOWN] 我觉得怪怪的呀。[UNKNOWN] 我怎么觉得不对呀。[UNKNOWN] 对呀这玩意它不啊。[UNKNOWN] 这个不能用来踩。[UNKNOWN] 这玩意儿不能用来踩。[UNKNOWN] 那我们到底是出了啥问题呢。[UNKNOWN] 就为啥纹上去你上不去  (💬 iceb(x22) / 😅(x5) / 😅😅😅(x5) / 两头🐖(x5) / 重开吧(x4))
+[36m] 🔥 [UNKNOWN] 那那个东西好像只能踩一。[UNKNOWN] 还是是么么方块踩没了。[UNKNOWN] 对那个东西只能我操。[UNKNOWN] 第一个上去的人不能碰到。[UNKNOWN] 别吐舌舌都。[UNKNOWN] 啊你是谁。[UNKNOWN] 你不是这个人吧。[UNKNOWN] 我这边也也有问题我卡bug了  (💬 iceb(x18) / 智力没问题(x4) / 两头🐖(x4) / 😅😅😅(x4) / 有这么烧脑吗(x4))
+[36m] 🔥 [UNKNOWN] 卡关了哦哦存出来了。[UNKNOWN] 昆投票哦同意同意。[UNKNOWN] 我们。[UNKNOWN] 又回来了。[UNKNOWN] 那咋走啊我们再研究一下。[UNKNOWN] 我们不要这么快踩就行了。[UNKNOWN] 研究研究。[UNKNOWN] 理解了。[UNKNOWN] 我还是自己跳吧。[UNKNOWN] 完蛋了  (💬 😅(x4) / iceb(x4) / 区叫(x4) / 有这么烧脑吗(x3) / 太高能了(x3))
+[37m] 🔥 [UNKNOWN] 我觉得这个这个是是我操作的问题。[UNKNOWN] 报意识报意识来抢我一下。[UNKNOWN] 欧你欧文来舔你了。[UNKNOWN] 没舔舔到ok。[UNKNOWN] 嗯就是右键盆要脸盆。[UNKNOWN] 好黑姑们喜欢好。[UNKNOWN] 牛皮牛皮可以吗。[UNKNOWN] 牛皮ok这里我们然后这边我们是  (💬 我来(x7) / 我舔(x5) / 区叫(x4) / 😅(x4) / 两条区(x3))
+[38m] 🔥 [UNKNOWN] 你你对你得得不要踩。[UNKNOWN] 不要踩不要踩。[UNKNOWN] 不要踩不要踩。[UNKNOWN] 你得啊。[UNKNOWN] 对你得先把。[UNKNOWN] 我喷上去 然后你再踩妆呗。[UNKNOWN] 唉不行我拼太高了。[UNKNOWN] 我知道得你先把我喷上去。[UNKNOWN] 对我这个吊针有一我知道了  (💬 iceb(x8) / 我们是冠军(x6) / ？？？(x6) / 上个蛋(x5) / 😅(x4))
+[38m] 🔥 [UNKNOWN] 我知了确实ok ok那你先上。[UNKNOWN] 你先上我上个我上不了一点。[UNKNOWN] 我这个四百遍实在是太。[UNKNOWN] 那我来我我来吸着你走吧。[UNKNOWN] 嗯。[UNKNOWN] k片膏我我也想开啊。[UNKNOWN] 但是唉何伟你是不说不开更好啊啊。[UNKNOWN] 你说u加速器吗  (💬 iceb(x7) / 😅(x5) / 上个蛋(x5) / 千万别开(x5) / ？？？(x3))
+[39m] 🔥 [UNKNOWN] 对我记得是不开更好。[UNKNOWN] 你现在是开了还是没开。[UNKNOWN] 我没开。[UNKNOWN] 我记得是不开更好。[UNKNOWN] 因为因为我之前就感觉好像不开。[UNKNOWN] 还正常一点把后停下来。[UNKNOWN] 嗯哼哼。[UNKNOWN] 这游戏我们这辈子。[UNKNOWN] 你知道吗  (💬 😅(x7) / 千万别开(x5) / iceb(x4) / 今天晚上就这个了 / 卡一辈子)
+[40m] 🔥 [UNKNOWN] 啊我以为是bug啊。[UNKNOWN] 那不是bug g靠。[UNKNOWN] 你它就可以你可以往上。[UNKNOWN] 然后往下就调那个喷的角度。[UNKNOWN] 那我我按哪个键呢。[UNKNOWN] 按哪个键呢。[UNKNOWN] 你就就是晃鼠标。[UNKNOWN] 鼠标往上滑就行。[UNKNOWN] 我去了原来这不是bug吗  (💬 iceb(x44) / 巴哥(x39) / 高能(x16) / 😅(x15) / 高能儿(x9))
+[40m] 🔥 [UNKNOWN] 我趁以为是bug。[UNKNOWN] 我还以为你在说哪个bug吗。[UNKNOWN] 你在说这个玩意。[UNKNOWN] 我靠。[UNKNOWN] 电脑我能只能再重拍。[UNKNOWN] 等一下等一下。[UNKNOWN] 天哦。[UNKNOWN] 这了呀现现在知道了是吧。[UNKNOWN] 现在现在知道了  (💬 巴哥(x38) / iceb(x20) / 高能(x12) / 😅(x10) / 高能儿(x10))
+[41m] 🔥 [UNKNOWN] 我整你们这bug。[UNKNOWN] 我还是跟你一直说。[UNKNOWN] 我这有个bug bug bug的。[UNKNOWN] 啊ok ok ok是的。[UNKNOWN] 有问题等嗯。[UNKNOWN] 我们得重开了。[UNKNOWN] 那个东西又没了。[UNKNOWN] 来吧等 Ok ok。[UNKNOWN] 重新开始当前关卡  (💬 巴哥(x28) / 高能儿(x5) / 高能(x4) / 巴哥巴哥巴哥(x4) / iceb(x3))
+[41m] 🔥 [UNKNOWN] 我选择同意。[UNKNOWN] 嗯呃我等一下。[UNKNOWN] 我挂个加速器试试啊  (💬 巴哥(x8) / 命途多舛(x4) / 高能 / 村里 / 堪比发现新大陆)
+[42m] ▫️ [UNKNOWN] 我退出等一下啊。[UNKNOWN] 再邀一次 Ok。[UNKNOWN] 嘟�了。[UNKNOWN] 嗯。[UNKNOWN] 我直接抱着你走。[UNKNOWN] 这样这样更稳一点。[UNKNOWN] 哎可以可以可以。[UNKNOWN] 哎我差点把你喷下去。[UNKNOWN] 救命  (💬 记仇 / 扫泽满灰叫 / 有鬼 / 我拒绝 / 😅)
+[46m] ▫️ [UNKNOWN] 好的不太够吧。[UNKNOWN] 兔。[UNKNOWN] 哎呀这个字真是。[UNKNOWN] 不是毛兔头皮。[UNKNOWN] 看这个距离够不够哦。[UNKNOWN] 好来来三三二一我。[UNKNOWN] 可以的可以的。[UNKNOWN] 然后准备接吻。[UNKNOWN] 你确定吧。[UNKNOWN] 这不是结束了吗  (💬 踩头(x15) / iceb(x4) / 😅(x4) / 害人(x4) / 跳起来喷(x3))
+[48m] 🔥 [UNKNOWN] 真的吗。[UNKNOWN] 真的吗。[UNKNOWN] 这上面也没这上面也没东西。[UNKNOWN] 我以为刷到上面去啊。[UNKNOWN] 你这应该就是终点了。[UNKNOWN] 真的啦。[UNKNOWN] 那上面也没路了呢。[UNKNOWN] 那我下来了那我也下来了。[UNKNOWN] 下来了下来了  (💬 😅(x9) / 下去啊(x8) / 全球首通(x7) / 软蛋(x5) / 我们是冠军(x5))
+[48m] 🔥 [UNKNOWN] 下来了下来了。[UNKNOWN] Ok谨慎啊你把球带回来的。[UNKNOWN] 我带了推着吗。[UNKNOWN] Ok ok ok ok下来了。[UNKNOWN] 是的。[UNKNOWN] 开始有这波我就开始完了。[UNKNOWN] 嗯没事你假的。[UNKNOWN] 先等一下。[UNKNOWN] 嗯走吧重开应该可以  (💬 区叫(x12) / 😅(x9) / 叫牛魔(x9) / 全球首通(x7) / 下去啊(x5))
+[49m] 🔥 [UNKNOWN] 搓换头可以把你吐上去哦。[UNKNOWN] 那那行稍等一下再试一次。[UNKNOWN] 再试一次可以可以。[UNKNOWN] 可以ok。[UNKNOWN] 哎我怎么喷不动你哦。[UNKNOWN] 喷动了来吧。[UNKNOWN] 操哈呀操。[UNKNOWN] 哎有一点太胖了。[UNKNOWN] 再试试胖  (💬 区叫(x13) / 叫牛魔(x9) / 胖宝宝(x9) / 肥泽满(x8) / 树脂(x4))
+[49m] 🔥 [UNKNOWN] Ok。[UNKNOWN] 我要我给你往那边喷。[UNKNOWN] 嗯等他下来的时候。[UNKNOWN] 可以ok我我的喷点可次ok。[UNKNOWN] 对呃我等一下节奏。[UNKNOWN] 等一下哦我去哎呀喷完啊。[UNKNOWN] 给我吐出来了快点点了。[UNKNOWN] 两次。[UNKNOWN] 脑子有问题  (💬 胖宝宝(x9) / 肥泽满(x8) / ？？？(x8) / iceb(x7) / 害人精(x6))
+[50m] 🔥 [UNKNOWN] 这下得重来了又。[UNKNOWN] ok把我喷上喷。[UNKNOWN] 没事我慢慢来没事。[UNKNOWN] 我们慢慢来吧。[UNKNOWN] 嗯没事再来一次。[UNKNOWN] 哎我真以为这个是。[UNKNOWN] ok。[UNKNOWN] 这太难了这游戏真的难。[UNKNOWN] 我说实话这游戏真的难  (💬 害人精(x22) / 难在哪(x14) / iceb(x9) / 骇人鲸(x6) / 😅(x5))
+[51m] 🔥 [UNKNOWN] 哦拉。[UNKNOWN] 是个木块的感觉是吧。[UNKNOWN] 感觉是角度有不够高。[UNKNOWN] 害人精他不懂。[UNKNOWN] 太年轻了。[UNKNOWN] 我靠哎呀妈呀。[UNKNOWN] 等下我刚有点被撞到了。[UNKNOWN] 来了。[UNKNOWN] 嗯啊这。[UNKNOWN] 好烦啊这个肚皮就是会顶到人  (💬 难在哪(x14) / 高能(x6) / ？？？(x5) / iceb(x5) / 难牛魔(x4))
+[51m] 🔥 [UNKNOWN] 不能贴这还太紧。[UNKNOWN] 好ok。[UNKNOWN] Ok ok ok这样子吧。[UNKNOWN] 我再往前一点别急。[UNKNOWN] 啊啊。[UNKNOWN] 他为啥是这么往上的。[UNKNOWN] 我觉得我有问题。[UNKNOWN] 我这确确实我有问题。[UNKNOWN] 可以可以下你呢再降下一点  (💬 高能(x6) / iceb(x5) / ？？？(x4) / 害人精(x3) / 肥泽满)
+[51m] 🔥 [UNKNOWN] 但吃肉是我有问题吧。[UNKNOWN] sorry sorry。[UNKNOWN] 嗯问题不大问题不大。[UNKNOWN] 救是太难了。[UNKNOWN] 崩溃了。[UNKNOWN] 哦哦可以下谢接好。[UNKNOWN] 我记得跳起来一下。[UNKNOWN] 你把我哦对你把我先进。[UNKNOWN] 那那个木块没了得重来行吗  (💬 高能(x7) / 难在哪(x6) / 难牛魔(x3) / 啥泽满灰比 / 害人精)
+[55m] ▫️ [UNKNOWN] 上面一个人是这样。[UNKNOWN] 我们来右边看一下。[UNKNOWN] 就是没有那个东西。[UNKNOWN] 那你可以一个人通关了吗。[UNKNOWN] Ok ok没事我们现在已经搞清楚。[UNKNOWN] 我这边可以直接把你喷上去的  (💬 跳了(x12) / 重开 / 两个iceb / 走上面 / 48)
+[59m] 🔥 [UNKNOWN] 啥。[UNKNOWN] 我不能理解。[UNKNOWN] 喝你等一下吧。[UNKNOWN] 我帮你舔过去。[UNKNOWN] 前面都要舔过去了。[UNKNOWN] 好好我等会慢填过去。[UNKNOWN] 哦我真不能不行。[UNKNOWN] 等会儿我真不能马上把你舔过去。[UNKNOWN] 别急不急啊问题不大  (💬 公主(x20) / fw(x18) / 看看人家(x11) / iceb(x8) / 两腿一张(x8))
+[59m] 🔥 [UNKNOWN] 啊嗯。[UNKNOWN] 买了。[UNKNOWN] 来来快。[UNKNOWN] 我懂了这个游戏的设计理念。[UNKNOWN] 可以吧。[UNKNOWN] 我直接把你一路吞过去吧。[UNKNOWN] 哦。[UNKNOWN] 别站稳啊站稳。[UNKNOWN] 等一下等一下等一下。[UNKNOWN] 你要干嘛  (💬 公主(x29) / iceb(x19) / 两腿一张(x13) / 看看人家(x12) / 灰神一跳天地抖！(x6))
+[59m] 🔥 [UNKNOWN] 站稳我。[UNKNOWN] 去啊没事没事没事没事啊。[UNKNOWN] 没事没事没事没事没事没事。[UNKNOWN] 你在上面接我你在上面接。[UNKNOWN] 我操你P等一下。[UNKNOWN] 等一再再来一次。[UNKNOWN] 再来一次我不跳了。[UNKNOWN] 我不跳了我乖巧。[UNKNOWN] 我真我真不动我真不  (💬 iceb(x27) / 公主(x25) / 两腿一张(x14) / ？？？(x7) / 灰神一跳天地抖！(x6))
+[60m] 🔥 [UNKNOWN] 动动。[UNKNOWN] 我不动了我真我真不动。[UNKNOWN] 我真的真不动我真的真不动。[UNKNOWN] 我真的真不动我真真不动。[UNKNOWN] 真不动真不动。[UNKNOWN] 行再来一次好不动。[UNKNOWN] 真不动 Ok等一下。[UNKNOWN] 但是我得我得我得。[UNKNOWN] 换一个这个方位吧  (💬 公主(x33) / iceb(x22) / 两腿一张(x12) / 😅(x5) / ？？？(x5))
+[60m] 🔥 [UNKNOWN] 我再往前再走一下。[UNKNOWN] 你在上面挪一下就行。[UNKNOWN] 但是你不要跳。[UNKNOWN] 对然后我就要折返回来。[UNKNOWN] 哎对然后把我补到右边去。[UNKNOWN] 然后我再囤拖到右边去。[UNKNOWN] 我长按我唱完。[UNKNOWN] 那你我我试一下能不能跳过去  (💬 公主(x28) / iceb(x12) / 两腿一张(x9) / 别跳(x6) / 公主来了(x4))
+[60m] 🔥 [UNKNOWN] 不不这个这高度跳不了的。[UNKNOWN] 这个哦其实有一个有一个办法。[UNKNOWN] 看你行不行你跳到这个木块来接。[UNKNOWN] 我就是我得过来接你。[UNKNOWN] 哈哈。[UNKNOWN] 为什么。[UNKNOWN] 哼啊。[UNKNOWN] 别急别急。[UNKNOWN] 你慢慢调整你慢慢调整  (💬 公主(x30) / 两腿一张(x13) / iceb(x10) / 别跳(x6) / 😅😅😅(x5))
+[61m] ▫️ [UNKNOWN] 好调整等你回来嗯。[UNKNOWN] 喂喂 Ok ok好好。[UNKNOWN] 我不好难啊越来越难难易如反掌。[UNKNOWN] 缺是什么。[UNKNOWN] 这什么东西啊。[UNKNOWN] 这什么别搞了行吗。[UNKNOWN] 唉我们可以等一下。[UNKNOWN] 等一下我们可以先单人死。[UNKNOWN] 是没关系的是吧  (💬 两腿一张(x9) / device的问题(x9) / 公主(x6) / 别跳(x6) / iceb(x5))
+[61m] 🔥 [UNKNOWN] 嗯对你要先试一下。[UNKNOWN] 可以先试一下。[UNKNOWN] 唉我真觉得我这有问题的。[UNKNOWN] 我这个鼠标有大我。[UNKNOWN] 这个键盘有大问题。[UNKNOWN] 嗯就你们键盘可能有点不不灵敏。[UNKNOWN] 真的。[UNKNOWN] 是的是的。[UNKNOWN] 啊嗯嗯  (💬 device的问题(x11) / iceb(x5) / 设备的问题(x5) / 😅(x4) / 智力有问题(x4))
+[61m] 🔥 [UNKNOWN] 我再试一次我不知道先练习一下。[UNKNOWN] 不好意思不行。[UNKNOWN] 真的假的。[UNKNOWN] 你试一下你试一下嗯。[UNKNOWN] 然后我要喷吗。[UNKNOWN] 就又就是三个的木块的哪一个啊。[UNKNOWN] 我要等他上去哦。[UNKNOWN] 你先调整一下。[UNKNOWN] 以感觉你还真可以  (💬 device的问题(x10) / 设备的问题(x5) / 智力有问题(x4) / iceb(x4) / 智利有问题(x3))
+[63m] 🔥 [UNKNOWN] 嗯嗯等等你讲话了好。[UNKNOWN] 我不打扰你的操作了。[UNKNOWN] Ok ok我来了 Ok。[UNKNOWN] ok嗯我应该往上喷。[UNKNOWN] 你觉得可以吗。[UNKNOWN] 你试一下就最顶上的。[UNKNOWN] 这个你可以试一下哦。[UNKNOWN] 不行有点容易卡难瘦的女人  (💬 看看人家(x20) / 还真是(x7) / 需要你吗(x5) / 反观(x4) / 害人精(x3))
+[64m] ▫️ [UNKNOWN] 唉不行这个得提前跳。[UNKNOWN] 嗯嗯。[UNKNOWN] 好了再来一次多尝试一下。[UNKNOWN] 我多尝试一次多尝试一下。[UNKNOWN] 哎呀哎呀。[UNKNOWN] 哎哎呀脚猾了。[UNKNOWN] 脚猾了。[UNKNOWN] 好了我来了好来吧。[UNKNOWN] Ok ok不不喷到第二个是吧  (💬 还真是(x13) / 害人精(x4) / 37岁的克罗雅妈妈带着1岁上幼儿园的灰泽满女儿。一岁不会走路太正常了，大家别急(x3) / iceb / kly一个人过了)
+[64m] 🔥 [UNKNOWN] 唉我真这个真不好喷啊。[UNKNOWN] 呃你等就是它往上移的时候。[UNKNOWN] 你要跳哪儿啊。[UNKNOWN] 哎是我碰了再走  (💬 😅(x14) / iceb(x9) / 你能下去让鸭肾吞了跳过去吗😅(x3) / 你进雅神肚子得了 / 折磨同期)
+[67m] 🔥 [UNKNOWN] 尝试一下会更难看。[UNKNOWN] 老师你样跳舞不知道。[UNKNOWN] 是往下走还是往上走的时候好。[UNKNOWN] 来吧你来吧。[UNKNOWN] 啊他们说让你走。[UNKNOWN] 哦让我走吧。[UNKNOWN] 那我们得换个顺序。[UNKNOWN] ok ok那得那得啊。[UNKNOWN] 对我得把你喷到右边这个地方  (💬 😅(x9) / 公主(x6) / iceb(x3) / 两腿一张(x3) / 智力没问题)
+[67m] 🔥 [UNKNOWN] 我得把你喷到这。[UNKNOWN] 哎哎也没事后。[UNKNOWN] 你你再把我弄上去。[UNKNOWN] 真的吗。[UNKNOWN] 哎呦就是有点高。[UNKNOWN] 就是我没有世界这么大我没有世界。[UNKNOWN] 我为什么浑浑身一股劲劲。[UNKNOWN] 你是只轻点了一下鼠标吗。[UNKNOWN] 我轻点我真的是轻点  (💬 你不行(x8) / 公主(x3) / 两腿一张(x3) / 你别跳(x3) / iceb)
+[69m] 🔥 [UNKNOWN] 嗯怎么会。[UNKNOWN] 你看我这个就是不会飞那么出去。[UNKNOWN] 啊怎么会这样。[UNKNOWN] 哼灰色蓝好大力呀。[UNKNOWN] 舔我舔的太大来了来了。[UNKNOWN] 你看我轻点一下啊。[UNKNOWN] 对就是这样会滑。[UNKNOWN] 好奇怪啊他们说是角度问题。[UNKNOWN] 我要接触不到地面  (💬 黑化(x7) / 暴力女(x4) / 力竭了(x3) / 两个爆笑虫子(x3) / 肯定是故意完成这样的)
+[70m] 🔥 [UNKNOWN] 他之前可以呢。[UNKNOWN] 敢怒。[UNKNOWN] 呀生敢怒不敢言啊。[UNKNOWN] 等一下。[UNKNOWN] 嗯我听指挥往下吧。[UNKNOWN] 往下吧还是嗯。[UNKNOWN] 哎。[UNKNOWN] 你来喷我吧。[UNKNOWN] 好吧。[UNKNOWN] 哎。[UNKNOWN] 喷到啊第二层  (💬 😅(x10) / iceb(x6) / 往上啊(x4) / 你学过物理吗(x3) / 你下牛魔)
+[71m] ▫️ [UNKNOWN] 只能一层一层来。[UNKNOWN] 对对真的好奇怪。[UNKNOWN] 可能是那个会算天生神力了别忍。[UNKNOWN] 哦可以哦好哦。[UNKNOWN] 现在好了现在好了。[UNKNOWN] 完了。[UNKNOWN] ok ok ok ok ok终于好了。[UNKNOWN] 哎吓我一跳跳我操。[UNKNOWN] Ok ok我炒牛奶  (💬 看看人家(x10) / 😅(x4) / 今晚都是这个画面了(x3) / iceb(x3) / 又在装松弛了(x3))
+[73m] 🔥 [UNKNOWN] 那个只能跳一次。[UNKNOWN] 你知道吗。[UNKNOWN] 咱点整天那就是还是得吃的人。[UNKNOWN] 嗯。[UNKNOWN] 我操我操。[UNKNOWN] 牛批。[UNKNOWN] 这是干嘛呀。[UNKNOWN] 我咋没看到哦。[UNKNOWN] 这只能走中中间吧。[UNKNOWN] 哦我可以把我不是这个药  (💬 看看人家(x21) / 公主(x15) / 两腿一张(x14) / 全球首通(x7) / 黑化(x4))
+[73m] 🔥 [UNKNOWN] 我我把你喷出去。[UNKNOWN] 对我把你从那两个地方喷出去。[UNKNOWN] 但是我怎么接啊。[UNKNOWN] 问题是这个地方它长这样。[UNKNOWN] 哦对这个啥东西啊。[UNKNOWN] 我上哪儿接啊。[UNKNOWN] 对可能是右边什么开关。[UNKNOWN] 我先去右边看看吧啊  (💬 两腿一张(x7) / 公主(x6) / 看看人家(x5) / 黑化(x4) / 你喷啊(x4))
+[73m] 🔥 [UNKNOWN] 可能右边有开关之类。[UNKNOWN] 的东西可以把它关掉。[UNKNOWN] 终点了终点了没有啊。[UNKNOWN] Ok ok欢迎做出来了  (💬 全球首通(x11) / 你喷啊(x4) / 看哭了(x4) / 鸭肾一个人早过了(x3) / 黑化)
+[75m] ▫️ [UNKNOWN] 啊你那你你也来玩一下吧。[UNKNOWN] 加三可以可以可以。[UNKNOWN] 等一下。[UNKNOWN] 原来如此可以可以可以可以可以。[UNKNOWN] 哎我这为什么。[UNKNOWN] 有一个三点什么东西。[UNKNOWN] 上面有数字啥意思。[UNKNOWN] 我头顶哪儿啊。[UNKNOWN] 我头顶冒锤数字  (💬 开了(x54) / +3(x24) / 这框真帅吧(x13) / 我去这框(x5) / 这数字真帅吧(x4))
+[76m] 🔥 [UNKNOWN] 我不懂啥意思。[UNKNOWN] 等一下。[UNKNOWN] 嗯嗯哼哼我的头条里没有数字。[UNKNOWN] 哎我头顶一下有数字。[UNKNOWN] 我开我开嗯我开了。[UNKNOWN] ok还疼的真假的这关甲如此的。[UNKNOWN] Ok ok哦哦还行ok这关还行。[UNKNOWN] 呃但这高度确实不够  (💬 开了(x51) / 这框真帅吧(x13) / +3(x5) / 我去这框(x5) / 这数字真帅吧(x5))
+[78m] ▫️ [UNKNOWN] 你陪那我来接你  (💬 你下去(x5) / 重开吧(x3) / 😅(x3) / 忍耐 / 下来)
+[80m] 🔥 [UNKNOWN] 这操姐姐哎呀有点有点过了。[UNKNOWN] 有点过了。[UNKNOWN] 来了我来了。[UNKNOWN] 问你们的嗨人嗨人进来了。[UNKNOWN] Ok哎呀我被堵了一下。[UNKNOWN] 被堵了一下。[UNKNOWN] Ok ok。[UNKNOWN] 啊哈很奇怪耶。[UNKNOWN] 在。[UNKNOWN] 嗯嗯嘿  (💬 害人精(x13) / iceb(x5) / 我忍🥷我忍🥷我忍🥷我忍🥷我忍🥷我忍🥷(x5) / 骇人鲸(x4) / 烧脑(x3))
+[82m] ▫️ [UNKNOWN] 哎你看到我的这个红标。[UNKNOWN] 哎呀妈呀。[UNKNOWN] 好两个最后一个加油加油。[UNKNOWN] 最后。[UNKNOWN] 这个这个你放心啊。[UNKNOWN] 别你放弃别放弃。[UNKNOWN] 别放弃别急别急。[UNKNOWN] 别急可以的。[UNKNOWN] 我觉得我可以跳舞可以很棒  (💬 看看人家(x12) / kkrj(x3) / 区叫 / 看看别人 / 反观)
+[83m] 🔥 [UNKNOWN] 灰子们灰子啊很棒。[UNKNOWN] 很棒。[UNKNOWN] 唉可以可以可以。[UNKNOWN] 我去很成长了。[UNKNOWN] 灰色男成长了成长了。[UNKNOWN] 成长了成长成长成了了成长。[UNKNOWN] 长机器接我我接我就是。[UNKNOWN] ok接到接到了。[UNKNOWN] 哎明天再来一次  (💬 和女儿一起进步(x12) / 成长了(x5) / 幼教(x5) / 害人精(x3) / 这个你放心吧(x3))
+[85m] 🔥 [UNKNOWN] 哎了拍了耶。[UNKNOWN] 回子马你就喜欢玩边缘控制啊。[UNKNOWN] 没问题。[UNKNOWN] 怎么啊啊还行。[UNKNOWN] 我少喝点水的喝点水啊的对对啊。[UNKNOWN] 我们是公安局。[UNKNOWN] 我操周邪就把武汉给玩出来了。[UNKNOWN] 啊。[UNKNOWN] 我操谁选的仿  (💬 😅(x10) / 黑化(x7) / 在哪里点的陪玩？满神，推荐一下呗(x5) / ？？？(x5) / 压力这么大(x4))
+[85m] 🔥 [UNKNOWN] 仿佛是你自己在那个地方跳是吧。[UNKNOWN] 跳跳过一次跳一圈呀。[UNKNOWN] 这干嘛。[UNKNOWN] 哦对就要碰一下。[UNKNOWN] 那个人把人喷出去。[UNKNOWN] 这个感觉我不够高。[UNKNOWN] 唉不够高不够高不够高。[UNKNOWN] 喂会对它会有一定时间回升啊  (💬 😅(x7) / 压力这么大？(x3) / 接接接 / 这么紧张 / 压力这么大)
+[87m] ▫️ [UNKNOWN] 对。[UNKNOWN] 再接接你也行就行了。[UNKNOWN] 这个得跳起来才行 Ok  (💬 iceb(x5) / ？？？(x3) / 智力有问题(x3) / 人机(x3) / 你是人类吗)
+[89m] ▫️ [UNKNOWN] 我这里的黑色方块为啥在抖动啊。[UNKNOWN] 我真在抖动我这个真在抖动。[UNKNOWN] 可以可以一边跳往一边。[UNKNOWN] 哈。[UNKNOWN] 好了。[UNKNOWN] 嗯嗯是不是差一点。[UNKNOWN] 你看这个不是平面  (💬 巴哥了(x7) / 看看人家(x5) / 开了(x4) / 看得绿冻脸红红的(x3) / 卡比(x3))
+[92m] ▫️ [UNKNOWN] 啊。[UNKNOWN] Ok。[UNKNOWN] Ok唉最后这台阶是。[UNKNOWN] 这个距离不够。[UNKNOWN] 你把喷到那个第二个木桩试试。[UNKNOWN] 然后你在那上面接我我感觉是快。[UNKNOWN] 哦可以嗯可以。[UNKNOWN] 然后我跳一次你就得接我了。[UNKNOWN] 哎呀可以啊啊  (💬 iceb / 下班了下班了 / 鸭肾终于犯罪了 / 小满困了吧，该休息了 / ㄒㄧㄠㄌㄜ)
+[95m] ▫️ [UNKNOWN] 这这上面是干嘛。[UNKNOWN] 对。[UNKNOWN] ok。[UNKNOWN] 这一关结束了。[UNKNOWN] 啊这关没有犯罪啊。[UNKNOWN] 我觉得这什么这写的是金币关卡吗。[UNKNOWN] 嗯那我去这边。[UNKNOWN] 哦有传送门啊。[UNKNOWN] 这应该跳不了吧。[UNKNOWN] 这边这边的区域都要两个人一起来  (💬 灰灰(x8) / 智力有问题(x5) / 你走啊(x4) / iceb(x4) / 智利没问题(x4))
+[97m] ▫️ [UNKNOWN] 不然不够高。[UNKNOWN] 对就等会儿再来。[UNKNOWN] 没事没事哦这容错率太高了。[UNKNOWN] 喂。[UNKNOWN] 你你要不我要不自己跳吧。[UNKNOWN] 你跳的话我得给你喷出来。[UNKNOWN] 一起死起死。[UNKNOWN] 啊我有延迟我走这边是啊。[UNKNOWN] 真的吗啊一路跳下来是吗  (💬 😅(x4) / 随便跳啊 / ？？？ / 理发店 / 到底在害怕什么)
+[100m] ▫️ [UNKNOWN] 一起走喷喷过去。[UNKNOWN] 嗯嗯然后看能不能。[UNKNOWN] 嗯也对感觉剩下哦。[UNKNOWN] 你准备好了吗。[UNKNOWN] 你往右边喷试试这里吗。[UNKNOWN] 嗯下下一个频。[UNKNOWN] 哎不对我们得这样走。[UNKNOWN] 嗯等一下。[UNKNOWN] 我起跳的点已经极限了让我们下来  (💬 ？？？？ / 那上面不行吗 / 不走上面挑战 / 上面还有金币为什么不走上面 / 太有理解了)
+[102m] ▫️ [UNKNOWN] 右上角还漏了一个呢。[UNKNOWN] 你看看右边能一个人去拿不。[UNKNOWN] 对呀你往下跳。[UNKNOWN] 这地方有点他们一起去看看。[UNKNOWN] 这能不能把你陪上去。[UNKNOWN] 能把我膨胀。[UNKNOWN] 哎嗯。[UNKNOWN] 这样就那我们就差左右下角两个了。[UNKNOWN] 可以数了  (💬 跳喷(x5) / 一个人跳不了的】 / 公主？ / 甜甜甜 / 你俩赶紧去传送门)
+[104m] ▫️ [UNKNOWN] 可能明天就好。[UNKNOWN] 不够高唉。[UNKNOWN] 呃不行吧。[UNKNOWN] 再往上面一些。[UNKNOWN] 没差一丢丢高度差一丢丢。[UNKNOWN] 等下。[UNKNOWN] 对你你去右边接我。[UNKNOWN] 这这波有点太高了  (💬 iceb / 素质 / 你让克罗雅喷 / 你的牛劲呢[笑哭] / 树脂)
+[108m] ▫️ [UNKNOWN] 对喂。[UNKNOWN] 我跳到下面来哈。[UNKNOWN] 对  (💬 气抖冷(x9) / 笑牛魔(x5) / 真的(x4) / 脸色对了(x4) / 害人精(x4))
+[110m] 🔥 [UNKNOWN] 是啊怎么自己走。[UNKNOWN] 我认我认错挖了。[UNKNOWN] 我认错蛙了。[UNKNOWN] 其实啊啊这就两只吗。[UNKNOWN] 你还能一直跑来来。[UNKNOWN] 啊可突然这下真要气的。[UNKNOWN] 我很我操。[UNKNOWN] 突然现在真的要浑身发抖了不演。[UNKNOWN] 没想到联动的时候  (💬 语气对了(x28) / 气氛对了(x6) / 这么生气？(x4) / 气笑了(x3) / 彻底怒了(x3))
+[110m] 🔥 [UNKNOWN] 居然能播到浑身发抖。[UNKNOWN] 我天呐。[UNKNOWN] 啊他浑身霸道我会语气对了。[UNKNOWN] 你走上面都是我走下面这样。[UNKNOWN] 等一下我再试一试。[UNKNOWN] Ok。[UNKNOWN] 就这样。[UNKNOWN] 可以吗都行。[UNKNOWN] 第九。[UNKNOWN] 关叫啥玩  (💬 语气对了(x22) / 这么生气？(x4) / 气笑了 / 脸色对了 / 彻底怒了)
+[113m] 🔥 [UNKNOWN] 唉话说我们能播两个半小时柜子。[UNKNOWN] 把你没事儿吗。[UNKNOWN] 哦你可以接着玩吗。[UNKNOWN] 我有事但是。[UNKNOWN] 但是每次这个玩不会让我很难耐呀。[UNKNOWN] 我其实有事。[UNKNOWN] 我怕刚我说我约了个那个声卡。[UNKNOWN] 那个要调机架老师吗  (💬 语气对了(x22) / 暗示了(x18) / 气氛对了(x8) / 丨吧(x5) / 暗示(x4))
+[113m] 🔥 [UNKNOWN] 十点哦。[UNKNOWN] 我正好是天天迟的。[UNKNOWN] 我感觉他接了老迟的。[UNKNOWN] 唉他都没过割你吗。[UNKNOWN] 不是说他老割。[UNKNOWN] 他没割我ok了吗。[UNKNOWN] 哦行ok。[UNKNOWN] 来试试。[UNKNOWN] 他跟我的话。[UNKNOWN] 我换换一个换成那个谁  (💬 语气对了(x24) / 暗示了(x18) / 气氛对了(x8) / 敢怒不敢言(x6) / 丨吧(x5))
+[113m] 🔥 [UNKNOWN] 没没有感人。[UNKNOWN] 没有感觉。[UNKNOWN] 不想玩了直说没有没有不想玩。[UNKNOWN] 没有不想玩啊什么意思啊。[UNKNOWN] 不不要听他们们言言可可以以。[UNKNOWN] 我想就是牛能是有终吧。[UNKNOWN] 对得他求我们把这个吧。[UNKNOWN] 对吧。[UNKNOWN] 还要惊洽  (💬 语气对了(x24) / 气氛对了(x9) / 敢怒不敢言(x6) / 暗示了(x5) / 明示了(x4))
+[113m] 🔥 [UNKNOWN] 那没有对象啊。[UNKNOWN] 哼啊只不过我只听说。[UNKNOWN] 灰这们好像都是只播两个小时。[UNKNOWN] 你真别急。[UNKNOWN] 谢谢第十关了吧。[UNKNOWN] 只有八只有第八关的感觉。[UNKNOWN] 就一个跳喷这么久。[UNKNOWN] Ok。[UNKNOWN] 这次过不了也没办法  (💬 语气对了(x17) / 气氛对了(x6) / 敢怒不敢言(x4) / 明示了(x3) / 你不是有事吗(x3))
+[116m] ▫️ [UNKNOWN] 我的适合以吃一条。[UNKNOWN] 你帮我再跳上去看这。[UNKNOWN] 也不能太高。[UNKNOWN] 哎有点有点差不多就是。[UNKNOWN] 还是有点延迟的因为。[UNKNOWN] 哎听出来了不用上了。[UNKNOWN] ok ok我们先下到下面那一行。[UNKNOWN] 嗯对我操你能挑战一下吗  (💬 雅神找好台阶让你下播你不下播，真的劳累啊 / 😅 / 纪念最后一次灰泽满和克罗雅的双人联动，合影 / 道歉 / 力竭了)
+[118m] ▫️ [UNKNOWN] 你有信心吗。[UNKNOWN] 我去边缘跳。[UNKNOWN] 我们最后一次交给你了。[UNKNOWN] 不吵你吃的不急。[UNKNOWN] 来吧和好空空吃饭。[UNKNOWN] 比上面低一点。[UNKNOWN] 好。[UNKNOWN] 因为他有一感觉在空中。[UNKNOWN] 对。[UNKNOWN] 嗯  (💬 公主(x8) / 两腿一张(x7) / 你别来了(x3) / iceb / 不用看)
+[121m] ▫️ [UNKNOWN] 很隐吗。[UNKNOWN] 去我去。[UNKNOWN] 神了。[UNKNOWN] 可以可以可以翻过去。[UNKNOWN] 翻过去翻面。[UNKNOWN] 哎喂完了我怎么掉下去啊。[UNKNOWN] 没事没事我这个是。[UNKNOWN] 反他这个面面奶反作用力好。[UNKNOWN] 前面还好前面还好  (💬 鸭肾nb(x9) / 看看人家(x6) / 我们是冠军(x5) / 终于(x3) / 鸭肾神了(x3))
+[121m] 🔥 [UNKNOWN] 哎。[UNKNOWN] 哦这个得喷下下。[UNKNOWN] 对对。[UNKNOWN] 我们走下面去吗。[UNKNOWN] 还是走哪条路。[UNKNOWN] 直接跳下去。[UNKNOWN] 诶等一下我们要走下面的吗。[UNKNOWN] 你这个那个他那个道在下面来着。[UNKNOWN] 哎也行你穿到那个西装上  (💬 鸭肾nb(x4) / 恭喜恭喜 / 跳下去 / 西西弗斯原来真的有解脱的一天 / 鸭肾！)
+[122m] 🔥 [UNKNOWN] 但我不确定你能不能。[UNKNOWN] 喷到你试一下啊。[UNKNOWN] 哎可以。[UNKNOWN] 我看我能不能接住。[UNKNOWN] 可以可以可以啊。[UNKNOWN] 可以了 哎呦可以了可以了。[UNKNOWN] 哎呀哎呀哎呀哎呀哎呀呀全球手通。[UNKNOWN] 我是全球首通全球。[UNKNOWN] 首通全球手通今行OKOK  (💬 我们是冠军(x16) / 全球首通(x9) / 终于过了(x7) / 恭喜恭喜(x5) / 挺好的(x4))
+[122m] 🔥 [UNKNOWN] 他们刚说纪念念课。[UNKNOWN] 晚能会再买最后一次联动。[UNKNOWN] 怎么这样的。[UNKNOWN] 我觉得我们今天这个。[UNKNOWN] 磨合的没有问题啊嗯对啊。[UNKNOWN] 那那也不至于。[UNKNOWN] 那也不至于吧挺好的。[UNKNOWN] 其实配合挺好。[UNKNOWN] 还能发的出消息了  (💬 我们是冠军(x15) / 丨吧(x7) / 全球首通(x6) / 还有第二关(x5) / 劳累啊(x4))
+[123m] 🔥 [UNKNOWN] 挺好的。[UNKNOWN] 唉当然发的出来。[UNKNOWN] 了当当然啊好。[UNKNOWN] 那就好那就好了。[UNKNOWN] 真的害怕啊太好了。[UNKNOWN] 太好了真的怕ok OK。[UNKNOWN] 那我到这道不错不错。[UNKNOWN] 对ok ok大家大家拜拜。[UNKNOWN] 那个那个拜拜再见  (💬 语气对了(x6) / 丨吧(x5) / 还有第二关(x5) / 无穷无尽的联动(x5) / 商务(x5))
+[123m] 🔥 [UNKNOWN] 要要忙去了拜拜。[UNKNOWN] 大家拜拜。[UNKNOWN] 我们明天还有个游戏啊。[UNKNOWN] 说起来拜拜。[UNKNOWN] 对。[UNKNOWN] 明天是我们的二太有个游戏。[UNKNOWN] 是的的个是天还有个游戏。[UNKNOWN] 所以嗯嗯明天再见。[UNKNOWN] 拜嗯明天再见再见明  (💬 丨吧(x7) / 脸色对了(x7) / 丨吧宝宝(x7) / 无穷无尽的联动(x6) / 还有第二关(x5))
+[123m] 🔥 [UNKNOWN] 拜。[UNKNOWN] 拜灰灰拜拜。[UNKNOWN] 拜辛苦了辛苦了。[UNKNOWN] 辛辛苦不辛苦不辛苦。[UNKNOWN] 你辛苦辛苦啊。[UNKNOWN] 没有没有没有啊啊。[UNKNOWN] 对啊我好不辛苦啊。[UNKNOWN] 好不没了问了问了。[UNKNOWN] 你买了瞧一下啊。[UNKNOWN] 哦我去怎么秒退哦  (💬 丨吧宝宝(x14) / 丨吧(x10) / 无穷无尽的联动(x7) / 气氛对了(x7) / 脸色对了(x6))
+[123m] 🔥 [UNKNOWN] 皮姐啊啊。[UNKNOWN] 加BGM啊。[UNKNOWN] 我现在这边是确实是要去那个。[UNKNOWN] 这个弹幕别急。[UNKNOWN] 要那个。[UNKNOWN] 让那个去调调设备了对。[UNKNOWN] 抱一起。[UNKNOWN] 艾米佳。[UNKNOWN] 呃念一下。[UNKNOWN] 哎忘记看到哪里了呀  (💬 丨吧宝宝(x13) / 气氛对了(x6) / 丨吧(x6) / 脸色对了(x5) / 永别了牢笼(x5))
+[124m] ▫️ [UNKNOWN] 好吧好吧。[UNKNOWN] 确实以后发一下零食很零时  (💬 又在装松弛了(x6) / 绿冻不辛苦？绿冻不辛苦？绿冻不辛苦？绿冻不辛苦？(x4) / 这么凶 / 临时牛魔 / 无穷无尽的联动)
+[125m] ▫️ [UNKNOWN] 谢神的luki的舰长。[UNKNOWN] 谢。[UNKNOWN] 漂亮了。[UNKNOWN] 的猴子打印机啊啊。[UNKNOWN] 鉴于新品一岁上幼儿园。[UNKNOWN] 可以很好的享受你们  (💬 4016(x5) / 跳了(x5) / 能别联动害人了吗？ / 难说 / 40000016)
+[129m] ▫️ [UNKNOWN] 对当时他也是疾疯了。[UNKNOWN] 还不让人走呢。[UNKNOWN] 这时间就差了一个那个一个粉。[UNKNOWN] 在探花天以后别爆。[UNKNOWN] 我只能放弃待了。[UNKNOWN] 双人合作类游戏了。[UNKNOWN] 还真是心入骨兽力更好呢。[UNKNOWN] 哎呀坑了一杯奶茶。[UNKNOWN] 钱坑了一下这个牙牙的奶茶钱  (💬 双人成区 / 这下hzm可惨了 / 问题最多的直播间 / nice！ / 你这个是网络延迟问题)
+[130m] 🔥 [UNKNOWN] 我觉得是对的嗯。[UNKNOWN] 啊我觉得是错的。[UNKNOWN] 彩黄相问的喜欢你。[UNKNOWN] 前日帽的喜欢你。[UNKNOWN] 在葡萄泡香叶面的。[UNKNOWN] 亲密之旅谢同妆绿花的亲密。[UNKNOWN] 喜欢喜欢你在一色寂寞的亲密之旅。[UNKNOWN] 谢谢。[UNKNOWN] 哎呦还有十分钟  (💬 跳了(x9) / 对的对的(x5) / 已退款(x5) / 对的(x4) / 男的女的(x4))
+[130m] 🔥 [UNKNOWN] 我要跟那个老师见面了呀。[UNKNOWN] 但是我不信他会不会割我。[UNKNOWN] 谢谢young graggie的亲密。[UNKNOWN] 他已经在退款了啊。[UNKNOWN] 现在还。[UNKNOWN] 谢啊。[UNKNOWN] 两小时之内可以哇操操吵  (💬 跳了(x9) / 已退款(x5) / 男的女的(x4) / 对的对的(x4) / 一辈子就会在星露谷开拖拉机)
+[132m] ▫️ [UNKNOWN] 哎呀对了我当然忘记了。[UNKNOWN] 谢谢。[UNKNOWN] 喜欢你就是呀。[UNKNOWN] 谢谢呃唐天女亚零七的喜欢你。[UNKNOWN] 写EOG四七的喜欢你。[UNKNOWN] 喜会再再买点东西的喜欢你。[UNKNOWN] 要不要下播的时候。[UNKNOWN] 哦谢谢 兢兢业业。[UNKNOWN] 确实明天联动  (💬 被你气的(x12) / 谁？(x3) / 谁啊 / 你在说啥 / 气出病了)
+[134m] ▫️ [UNKNOWN] 起不来才享受明天那个吗。[UNKNOWN] 明天下午还有一场我就。[UNKNOWN] 情血娇家满满。[UNKNOWN] 不会跟你神秘小惊喜有关的。[UNKNOWN] 如何评价会解版吗。[UNKNOWN] 快点买吧。[UNKNOWN] 我知道我知道。[UNKNOWN] 我已已经受到反噬了。[UNKNOWN] 嗯不好意思  (💬 看看(x5) / 你下次打双人游戏就继续躺吧 / 情商这块 / 拦个女的折磨 / 被你气晕过去了)
+[135m] 🔥 [UNKNOWN] 好吧好吧。[UNKNOWN] 那我们今天直播到此结束了拜拜。[UNKNOWN] 拜  (💬 ？？？(x10) / ？？(x4) / onp(x3) / 又拔线(x3) / ？？？？(x3))
