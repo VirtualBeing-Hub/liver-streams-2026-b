@@ -1,0 +1,210 @@
+## 晚安回复
+
+---
+generatedAt: "2026-11-07T16:00:56.582Z"
+sourceHighlight: "录制-1727071052-20261107-205840-948-和啾啾we were here forever_merged_AI_HIGHLIGHT.txt"
+provider: "daiYu"
+model: "gpt-6-luna"
+fallback: false
+attempts:
+  - provider: "daiYu"
+    model: "gpt-6-luna"
+    status: "success"
+    finishReason: "completed"
+    maxTokens: 100000
+    completionTokens: 514
+    promptTokens: 28337
+    cachedTokens: 4224
+    cacheWriteTokens: 0
+    reasoningTokens: 435
+    apiModeRequested: "responses"
+    apiModeUsed: "responses"
+    sharedPromptCacheKey: "24f3e8f43e69687171dc7f19e48fc035652c5dda1572831b5fd5192b56b2e4ae"
+    sharedPromptPrefixChars: 36898
+    explicitPromptCache: "implicit_routed"
+    promptCacheRolloutBucket: 4660
+    totalTokens: 28851
+    requestId: "218a16df-0366-47a2-9e1f-9f3f81e05e82"
+    responseId: "resp_0c5bc5a8203fa85d016aef4b308ec887d086efc9b5ec20540a"
+    requestStarted: true
+---
+“小路在哪”刷屏那段太有画面了，大家在We Were Here Forever里互相指路、绕来绕去，最后还真把谜题一点点解开，认真又可爱。小松绿今天辛苦啦，喜欢你也一直支持你，听动态的话早点休息，晚安呀～
+
+---
+
+## Highlight
+
+【摘要】(保留率: 前35%热度 + 10%随机)
+---
+【参与者】计划参与: 无
+【参与者】实际出声: 无
+【归属说明】名单不证明逐句身份；实际出声仅指音轨匹配，也可能来自被观看内容。UNKNOWN和匿名标签不可归给房主。
+---
+[0m] 🔥 [UNKNOWN] 嗯嗯。[UNKNOWN] 嗯嗯  (💬 倒下(x17) / 不要叶绿素了😭不要叶绿素了😭(x9) / 何封面(x3) / 继续偷玩别开麦 / 投降)
+[1m] 🔥 [UNKNOWN] 啊我没有开麦克风。[UNKNOWN] 我把麦克风都放出来。[UNKNOWN] 晚上好晚上好。[UNKNOWN] 大家晚上好。[UNKNOWN] 晚上好。[UNKNOWN] 他哎将大局逆转吧哎。[UNKNOWN] 讲什么鬼话听懂。[UNKNOWN] 我们今天来玩。[UNKNOWN] 这个we were here  (💬 倒下(x27) / 晚上好晚上好(x3) / 爆了(x3) / 不要叶绿素了😭不要叶绿素了😭 / 千万别说话！千万要装高冷！)
+[2m] 🔥 [UNKNOWN] together。[UNKNOWN] 哎不对是forever哦。[UNKNOWN] 不是together啊。[UNKNOWN] 玩的是forever。[UNKNOWN] 等一下我们together。[UNKNOWN] top双晨日学。[UNKNOWN] 啊king国王加婚啊。[UNKNOWN] 客set  (💬 倒下(x19) / 思索(x3) / 冷暴力(x3) / 爆了(x3) / 丈育)
+[2m] 🔥 [UNKNOWN] 不能说的。[UNKNOWN] 咪咪。[UNKNOWN] 放开了男神早已。[UNKNOWN] 死去之人准备的归途。[UNKNOWN] Sk。[UNKNOWN] oh f ace ace太好了。[UNKNOWN] 你听我说话我就不用念了。[UNKNOWN] 五倍。[UNKNOWN] 大哥呀钱。[UNKNOWN] 莱克的命运是  (💬 倒下(x24) / 爆了 / 呃呃 / 冷暴力 / 思索)
+[2m] 🔥 [UNKNOWN] 哎其实我们两个刚刚偷玩了。[UNKNOWN] 我们玩了玩了一下。[UNKNOWN] 这个开头。[UNKNOWN] 的对小孙瑞还说特别喜欢这个呃。[UNKNOWN] 像剪纸一样的美术风格。[UNKNOWN] 我建议你怼你等你。[UNKNOWN] 对哎你走了走了走了。[UNKNOWN] 欧耶。[UNKNOWN] 你走了走了走了  (💬 倒下(x30) / 投降(x5) / 思索(x3) / 拜托(x3) / 感谢)
+[3m] 🔥 [UNKNOWN] 小咪咪。[UNKNOWN] 其实我到现在都不知道。[UNKNOWN] 你那边长什么样。[UNKNOWN] 我们并没有描述自身所待的环境。[UNKNOWN] 我这边我这边是。[UNKNOWN] 牢房然后放了一些红色的蘑菇。[UNKNOWN] 然后白色的蜡烛什么的。[UNKNOWN] 白色的蜡烛白色的蜡烛哦  (💬 倒下(x29) / 投降(x5) / 感谢(x4) / 思索(x4) / 拜托)
+[3m] 🔥 [UNKNOWN] 白色的蜡烛然后桌面上。[UNKNOWN] 还有一些就是神秘的小瓶子。[UNKNOWN] 看起来像酒瓶还是什么调料瓶。[UNKNOWN] 还有个白银子。[UNKNOWN] 是大大家房房都长得差不多吧。[UNKNOWN] 应该是走了出门吗 Ok互动。[UNKNOWN] 互动按左键互动这个。[UNKNOWN] 地方刚刚就是已经已经走过一轮了  (💬 倒下(x26) / 思索(x5) / 投降(x5) / 拜托 / 感谢)
+[3m] 🔥 [UNKNOWN] 我是发现他们手里。[UNKNOWN] 对值奔该去的地方。[UNKNOWN] 哎等会儿再看一眼。[UNKNOWN] 哎就打不开走。[UNKNOWN] go。[UNKNOWN] 啊啊把画面挡住了吗。[UNKNOWN] 那等我看一下。[UNKNOWN] 也没有挡很多吧。[UNKNOWN] 等我调整一下。[UNKNOWN] 这样  (💬 倒下(x22) / 思索(x4) / 投降(x3) / 感谢 / 绿巨人)
+[4m] 🔥 [UNKNOWN] Ok你这样。[UNKNOWN] 好我回来了。[UNKNOWN] 吼。[UNKNOWN] 嗯。[UNKNOWN] 但其实哎不对。[UNKNOWN] 我又忘记了这个。[UNKNOWN] 这个地方是什么来着。[UNKNOWN] 三就是你那边是两个符号。[UNKNOWN] 啊这里就。[UNKNOWN] 嗯一个符号吧  (💬 倒下(x10) / 绿巨人(x4) / 三角的正方形(x3) / 投降 / 思索)
+[4m] 🔥 [UNKNOWN] 三合一好好三合一。[UNKNOWN] 三合一。[UNKNOWN] 对一个圆形里面包了一个三角形。[UNKNOWN] 然后三角形里面包了一个五角星。[UNKNOWN] 五角星。[UNKNOWN] 不是这么解的吗。[UNKNOWN] 我去。[UNKNOWN] 大圆大三角大五角星。[UNKNOWN] 第一个没有缘  (💬 倒下(x5) / iceb(x4) / 智力没问题(x4) / 绿巨人(x3) / 智利没问题(x3))
+[5m] 🔥 [UNKNOWN] 你第二个三角。[UNKNOWN] 哎不对我怎么又转过去了。[UNKNOWN] 哎门开你把人送进来啊。[UNKNOWN] 你到什么都没有。[UNKNOWN] 他这里有一个需要识取的东西啊。[UNKNOWN] 跟我们上官一样。[UNKNOWN] 感觉。[UNKNOWN] 我我走到了一个打不开的铁门。[UNKNOWN] 不能从这一侧打开的门  (💬 倒下(x6) / 智利没问题(x5) / 难说(x4) / 思索(x3) / iceb)
+[7m] 🔥 [UNKNOWN] 他没有给我交互的部分。[UNKNOWN] 然后换一个别的换一个别的地方吗。[UNKNOWN] 哦能打开。[UNKNOWN] 我去。[UNKNOWN] 是不是要冲刺跑过去。[UNKNOWN] 那个地方对我刚刚冲过来了。[UNKNOWN] 我我为什么为什么。[UNKNOWN] 为什么为什么我冲不过去  (💬 够绿(x6) / 倒下(x5) / 投降(x4) / 思索(x3) / iceb(x3))
+[7m] 🔥 [UNKNOWN] 为什么为什么为什么。[UNKNOWN] 按那个夏夫特狂冲就可以过来了。[UNKNOWN] 我我摁了呀西。[UNKNOWN] 嗨。[UNKNOWN] 还是会过来吧。[UNKNOWN] 哈哈。[UNKNOWN] 可是小树绿腿短短的也好。[UNKNOWN] 可爱呀就是冲一下。[UNKNOWN] 就是这拉完就感觉  (💬 倒下(x8) / 够绿(x7) / 投降(x6) / 思索(x4) / 够区(x3))
+[8m] 🔥 [UNKNOWN] 拉完就抽。[UNKNOWN] 这边有一个。[UNKNOWN] 嗯我这边有个图案。[UNKNOWN] 我看一看看桌子上有没有一个卷轴。[UNKNOWN] 你可以把这个卷轴。[UNKNOWN] 插到那个轴芯里面去。[UNKNOWN] 是的什么什么轴心没有卷轴。[UNKNOWN] 也没有轴心啊。[UNKNOWN] 旁边有个桌子吧  (💬 倒下(x12) / 轴芯(x10) / 投降(x3) / 思索(x3) / 黑话(x3))
+[8m] 🔥 [UNKNOWN] 桌子上应该有一个轴。[UNKNOWN] 我们两个的地图是不一样的。[UNKNOWN] 我们两个是不一样的啊。[UNKNOWN] 右边的那个壮是一个一个t形。[UNKNOWN] 然后一个 梯形。[UNKNOWN] 里面有一个半圆形。[UNKNOWN] 然后半圆形里面有个闪电。[UNKNOWN] 梯形半圆形闪电嗯  (💬 倒下(x14) / 轴芯(x10) / 思索(x3) / 黑话 / 投降)
+[9m] 🔥 [UNKNOWN] 呃。[UNKNOWN] 那为什么哎怎么又打开了。[UNKNOWN] 梯形半。[UNKNOWN] 没有半圆形。[UNKNOWN] 不管了打开了。[UNKNOWN] 那我给你看一下。[UNKNOWN] 我这边的我这边是。[UNKNOWN] 呃里面一不最外面是一个圆。[UNKNOWN] 然后里面是一个嗯五边形  (💬 倒下(x16) / 思索(x4) / 投降(x3) / 拜托 / 筝形)
+[9m] 🔥 [UNKNOWN] 切了一个五边形。[UNKNOWN] 然后还有一个这个菱形。[UNKNOWN] 五边形菱形对。[UNKNOWN] 哎这错了吗。[UNKNOWN] 圆形一二哦。[UNKNOWN] 这是六边形五边形啊。[UNKNOWN] 哎我们开了何叶啊。[UNKNOWN] 真醒吗。[UNKNOWN] 这个哦哦好像确实可以叫我真醒  (💬 倒下(x16) / 投降(x4) / 凿凿凿(x4) / 黑话(x3) / 拜托)
+[10m] 🔥 [UNKNOWN] 拿我进了吗。[UNKNOWN] 新的门。[UNKNOWN] 新的门啊。[UNKNOWN] 借光点了一个点了。[UNKNOWN] 一个火把继续往前。[UNKNOWN] 这里偷光。[UNKNOWN] 点着了。[UNKNOWN] 不许着。[UNKNOWN] 还是谁的人直接投光抢走。[UNKNOWN] 我去有一个人啊好吓人啊啊  (💬 倒下(x12) / 凿凿凿(x10) / 投降(x5) / 黑话(x5) / 思索(x3))
+[10m] 🔥 [UNKNOWN] 你那边怎么还有人我。[UNKNOWN] 这边都没有见过人。[UNKNOWN] 没事我是人嘿嘿哦。[UNKNOWN] 你原来是人呢。[UNKNOWN] 不早说外星人是人人。[UNKNOWN] 外星人是人吗。[UNKNOWN] 外星人未必是人我怎么走回去了。[UNKNOWN] 哎我找到这个轴心了。[UNKNOWN] 你又在轴心又在轴心  (💬 倒下(x11) / 凿凿凿(x8) / 思索(x5) / 月牙(x5) / 黑话(x3))
+[10m] 🔥 [UNKNOWN] 呃那个圆圆的轴。[UNKNOWN] 我看看那个密码是什么。[UNKNOWN] 半月形。[UNKNOWN] 月亮三角形然后六边形。[UNKNOWN] 对。[UNKNOWN] 过去哇就应该这种。[UNKNOWN] 就应该这种不用想什么话题。[UNKNOWN] 抽两个人就可以随便。[UNKNOWN] 讲话的这种游戏太好  (💬 倒下(x12) / 月牙(x5) / 思索(x4) / 月牙形 / 还有复刻)
+[11m] 🔥 [UNKNOWN] 我好。[UNKNOWN] 我真是我真是听出了聪明的策话。[UNKNOWN] 嗯。[UNKNOWN] 没有六边形没人敢啊。[UNKNOWN] 没有六边的小红蛋正好。[UNKNOWN] 意思任何语精平是没话说。[UNKNOWN] 何雨宙平时说话。[UNKNOWN] 一定要在直播里面说吗。[UNKNOWN] 你在为什么了  (💬 倒下(x20) / 思索(x7) / 懂你意思(x3) / dnys(x3) / 本质不熟)
+[12m] 🔥 [UNKNOWN] 哦哦他这个他这个好像是嗯。[UNKNOWN] 只要这三个图案都有了就可以了哦。[UNKNOWN] 要按顺序。[UNKNOWN] 对。[UNKNOWN] 我刚刚第二个里面没有六边形。[UNKNOWN] 然后可以可以。[UNKNOWN] 我知道那我往前走了。[UNKNOWN] 你这个打开了哦。[UNKNOWN] 嗯我这个打开了  (💬 倒下(x12) / 思索 / 呃呃slg / 直播间能说吗 / 没话说)
+[12m] 🔥 [UNKNOWN] 有什么不能给大家看的吗。[UNKNOWN] 不能给大家看多了去了。[UNKNOWN] 我们我们我们天天这个分享。[UNKNOWN] 今天吃了什么。[UNKNOWN] 我怎么掉下去了啊。[UNKNOWN] 没数吧没有没有。[UNKNOWN] 这个地方好像是不会数的掉下去了。[UNKNOWN] 我要怎么重跑一段  (💬 倒下(x10) / 不能说的秘密 / 咋这样 / dnys / 藏狗)
+[12m] 🔥 [UNKNOWN] 然后再跳吗。[UNKNOWN] 你也这样真是真烦。[UNKNOWN] 不要不要单独说这种话。[UNKNOWN] 什么在说谁在说。[UNKNOWN] 嗯在在说你逗猫。[UNKNOWN] 他说我今天说话声音很甜。[UNKNOWN] 我每天讲话都这样啊。[UNKNOWN] 然后我这边有一个门需要开。[UNKNOWN] 你那边如果有图像的话  (💬 倒下(x13) / 甜甜甜(x6) / 思索 / 做人真的可以 / onp)
+[13m] 🔥 [UNKNOWN] 可以再告诉我。[UNKNOWN] 我是一个六边形。[UNKNOWN] 然后一个正方形。[UNKNOWN] 我喜欢弱智啊。[UNKNOWN] 有什么问题吗。[UNKNOWN] 嗯我这边有一个门。[UNKNOWN] 然后还有一个这个可以拉动的东西。[UNKNOWN] 但是我拉住了他之后。[UNKNOWN] 嗯我的门没有我  (💬 甜甜甜(x12) / 倒下(x6) / iceb(x4) / 投降(x3) / 拜托)
+[14m] 🔥 [UNKNOWN] 的的门打开了一半。[UNKNOWN] 嗯他他是一个看见你了。[UNKNOWN] 小苏绿啊。[UNKNOWN] 你看见我了吗。[UNKNOWN] 往右边看哦。[UNKNOWN] 我看到你了。[UNKNOWN] 分离成弱率了。[UNKNOWN] 是需要分别拉开吗。[UNKNOWN] 我们两个那我那我下拉拉  (💬 拉拉(x9) / 倒下(x5) / 急了(x3) / 拜托 / 她在笑什么)
+[15m] ▫️ [UNKNOWN] 哎他这逗我玩了。[UNKNOWN] 呃。[UNKNOWN] 啊你在我旁边那个门啊。[UNKNOWN] 那是哦。[UNKNOWN] 啊这门打不开。[UNKNOWN] 俺拾了个俺拾了个钥匙。[UNKNOWN] 哎是的。[UNKNOWN] 然后这边有一个。[UNKNOWN] 唉。[UNKNOWN] 忽然有一个可以拉拽的东西  (💬 拉拉(x9) / 倒下(x7) / 急了(x3) / ？！拉拉？！ / yls也分离焦虑了)
+[16m] 🔥 [UNKNOWN] 哦。[UNKNOWN] 我们可以交换钥匙。[UNKNOWN] 发现了吗 Ok呃不不是不是。[UNKNOWN] 你放放上了吗。[UNKNOWN] 我的还没放上去啊。[UNKNOWN] 放个绿的吧 Ok放上去了。[UNKNOWN] 哦。[UNKNOWN] 回来回来回来回来。[UNKNOWN] 谁家说我不看弹幕没有看  (💬 倒下(x9) / 这是俺拾嘞 / 拜托 / 投降 / 思索)
+[17m] 🔥 [UNKNOWN] 弹幕。[UNKNOWN] 又来五米五。[UNKNOWN] 我去感觉这个谜题变难了。[UNKNOWN] 突然变得好难哪。[UNKNOWN] 它这个要旋转。[UNKNOWN] 这个角度可以拿到一把圆的钥匙。[UNKNOWN] 原料是解锁这个。[UNKNOWN] 看上什么样式。[UNKNOWN] 这个送衣服  (💬 倒下(x16) / 思索(x3) / 羽啾就会理宇宙猫，小松绿呢 / 拜托 / 千万别看弹幕)
+[18m] 🔥 [UNKNOWN] 这是什么移动。[UNKNOWN] 嗯。[UNKNOWN] 这是什么东西呢。[UNKNOWN] 放的哦。[UNKNOWN] 都不动了。[UNKNOWN] 按斤。[UNKNOWN] 我的妈呀这门那么多基。[UNKNOWN] 晚上。[UNKNOWN] 这面可以推他两个人推的吗。[UNKNOWN] 哦可能是最后两个人  (💬 倒下(x9) / 今晚就这个了(x5) / 思索 / 烧脑 / 智利没问题)
+[19m] 🔥 [UNKNOWN] 一起到这儿来推这个门。[UNKNOWN] 然后拿这个钥匙出去。[UNKNOWN] 我懂了。[UNKNOWN] 那我们要先。[UNKNOWN] 把这个圆圆的钥匙掏了。[UNKNOWN] 小熊瑞那里有那种什么。[UNKNOWN] 指针指的那种不同的地方的东西吗。[UNKNOWN] 什么指针指的不同呢  (💬 今晚就这个了(x6) / 思索(x6) / 智利没问题(x6) / 大家也早点休息吧(x5) / 倒下(x4))
+[19m] 🔥 [UNKNOWN] 我这里有一个门。[UNKNOWN] 就是刚刚交换物品的这个地方。[UNKNOWN] 右边有个门进。[UNKNOWN] 我可以拿一个红红的钥匙。[UNKNOWN] 然后他这个呢嗯可能要只对地方。[UNKNOWN] 然后才可以拿。[UNKNOWN] 我这边再解一个谜题啊。[UNKNOWN] 姐哦我这里也有一个什么华容道  (💬 智利没问题(x10) / 思索(x5) / 倒下(x5) / 投降 / 大家也早点休息吧)
+[19m] 🔥 [UNKNOWN] 我感觉。[UNKNOWN] 是哎为什么有的。[UNKNOWN] 时候这个选不中呢。[UNKNOWN] 唉这个这到底是为什么在动哦。[UNKNOWN] 对面在动啊我懂了。[UNKNOWN] 那我挡住你的路了。[UNKNOWN] 啊还能挡路吗。[UNKNOWN] 发现没。[UNKNOWN] 那个瓶子动了  (💬 智利没问题(x10) / 智力没问题(x6) / 倒下(x5) / 今天怎么才七号。想你了卫戍协议。。。(x3) / 思索)
+[20m] 🔥 [UNKNOWN] 那我要看一下怎么才能不挡住你。[UNKNOWN] 至少两个人操控的懂了。[UNKNOWN] 那我先把这个让开吧。[UNKNOWN] 把那个皇冠先移下来嘛。[UNKNOWN] 我把这个先移走。[UNKNOWN] 那你可以让一让。[UNKNOWN] 好让我把东西都移过来。[UNKNOWN] 嗯嗯。[UNKNOWN] 我去感觉我们今天晚上都是这样  (💬 智力没问题(x4) / 倒下(x4) / iceb(x4) / 我看你这操作你也不用玩了，我准备点外卖了，你收拾收拾准备抢单吧🛵(x3) / 智利没问题(x3))
+[21m] 🔥 [UNKNOWN] 嘿。[UNKNOWN] 等一下先先放谁来着。[UNKNOWN] 嗯嗯。[UNKNOWN] 哎我怎么没办法取消选择。[UNKNOWN] 这样。[UNKNOWN] 哦你要把那个最上面。[UNKNOWN] 那个皇冠先让下来。[UNKNOWN] 懂我。[UNKNOWN] 嗯这样。[UNKNOWN] 然后你把那个王冠挪过去之后  (💬 大家也早点休息吧(x7) / 倒下(x4) / iceb(x3) / 智利没问题(x3) / 思索(x3))
+[22m] 🔥 [UNKNOWN] 我就可以把下面。[UNKNOWN] 这个小王冠先放上去。[UNKNOWN] Ok。[UNKNOWN] 嗯。[UNKNOWN] 选择。[UNKNOWN] 唉你就选择上面那个。[UNKNOWN] 上面那个哎呦。[UNKNOWN] 我看看好像卡住了。[UNKNOWN] 哎怎么不能选上面的个。[UNKNOWN] 哎  (💬 倒下(x8) / 我看你这操作你也不用玩了，我准备点外卖了，你收拾收拾准备抢单吧🛵(x7) / 两条区(x6) / 思索(x3) / 两投注(x3))
+[22m] 🔥 [UNKNOWN] 他怎么舍不了啊。[UNKNOWN] 他说了。[UNKNOWN] 你把它取消选择之后。[UNKNOWN] 你你w呢你就能选上面那个了。[UNKNOWN] 啊啊哦啊对你闪伤了。[UNKNOWN] 把你你把它移过去。[UNKNOWN] 另外移过去然后把小皇冠放上去。[UNKNOWN] 嗯。[UNKNOWN] 哦nice nice啊  (💬 倒下(x6) / 两条区(x5) / 天才(x5) / 我看你这操作你也不用玩了，我准备点外卖了，你收拾收拾准备抢单吧🛵(x4) / 投降(x3))
+[23m] 🔥 [UNKNOWN] 然后我们先对了一个。[UNKNOWN] 哎对了一个之后把这个挪开。[UNKNOWN] Ok这操作有点难哎。[UNKNOWN] 对然后先拿我来动。[UNKNOWN] 嗯你来吧。[UNKNOWN] 现在你的上面的那个。[UNKNOWN] 是不是就可以放到他位置了。[UNKNOWN] 嗯。[UNKNOWN] 下来吧下来吧  (💬 全球首通(x4) / 天才(x4) / 我们是冠军 / 倒下 / 智力没问题)
+[24m] 🔥 [UNKNOWN] ok好了好好解开了。[UNKNOWN] 好了好了好了好了好了好了好了。[UNKNOWN] 我们往前走吧。[UNKNOWN] Go go。[UNKNOWN] 它是什么东西解开了。[UNKNOWN] 我这边有一个。[UNKNOWN] 我这边有一个书。[UNKNOWN] 然后旁边有一个可以拾取的东西。[UNKNOWN] 一个呃什么  (💬 我们是冠军(x6) / 黑话(x5) / 全球首通(x4) / 魔法已经解开了(x4) / 倒下(x4))
+[24m] 🔥 [UNKNOWN] 我看着看着像看着像。[UNKNOWN] 车轮的那个或者是方向盘之类东西。[UNKNOWN] 然后里面是个五五。[UNKNOWN] 对你那边有数字吗。[UNKNOWN] 我这边没有数字。[UNKNOWN] 但是有方向的东西。[UNKNOWN] 动然后我这边有一张纸。[UNKNOWN] 我要拿个笔记一下  (💬 iceb(x4) / 黑话(x4) / 思索(x3) / 倒下 / 我看你这操作你也不用玩了，我准备点外卖了，你收拾收拾准备抢单吧🛵)
+[25m] 🔥 [UNKNOWN] 我怕我自己记不住啊。[UNKNOWN] 我你呢。[UNKNOWN] good笔呢。[UNKNOWN] 他是一个就是哎就是十字风格。[UNKNOWN] 然后。[UNKNOWN] 第一排第一排第二个。[UNKNOWN] 然后最后一个第二排。[UNKNOWN] 啊打开了打开了。[UNKNOWN] 有个钥匙啊  (💬 iceb(x5) / 黑话(x4) / 思索(x3) / [UPOWER_1891335475_什么] / 我看你这操作你也不用玩了，我准备点外卖了，你收拾收拾准备抢单吧🛵)
+[26m] 🔥 [UNKNOWN] 好了好了。[UNKNOWN] 这里有一个解锁。[UNKNOWN] 让我看怎么上楼。[UNKNOWN] 这是不是可以运过来。[UNKNOWN] 嗯有个东西应该可以运过来。[UNKNOWN] 我这边有一个门锁。[UNKNOWN] 我打不开然后我再找一找。[UNKNOWN] 嗯。[UNKNOWN] 这个门哦你有一个你有一个东西  (💬 倒下(x5) / 思索(x3) / 何表达 / 我看你这操作你也不用玩了，我准备点外卖了，你收拾收拾准备抢单吧🛵 / 投降)
+[26m] 🔥 [UNKNOWN] 你那边应该有一个跟刚刚。[UNKNOWN] 一样的传送带可以传过来东西的。[UNKNOWN] 然后我这边还有新的。[UNKNOWN] 你这个地方看你还没上来。[UNKNOWN] 他他这个菱形的。[UNKNOWN] 是真的老手机吗。[UNKNOWN] 然后里面有的钥匙。[UNKNOWN] 感觉这个是吗  (💬 倒下(x6) / 投降(x3) / 我看你这操作你也不用玩了，我准备点外卖了，你收拾收拾准备抢单吧🛵 / 思索 / 中文😱困惑😕)
+[30m] ▫️ [UNKNOWN] 唉有了  (💬 我看你这操作也不用玩了，我准备点外卖了，你收拾收拾准备抢单吧(x6) / 思索(x3) / iceb / 语气对了 / 额额)
+[31m] ▫️ [UNKNOWN] 转一圈抽一次。[UNKNOWN] 先交换。[UNKNOWN] 可能要有地方塞那个轮盘了吧。[UNKNOWN] 唉这个应该是要记录的  (💬 倒下(x6) / 今天羽9好夹 / 应该是有作弊道具的吧 / 你最爱的抽卡 / 你也要回到你自己的地方啊，手上的轮胎也有解密吧)
+[33m] ▫️ [UNKNOWN] 我们摁住我。[UNKNOWN] 嗯咦那是我站在这儿吧  (💬 倒下(x12) / 磨豆腐 / 开磨 / 感觉这解密确实有点难度了 / 拉磨)
+[34m] ▫️ [UNKNOWN] 哎我这是上哪哦。[UNKNOWN] 随便摁吗。[UNKNOWN] 你你去了吗。[UNKNOWN] 你尽可能语言描述一下。[UNKNOWN] 中间有个缝儿的那个贝壳。[UNKNOWN] 我的顺序你记一下。[UNKNOWN] 第一个长得像咖啡豆。[UNKNOWN] 第二个长得。[UNKNOWN] 尖尖的就像丁螺那样的  (💬 思索 / 倒下 / 冷暴力[大哭] / 对的对的 / 大便)
+[36m] ▫️ [UNKNOWN] 第四个是一个像鹦鹉螺那样。[UNKNOWN] 最后一个是一个扇贝。[UNKNOWN] 嗯你  (💬 倒下(x3) / 骡子植物好厉害 / 思索 / 晕晕 / 我懂了)
+[38m] ▫️ [UNKNOWN] 嗯没事上面最后他会转的。[UNKNOWN] 嗯你按了之后。[UNKNOWN] 就是按下去了。[UNKNOWN] 是最上面的那个那个就是滚的。[UNKNOWN] 咖啡豆也爱用。[UNKNOWN] 了也按用了。[UNKNOWN] Ok我这边是什么珍珠珍珠按钉螺。[UNKNOWN] 然后最后一个。[UNKNOWN] 我这块的是扇贝  (💬 思索(x5) / 倒下(x4) / 好像不是锁定诶 / [UPOWER_1891335475_思索] / 老师你在讲课吗好可怕ptsd了)
+[40m] 🔥 [UNKNOWN] 扇贝暗幼螺。[UNKNOWN] Ok。[UNKNOWN] 好我们这边应该解开了。[UNKNOWN] 你那边应该解开了。[UNKNOWN] 我这边四个灯能亮了。[UNKNOWN] 好啊然后我再去我再去找。[UNKNOWN] 你还有我再去找你来。[UNKNOWN] 哇太聪明了怎么解的。[UNKNOWN] 就是要不就是你这边对我这边  (💬 天才(x18) / 小松绿智商高(x9) / 拜托(x3) / 甜菜 / 天才天才)
+[41m] 🔥 [UNKNOWN] 要不然就我这边对你这边。[UNKNOWN] 然后我们试了一下。[UNKNOWN] 就是你那边不会对我。[UNKNOWN] 这边造成影响之后。[UNKNOWN] 肯定就是根据我这边的图像。[UNKNOWN] 按你那边的按键啊。[UNKNOWN] 只有两个方式。[UNKNOWN] 我们两个都试了。[UNKNOWN] 重举啊  (💬 小松绿智商高(x9) / 倒下(x4) / 天才(x3) / 拜托 / 对的对的)
+[41m] 🔥 [UNKNOWN] 无穷无尽的穷举啊。[UNKNOWN] 是嗯。[UNKNOWN] 走过了走过了下面下面。[UNKNOWN] 这边。[UNKNOWN] 嗯。[UNKNOWN] 我是不是走错楼梯。[UNKNOWN] 太聪明了我是不是走错楼梯了。[UNKNOWN] 下面还有一个地方。[UNKNOWN] 修这个齿轮这样推那个转盘的时候  (💬 小松绿智商高(x6) / 思索(x3) / 天才 / 拜托 / 倒下)
+[42m] ▫️ [UNKNOWN] 有东西动吗。[UNKNOWN] 有吗。[UNKNOWN] 我刚应该把这个齿轮放上了。[UNKNOWN] 啊。[UNKNOWN] 紫色的雾开红色的按钮。[UNKNOWN] 我们从最后从第一个开始。[UNKNOWN] 啊需要开锁。[UNKNOWN] 我抽晚就会开始装。[UNKNOWN] 像暗蓝色都。[UNKNOWN] 怎么回事  (💬 倒下 / 换人了？ / 骡子植物好厉害 / 思索 / 是的吧)
+[47m] ▫️ [UNKNOWN] 没人想是不是还要重新搞这个烟。[UNKNOWN] 然后最后一个应该是摁这个。[UNKNOWN] 哦红色的按钮和。[UNKNOWN] 好我现在来。[UNKNOWN] 然后我这边蓝色的灯亮了。[UNKNOWN] 要转这个烟吗。[UNKNOWN] 哎就是第一个的三个。[UNKNOWN] 要素是搬这个蓝色的  (💬 拜托 / 没亮灯吧 / 工作流来了 / 一起摁 / 要一起按吗)
+[51m] ▫️ [UNKNOWN] 小手机没在旁边。[UNKNOWN] 肯定不是这个。[UNKNOWN] 什么样的扳手再看一下。[UNKNOWN] 是这个是这个对吧。[UNKNOWN] 我们现在就是要启动这个装置。[UNKNOWN] 有一种。[UNKNOWN] 他会自己恢复回去吧。[UNKNOWN] 我跟他来如此妈。[UNKNOWN] 哎呦喂有电了  (💬 思索(x6) / 倒下(x4) / 镜头前的是当前看的那页 / 再看看呢 / 123输错了顺序吧)
+[53m] 🔥 [UNKNOWN] 要没有电了。[UNKNOWN] 啊有了有了上面蓝蓝的了。[UNKNOWN] 然后我们现在去 搬那个红色的。[UNKNOWN] 时间有一个有一个倒计时。[UNKNOWN] 按那个按钮。[UNKNOWN] 这个大轮子启动之后再说。[UNKNOWN] 我看一下启动蓝色这边。[UNKNOWN] 转了啊一二三  (💬 倒下(x18) / 急了(x4) / 思索(x4) / 语气对了(x3) / 这么生气)
+[55m] ▫️ [UNKNOWN] 七罚的。[UNKNOWN] 我我不知道我这边我没有。[UNKNOWN] 你去检查灯亮没有。[UNKNOWN] 啊亮了亮的特别亮啊。[UNKNOWN] 好亮啊哎我去总算结束了。[UNKNOWN] 是要干什么呢。[UNKNOWN] 打这个样看第六个嗯  (💬 我们是冠军(x4) / 思索 / 好耶 / 倒下 / 投降)
+[58m] ▫️ [UNKNOWN] 嘶亮了之后按理说这个。[UNKNOWN] 好现在启动  (💬 倒下(x6) / 思索(x5) / 投降 / 有本事别看弹幕提示 / 超时了)
+[61m] 🔥 [UNKNOWN] 好这边亮亮了亮了亮了之后。[UNKNOWN] 等灯亮。[UNKNOWN] 等灯亮你去按这个这个就行。[UNKNOWN] 灯亮了吗。[UNKNOWN] 看这个还没还没亮。[UNKNOWN] 他稍等一会儿。[UNKNOWN] 这个灯怎么还不亮啊。[UNKNOWN] 你有点急了。[UNKNOWN] 唉哦哦不对忘记法哥扳手了  (💬 iceb(x10) / 倒下(x9) / 投降(x4) / 气阀忘了 / 笑噜)
+[61m] 🔥 [UNKNOWN] 对不起对不起对不起。[UNKNOWN] 对不起忘了忘了忘了从头开始哦。[UNKNOWN] 忘了。[UNKNOWN] 哇这太容易。[UNKNOWN] 忘了我现在有点着急了。[UNKNOWN] 气阀之后拉然后一二三。[UNKNOWN] 然后现在可以拉红色的。[UNKNOWN] Ok然后我来摁这个。[UNKNOWN] 你摁旁边的那个  (💬 iceb(x10) / 倒下(x7) / 投降(x4) / 气阀不拉了 / 怎么又互换了)
+[62m] ▫️ [UNKNOWN] 哦哦嗯。[UNKNOWN] 嘶嗯嗯。[UNKNOWN] 哎。[UNKNOWN] 嗯等你那个阀拉下来之后。[UNKNOWN] 我再开这个轮啊。[UNKNOWN] 那你去你去拧钥匙吧。[UNKNOWN] 好我拧拧钥匙。[UNKNOWN] Ok我按下来了啊。[UNKNOWN] 然后我现在可以搬蓝色的。[UNKNOWN] 然后你去你去按那个你去拽那个  (💬 不一定吧，越急越漏，那不急了就一直拖着吗(x7) / 倒下(x4) / 思索 / 怎么回事呢 / ai弹幕一股味)
+[65m] 🔥 [UNKNOWN] 嗯拉环。[UNKNOWN] 拉花。[UNKNOWN] 然后再拧一下钥匙哦。[UNKNOWN] Bgm变了BGM变了。[UNKNOWN] 是不是重了 Bgm都变了啊耶。[UNKNOWN] 啊讨厌。[UNKNOWN] 哈哈。[UNKNOWN] 冲哥哥在转。[UNKNOWN] 是哇。[UNKNOWN] 那后面是什么呀  (💬 倒下(x16) / 拿下(x6) / 拜托(x4) / 我们是冠军！(x4) / 不一定吧，全球首通？别人通关了不一定开直播(x4))
+[66m] 🔥 [UNKNOWN] 不知道不知道啊。[UNKNOWN] 哦我看见了有图案。[UNKNOWN] 我们看是那个上面的那个图案吗。[UNKNOWN] 是。[UNKNOWN] 嗯嗯我有点看不太清  (💬 倒下(x9) / 不一定吧，全球首通？别人通关了不一定开直播(x6) / 思索 / 酣畅淋漓 / 牛叫)
+[67m] ▫️ [UNKNOWN] 奇怪。[UNKNOWN] 齿轮的谜没解呢。[UNKNOWN] 现在还是一个对游戏有追求的人是嗯。[UNKNOWN] 有个齿轮的谜题。[UNKNOWN] 哎呀感觉有点感觉有点停滞了。[UNKNOWN] 感觉。[UNKNOWN] 哦我们是不是没有。[UNKNOWN] 我没有剪对面的题。[UNKNOWN] 我想起来  (💬 我的弹幕也别复制(x9) / 倒下(x5) / 不一定吧，合作解谜累不累得看队友，遇到菜队友才真累(x4) / 我去能不能别复制ai弹幕，太搞笑了(x4) / 投降(x3))
+[68m] 🔥 [UNKNOWN] 哦不对这是对面的这个题。[UNKNOWN] 那对面你原先哦对面。[UNKNOWN] 有一个三角形的钥匙。[UNKNOWN] 对吧对吧嗯。[UNKNOWN] 你还有落下的东西吗。[UNKNOWN] 一点点微弱的进度。[UNKNOWN] 它这个三角形。[UNKNOWN] 能不能插进去了。[UNKNOWN] 硬插  (💬 投降(x5) / 倒下(x5) / 银行业一样一样有有有也会有h'y'hui't'y'r's'c'dn(x5) / 无穷无尽的解谜 / 思索)
+[69m] 🔥 [UNKNOWN] 狂暴着硬插别插了别插了。[UNKNOWN] 那是刚刚解开那个发电机了之后。[UNKNOWN] 没有什么好东西。[UNKNOWN] 我没有奖励吗。[UNKNOWN] 嗯他不是把那个  (💬 倒下(x12) / 思索(x7) / 投降 / 黑话 / 无穷无尽的解谜)
+[71m] 🔥 [UNKNOWN] 我看不太懂。[UNKNOWN] 这个到底是什么呀。[UNKNOWN] 保险柜怎么就是三楼啊。[UNKNOWN] 图不是吧。[UNKNOWN] 行的右下角小松绿。[UNKNOWN] 那个对面有一个绿绿的钥匙。[UNKNOWN] 开着门呢。[UNKNOWN] 是不是在里面的二楼能上去的。[UNKNOWN] 绿绿的  (💬 够绿(x11) / 倒下(x5) / 绿绿的门(x3) / ai / ？？？)
+[71m] 🔥 [UNKNOWN] 唉我去。[UNKNOWN] 我忘记开那个绿绿的门了。[UNKNOWN] 那个绿绿的门对亮二楼。[UNKNOWN] 你看那有个绿绿的门。[UNKNOWN] 呃那我们怎么去那边的二楼呢。[UNKNOWN] 我身上确实有一个绿绿的钥匙。[UNKNOWN] 我们要下去去那边找上去的路吗。[UNKNOWN] 够够去对面吧  (💬 够绿(x11) / 倒下(x6) / 绿绿的门(x3) / 凭什么不能看弹幕，弹幕才是这游戏本体 / （一条伪装成真人的ai弹幕）)
+[71m] 🔥 [UNKNOWN] 找对面的开绿绿的门。[UNKNOWN] 哎。[UNKNOWN] 他不会给我们一转转到中间去吧。[UNKNOWN] 这边有个电梯。[UNKNOWN] 问题。[UNKNOWN] 人不在说他会自己杀人吗。[UNKNOWN] 啥来接我。[UNKNOWN] 能开吗。[UNKNOWN] 钥匙。[UNKNOWN] 开了  (💬 凭什么绿绿的人只能开绿绿的门，换个人试试(x6) / 倒下(x4) / 够绿 / 开绿绿的门 / 思索)
+[73m] 🔥 [UNKNOWN] 但是我进来了之后嗯。[UNKNOWN] 哦那你还在去对面。[UNKNOWN] 嗯是那个墙上挂的那个。[UNKNOWN] 是那个保险柜旁边的那个。[UNKNOWN] 就是你已经打开的那个门旁边。[UNKNOWN] 哎不对不对呃。[UNKNOWN] 嗯是那个墙上的挂画。[UNKNOWN] 你先告诉我你是不是拍了照片  (💬 电梯3-0？那走楼梯的就不算通关吗(x6) / iceb(x5) / 投降(x3) / 裸子植物欸 / 电梯3-0小松绿)
+[73m] 🔥 [UNKNOWN] 啊我拍我辛苦了。[UNKNOWN] 你你告诉我第一个。[UNKNOWN] 六个点的指向的是哪个方向。[UNKNOWN] 呃正正右。[UNKNOWN] 好我现在拿到了三角形的钥匙。[UNKNOWN] 那是你门的对面。[UNKNOWN] 一。[UNKNOWN] 我把它摁过去了。[UNKNOWN] 走热走一裤一裤  (💬 电梯3-0？那走楼梯的就不算通关吗(x5) / 倒下(x4) / 我说小松绿智商高，不服反驳 / 拜托 / 裸子植物和蕨类植物，就这两种)
+[76m] 🔥 [UNKNOWN] 这是给我们送哪儿去了。[UNKNOWN] 新的第三层来喽。[UNKNOWN] 啊有齿轮啦。[UNKNOWN] 我们可以啊不行。[UNKNOWN] 这个齿轮挡视线。[UNKNOWN] 唉这个黄的有可以解锁。[UNKNOWN] 哎呀那你来。[UNKNOWN] 我当时间我要我要下去了。[UNKNOWN] 唉这里有小路你往这里走  (💬 小路(x13) / 小路在哪(x5) / 爆了(x3) / 有什么？(x3) / 小路来了(x3))
+[76m] 🔥 [UNKNOWN] 可以直接下到那个你我看不到。[UNKNOWN] 我看不到跟我来。[UNKNOWN] 跟我来跟我来往前往前。[UNKNOWN] 唉往左往左走到底。[UNKNOWN] 啊。[UNKNOWN] 对。[UNKNOWN] 然后可以直接下一楼。[UNKNOWN] 路呢啊往后走往后走。[UNKNOWN] 哎对往前往前  (💬 小路(x14) / 小路在哪(x5) / 倒下(x3) / 爆了(x3) / 有什么？(x3))
+[76m] 🔥 [UNKNOWN] 你冲。[UNKNOWN] 然后后这儿哪哪啊。[UNKNOWN] 对这边这边对。[UNKNOWN] 往前往前左手左左手边靠上去。[UNKNOWN] 好了。[UNKNOWN] 这个桃啊喂喂。[UNKNOWN] 再见。[UNKNOWN] 冷吧。[UNKNOWN] 啊。[UNKNOWN] 我给你送下去。[UNKNOWN] 唉不对我没有办法送你下去  (💬 咋这样(x7) / 倒下(x4) / 路呢 / 敢问路在何方 / 路在脚下？那低头走路的怎么还没通关)
+[77m] 🔥 [UNKNOWN] 我推不动这个。[UNKNOWN] 哦哦啊呵呵。[UNKNOWN] 呃。[UNKNOWN] 嗯嗯老公给点饭吃。[UNKNOWN] 老公。[UNKNOWN] 啊呵。[UNKNOWN] 老公。[UNKNOWN] 我指定并毕小松。[UNKNOWN] 并呃并小松绿胶。[UNKNOWN] 没有办法哦。[UNKNOWN] 嗯这不是要点这个右边的这个哟  (💬 倒下(x6) / 病松绿小娇(x6) / 凭什么说是有人按，电梯自己也能上下跑(x5) / 似曾相识(x3) / 哈哈哈哈哈哈哈哈哈哈(x3))
+[78m] 🔥 [UNKNOWN] 这个边右边排啊哦。[UNKNOWN] 他会干嘛。[UNKNOWN] 嗯有声音这。[UNKNOWN] 嗯来了一个吊车。[UNKNOWN] 我给你带走了。[UNKNOWN] 八玩车。[UNKNOWN] 夜了。[UNKNOWN] 绿送绿小娇。[UNKNOWN] 啊门开了前方的区。[UNKNOWN] 给你送走了啊  (💬 倒下(x8) / 病松绿小娇(x7) / 凭什么说是有人按，电梯自己也能上下跑(x4) / 88 / 哈哈哈哈哈哈哈哈哈哈)
+[78m] 🔥 [UNKNOWN] 别送我走。[UNKNOWN] 现在什么都动不了了。[UNKNOWN] 分的好吧。[UNKNOWN] 何意味。[UNKNOWN] 啊给我个抬到心的一层。[UNKNOWN] 我来了。[UNKNOWN] ok。[UNKNOWN] 怎么又回到了这种。[UNKNOWN] 石窟里面。[UNKNOWN] 我跟幸好这个游戏  (💬 be了(x8) / 倒下(x6) / 已be(x4) / 咋这样(x3) / 放生了)
+[79m] 🔥 [UNKNOWN] 没有没有恐怖要素。[UNKNOWN] 哇我说啊我来到了一个。[UNKNOWN] 我来到了一个很大很大的房间里面。[UNKNOWN] 他把它关进了  (💬 倒下(x7) / 投降 / 绿绿白白和好吧 / 早就说过分手了 / 魔法以口解)
+[81m] ▫️ [UNKNOWN] 然后上面有。[UNKNOWN] 那我要  (💬 倒下(x4) / 思索(x3) / 研究法阵了 / 咋这样 / iceb)
+[84m] 🔥 [UNKNOWN] 右下角像个蜘蛛。[UNKNOWN] 然后正右边是一个呃是一个章鱼。[UNKNOWN] 是一个的头朝着上面的章鱼。[UNKNOWN] 然后又在右上角是个小磁怪。[UNKNOWN] 就是宝可梦的小瓷怪。[UNKNOWN] 谢谢。[UNKNOWN] 小瓷罐。[UNKNOWN] 啊小词怪我看见了  (💬 笑牛魔(x7) / 势均力敌的表达能力 / 数字外框的边数 / 能记住吗 / 脸色对了)
+[87m] ▫️ [UNKNOWN] 一个是圆的像蛇一样。[UNKNOWN] 在左上左上是那个像蛇一样的  (💬 思索 / 倒下 / 投降 / 天才 / 小松绿智力好高...)
+[88m] ▫️ [UNKNOWN] 嗯正方形的那个正下方是。[UNKNOWN] 然后最后一个那个。[UNKNOWN] 呃右上角的右上是小瓷怪。[UNKNOWN] 然后最后一个。[UNKNOWN] 最后一拳。[UNKNOWN] 嗯最后一个是那个五边形的嗯。[UNKNOWN] 呃正上方是y。[UNKNOWN] 然后左下角是一个。[UNKNOWN] 嗯是一个困在泡泡里面的人困在  (💬 投降(x4) / 思索(x3) / 倒下 / 对的对的 / 表情对了)
+[90m] ▫️ [UNKNOWN] 啊啊不管了事  (💬 投降(x3) / 倒下(x3) / 思索 / 是个屁股 / 4吧)
+[92m] ▫️ [UNKNOWN] 完了这玩意儿怎么怎么描。[UNKNOWN] 方位不一样  (💬 熨斗 / 倒下 / 耍的团团转 / iceb / 对的对的)
+[93m] ▫️ [UNKNOWN] 你需要把那个长得像头盔。[UNKNOWN] 左下有一个灯灯。[UNKNOWN] 然后再转外圈。[UNKNOWN] 嗯它这个呃它这个。[UNKNOWN] 三层分别最上方的内容。[UNKNOWN] 然后第二个是嗯。[UNKNOWN] 就是里面是一道横线的里是不是  (💬 思索(x6) / 倒下(x5) / 投降(x3) / 白色的声音是不是和原来不太一样了 / 氛围对了)
+[96m] ▫️ [UNKNOWN] 唉就是正右边它的唉。[UNKNOWN] 有了有了有了这个  (💬 笑牛魔 / [UPOWER_1891335475_倒下] / 他的正上方是N，跟你这个方位不一样 / 诶？ / 我要是羽啾就爱上xsl了…)
+[99m] ▫️ [UNKNOWN] 然后你我们现在可以调圆的。[UNKNOWN] 这个上面的那个是。[UNKNOWN] 呃中环是那个长得像帽子的。[UNKNOWN] 上面打了个叉。[UNKNOWN] 左边吗  (💬 思索 / 先对其方向 / 急死了急死了 / 灯和亮的不一样吧 / 投降)
+[102m] ▫️ [UNKNOWN] 现在这里圈是吗。[UNKNOWN] 你转那个正方形的盘盘。[UNKNOWN] 最后一层然后最后一层。[UNKNOWN] 很有成就感啊。[UNKNOWN] 哎不对这是我来了门吗。[UNKNOWN] 我是好阴森啊。[UNKNOWN] 认识呢啊这里有个球。[UNKNOWN] 哎怎么又球犯了。[UNKNOWN] 怎么又竞技场了  (💬 思索(x3) / 倒下(x3) / 他们好像理解了 / 咋这样 / 好视力)
+[105m] ▫️ [UNKNOWN] 应该是。[UNKNOWN] 但是这五个都是有的呀。[UNKNOWN] 嗯那你要教我走路。[UNKNOWN] 试试我我头该对着哪往前了啊。[UNKNOWN] 没有你应该是要走到对面。[UNKNOWN] 还有现实。[UNKNOWN] 我去还有现实有病吧。[UNKNOWN] 哦我这石头不能丢出去了。[UNKNOWN] 我得一直拿着这个臭石头  (💬 倒下 / 恩人 / 砂仁饭 / 害人精 / 我去)
+[106m] 🔥 [UNKNOWN] 那妞你先先别急着往前走。[UNKNOWN] 好的。[UNKNOWN] 时间不是看完了吗。[UNKNOWN] Ok这怎么走啊这怎么走啊。[UNKNOWN] 能不能截个图拿笔画。[UNKNOWN] 呃我觉得心想反正。[UNKNOWN] 你要操控我截的图。[UNKNOWN] 简俗难笔画。[UNKNOWN] 我其实我一直看有在看弹幕  (💬 ybb(x15) / 我资道啊(x4) / 只会在卡关的时候看弹幕？ / [UPOWER_1891335475_倒下] / 倒下)
+[107m] 🔥 [UNKNOWN] 你不要脏我不看弹幕。[UNKNOWN] 好吗。[UNKNOWN] 来吧。[UNKNOWN] 嗯拿个笔画一下。[UNKNOWN] 我我们现在来自由唠嗑。[UNKNOWN] 等我把这个一笔画画完可以了。[UNKNOWN] 我就头对着对面那个门。[UNKNOWN] 然后你告诉我左右吧。[UNKNOWN] 嗯我对是我头对着你那边  (💬 倒下(x4) / 只会在卡关的时候看弹幕？ / 我资道啊 / [UPOWER_1891335475_倒下] / 弹幕教教教 交完一句绿神 完美尽考)
+[107m] 🔥 [UNKNOWN] 你那边那个方向也可以。[UNKNOWN] 还是俺不需要走所有的格子。[UNKNOWN] 嗯。[UNKNOWN] 好啦啊。[UNKNOWN] 你脚下的就是一啊啊。[UNKNOWN] 不对我的方向错。[UNKNOWN] 我忘了我忘了告诉你左右了。[UNKNOWN] 等一下。[UNKNOWN] 忘了我们两个上下左右不一样了  (💬 倒下(x3) / 这不是很容易看 / 弹幕教教教 交完一句绿神 完美尽考 / 幼儿园级别的一笔画 / 总共就五个)
+[108m] 🔥 [UNKNOWN] 然后重新重新重新重新 Ok ok是。[UNKNOWN] 我没有害人我。[UNKNOWN] 让我重新画一下路线吧。[UNKNOWN] 和他面相一致。[UNKNOWN] 屁股朝着他吗。[UNKNOWN] 你想让我屁股朝着。[UNKNOWN] 你还是啊别我我会告诉你。[UNKNOWN] 我会告诉你你的左右的OK  (💬 iceb(x8) / [UPOWER_1891335475_欸](x6) / [UPOWER_1891335475_什么](x4) / 倒下(x3) / onp)
+[109m] 🔥 [UNKNOWN] 没事我们必须要。[UNKNOWN] 我必须要画一下。[UNKNOWN] 不然我记不住。[UNKNOWN] 好那你现在往前走三格。[UNKNOWN] 一个两个三个三。[UNKNOWN] 然后往下走一格哎。[UNKNOWN] 往往右往右往右走一。[UNKNOWN] 嗯 为什么为什么。[UNKNOWN] 他会他会嗯我忘了顺序的  (💬 iceb(x9) / 倒下(x4) / 骇人鲸(x3) / [UPOWER_1891335475_欸](x3) / 图案变了(x3))
+[109m] 🔥 [UNKNOWN] 我忘了顺序的。[UNKNOWN] 我的问题。[UNKNOWN] 没问题。[UNKNOWN] 我们一个要往后退。[UNKNOWN] 你是你慢慢换。[UNKNOWN] 哎呀像铅球一样哇。[UNKNOWN] 真是考验考验彼此之间信任的游戏。[UNKNOWN] 呢百分百信任了。[UNKNOWN] 没事事。[UNKNOWN] 我没害人我哪里害人  (💬 iceb(x10) / 骇人鲸(x7) / 投降(x5) / 冰福(x4) / 害人精)
+[110m] 🔥 [UNKNOWN] 我没害人先走。[UNKNOWN] 先走盔桥。[UNKNOWN] 好你好磨叽啊。[UNKNOWN] 这种这种游戏怎么说。[UNKNOWN] 要不我们下次还是。[UNKNOWN] 来一些这个PVP吧。[UNKNOWN] 你不觉得这是网调吗。[UNKNOWN] 你。[UNKNOWN] 哎咱们网网调调教。[UNKNOWN] 哎我去  (💬 ybb(x35) / 玩好大(x7) / ？？？(x4) / 呃呃(x3) / 玩挺大(x3))
+[110m] 🔥 [UNKNOWN] 有没有啊。[UNKNOWN] 你看就这个图案什么的。[UNKNOWN] 啊好吧。[UNKNOWN] 嗯第一个盔甲第二个圈。[UNKNOWN] 第三个高第四个。[UNKNOWN] 第五个。[UNKNOWN] 好那你现在。[UNKNOWN] 往前走六个一个两二个三。[UNKNOWN] 谢谢鹅六。[UNKNOWN] 然后往右黄泥豆  (💬 ybb(x35) / 玩好大(x8) / ？？？(x4) / [七海_生闷气](x4) / 玩挺大(x3))
+[111m] ▫️ [UNKNOWN] 方向你确认一个方向啊这个方向。[UNKNOWN] 好然后往前往正前方走一格。[UNKNOWN] 这个臭石头。[UNKNOWN] 啊我这边的门开了。[UNKNOWN] 我要下去了。[UNKNOWN] 好饿我要啊。[UNKNOWN] 我去怎么又是这个就是再来一关吗。[UNKNOWN] 还再来一关吗。[UNKNOWN] 我已经会我会了吗  (💬 投降(x4) / 倒下(x3) / 思索(x3) / 骡子植物好厉害 / 难道小松绿真是天才)
+[113m] 🔥 [UNKNOWN] 这个抽石头怎么还是。[UNKNOWN] 看看是不是是下面。[UNKNOWN] 瞅这个这个玩儿法是什么。[UNKNOWN] 这是动物斗兽场嗯一样的一笔画吗。[UNKNOWN] 这首歌吧。[UNKNOWN] 要记住的话那不就是拍照吗。[UNKNOWN] 是。[UNKNOWN] 嗯。[UNKNOWN] 大大刀小刀盔甲  (💬 投降(x5) / 思索(x3) / 大的要来了 / 六边形一笔画 / 6个了)
+[114m] 🔥 [UNKNOWN] 但是。[UNKNOWN] 这个这个这个刀出现两次。[UNKNOWN] 是。[UNKNOWN] 到第一个就是小刀的位置。[UNKNOWN] 然后你随便走一下呢。[UNKNOWN] 你随便走一下吗。[UNKNOWN] 对然后我们这一次的。[UNKNOWN] 就是这个这个是安全的。[UNKNOWN] 长刀  (💬 外置大脑启动 / 大大方方小手机 / 作弊 / 五个你也记不住 / 好记性不如摄像头)
+[117m] ▫️ [UNKNOWN] 然后第四个你往前走。[UNKNOWN] 对ok。[UNKNOWN] 你一开始第一排的。[UNKNOWN] Ok现在真是调了。[UNKNOWN] 不要不要这么不要说什么调不调的。[UNKNOWN] 调好了啊不要啊。[UNKNOWN] 怎么会也不可能。[UNKNOWN] 有刀哥的背后找人。[UNKNOWN] 遥控  (💬 调好了(x10) / 一想到我敬重的羽啾老师像一条狗一样被小松绿呼来喝去我就打心里难受(x9) / 调­好了(x3) / 真棒 / 调成啥了)
+[118m] 🔥 [UNKNOWN] 你现在就完了我这边门开了。[UNKNOWN] 我可以去下一关了。[UNKNOWN] 等一下让我确认一下。[UNKNOWN] 嗯先往前走两个  (💬 调好了(x4) / 思索(x3) / 一想到我敬重的羽啾老师像一条狗一样被小松绿呼来喝去我就打心里难受(x3) / 脑控是犯法的你知不知道 / 主松绿小人)
+[121m] 🔥 [UNKNOWN] 那你这样的话会多。[UNKNOWN] 踩一个多踩一个吗。[UNKNOWN] 那那你直接也回不了头了。[UNKNOWN] 你就这样走吧走吧。[UNKNOWN] 会掉下去吗。[UNKNOWN] 啊不会。[UNKNOWN] 啊那个是假的哦。[UNKNOWN] 我还以为是我还以为吃多了。[UNKNOWN] 哦那你就对  (💬 咋这样(x6) / 羽啾比你聪明啊(x4) / 羽啾智商高(x3) / 脱离控制了 / 倒下)
+[121m] 🔥 [UNKNOWN] 最后一个是个刀。[UNKNOWN] 我。[UNKNOWN] 我。[UNKNOWN] 冲刺啊。[UNKNOWN] 嗯。[UNKNOWN] 好捏好捏我们下一个。[UNKNOWN] 他已经调到会自己做。[UNKNOWN] 我们我们这个调的也太有效了吧。[UNKNOWN] 啊这是什么意思。[UNKNOWN] 这下面的三个加时赛是什么意思  (💬 咋这样(x5) / 羽啾比你聪明啊(x4) / 羽啾智商高(x3) / 倒下(x3) / 思索(x3))
+[122m] ▫️ [UNKNOWN] 然后一个铁处女。[UNKNOWN] 好这个阵容把前面这个可音上吊。[UNKNOWN] 好好。[UNKNOWN] 嗯那就是在倒计时结束之后。[UNKNOWN] 哎我能不能在手机给你发消息啊。[UNKNOWN] 嗯啊狗。[UNKNOWN] 我们说第一个是啥。[UNKNOWN] 第一个是那个断头台。[UNKNOWN] 那应该下面那排是不能踩的吗  (💬 三戟叉(x11) / slg(x4) / 作弊 / 666 / 这不拍照吗)
+[123m] 🔥 [UNKNOWN] 唉他时间这么快吗。[UNKNOWN] 你现在重新再来一次可以可以。[UNKNOWN] 就还是最后一排的那个。[UNKNOWN] 对然后这个福字是。[UNKNOWN] 可以盾牌是不能踩。[UNKNOWN] 啊啊我这样我这样猜。[UNKNOWN] 我这样我这样拍照发给你的自己看。[UNKNOWN] 其实不好  (💬 倒下 / 看羽啾怎么死的 / 咋这样 / 有桂啊 / 这小手机真帅吧)
+[125m] 🔥 [UNKNOWN] 我记得右边那个不能。[UNKNOWN] 我记得右边那个不能整嗯。[UNKNOWN] 快点现在手机给你发消。[UNKNOWN] 我们要作弊。[UNKNOWN] 我服了。[UNKNOWN] 马上变调了马上变调了。[UNKNOWN] 你第一个要去的是那个三级叉。[UNKNOWN] 但是你不能踩。[UNKNOWN] 你你看你又踩你看你又踩  (💬 倒下(x6) / 投降(x6) / slg(x6) / 作弊了(x6) / 教妹妹走路(x6))
+[125m] 🔥 [UNKNOWN] 你都没有说。[UNKNOWN] 我给你发。[UNKNOWN] 唉我登一下电脑登一下QQ。[UNKNOWN] 好吧好吧我还是口头来。[UNKNOWN] 嗯三三叉戟哎呦。[UNKNOWN] 我去。[UNKNOWN] 对可以看手机。[UNKNOWN] 我们可以看手机啊。[UNKNOWN] 这个第一个你要去的是最后那个刀  (💬 教妹妹走路(x6) / 投降(x4) / 作弊了(x3) / 倒下(x3) / 作松绿小弊)
+[126m] ▫️ [UNKNOWN] 然后最后一个是这个。[UNKNOWN] 嗯最后一排的盔甲。[UNKNOWN] 最后一排的刀啊。[UNKNOWN] 他现在也没转过来。[UNKNOWN] 右边往回拐回来拐回来。[UNKNOWN] 右边哦啊六边走的那个刀ok。[UNKNOWN] ok。[UNKNOWN] 不能走断头抬斧头和小刀。[UNKNOWN] 走那个锤子的部分  (💬 害公，该害人了 / 一个一个来吧 / 哥你这么不说话 / [UPOWER_1891335475_倒下] / [UPOWER_1891335475_什么])
+[131m] ▫️ [UNKNOWN] 对然后去三叉戟。[UNKNOWN] 最后走到铁树女。[UNKNOWN] 最后一个在嗯嗯锤盾牌和小刀。[UNKNOWN] 锤盾牌那走上吊的绳这边。[UNKNOWN] 先找到先找到那个大砍刀。[UNKNOWN] 然然后去他旁边的那个盔甲。[UNKNOWN] 好。[UNKNOWN] 我谢了啊。[UNKNOWN] 好了好了好了好了  (💬 倒下(x5) / 凭什么不通关就不下播，熬坏了谁负责啊 / 小松绿智商高 / 好厉害 / 对的对的)
+[132m] 🔥 [UNKNOWN] 哎呦个臭球还给你。[UNKNOWN] 哎呦我去。[UNKNOWN] 嘤霸王走。[UNKNOWN] 我终于轻松了。[UNKNOWN] 欢欢总。[UNKNOWN] 他看你就知道好厉害。[UNKNOWN] 好厉害好厉害。[UNKNOWN] 你注音注音刚好。[UNKNOWN] 差不多一个新人起来。[UNKNOWN] 我们可以下播  (💬 倒下(x12) / 调好了(x10) / 咋这样(x10) / 小松绿智商高(x4) / ？？？(x3))
+[132m] 🔥 [UNKNOWN] 哎呀这哼。[UNKNOWN] 注音注音调好了。[UNKNOWN] 调好了吗。[UNKNOWN] 真调好了吗。[UNKNOWN] 那调好了。[UNKNOWN] 把这个这个游戏的。[UNKNOWN] 解密比比想象中要简单一点。[UNKNOWN] 我还以为我们两个会卡很久呢。[UNKNOWN] 我我这我那个跳游戏的时候  (💬 咋这样(x23) / 倒下(x13) / ？？？(x9) / 调好了(x5) / ？？(x3))
+[133m] 🔥 [UNKNOWN] 还说我是猪啊。[UNKNOWN] 还好还好没有很猪的。[UNKNOWN] 大家不要争着做猪吧。[UNKNOWN] 魔法已经调好了。[UNKNOWN] 我下播改个名字去。[UNKNOWN] 好。[UNKNOWN] 还接着玩吗。[UNKNOWN] 还接着玩吗。[UNKNOWN] 不行啊我们可以下播。[UNKNOWN] 也可以接着玩  (💬 咋这样(x32) / ？？？(x15) / slg(x12) / 倒下(x10) / 调好了(x4))
+[133m] 🔥 [UNKNOWN] 那我们接那我们下播了。[UNKNOWN] 偷玩别别可以可以。[UNKNOWN] 可以可以以可以可以可以。[UNKNOWN] 可以可以可以可以可以可以以的。[UNKNOWN] 我们把游戏干别的吧。[UNKNOWN] 可以我们去看电影。[UNKNOWN] 我们去看之前可以。[UNKNOWN] 建的那个克苏鲁电影  (💬 咋这样(x34) / ？？？(x15) / slg(x13) / 倒下(x9) / onp(x5))
+[133m] 🔥 [UNKNOWN] 嗯好的好的好的好的。[UNKNOWN] 那好的好的那我就把游戏结束然。[UNKNOWN] 我就把游戏结束去玩。[UNKNOWN] 写礼物去这怎么存档啊。[UNKNOWN] 这个地方我们下次可以存档。[UNKNOWN] 我们下次可以就是顺着这个位置。[UNKNOWN] 然后接着接着打吗。[UNKNOWN] 可以的吧  (💬 咋这样(x27) / slg(x11) / ？？？(x9) / 倒下(x7) / onp(x4))
+[134m] 🔥 [UNKNOWN] 应该是会有存档的那。[UNKNOWN] 你那你看存档我要退一出了。[UNKNOWN] 我直接退会存档进度会直接消失哦。[UNKNOWN] 我是房主对你就房主。[UNKNOWN] 所以们可以我可以我可以退的。[UNKNOWN] 嗯可以直接退了。[UNKNOWN] 我可以退退吧去写礼物了。[UNKNOWN] 我们等会下下再见  (💬 咋这样(x16) / 倒下(x8) / 今天没礼物了！(x6) / 没礼物了(x5) / wqndyd(x3))
+[134m] 🔥 [UNKNOWN] 可以下部见我们看克苏鲁电影。[UNKNOWN] 拜拜。[UNKNOWN] 拜拜。[UNKNOWN] 是。[UNKNOWN] 哈hello。[UNKNOWN] 把我POPK推出去。[UNKNOWN] 别别。[UNKNOWN] 嘘。[UNKNOWN] 哎呀我直播间吗。[UNKNOWN] 哦在这里呀啊嗯嗯  (💬 咋这样(x18) / 倒下(x8) / 笑牛魔(x6) / 今天没礼物了！(x5) / 没礼物了(x5))
+[134m] 🔥 [UNKNOWN] 好啊。[UNKNOWN] 哎呀大家晚上好啊。[UNKNOWN] 好久不见。[UNKNOWN] 确实好久不见。[UNKNOWN] 没礼物直接滚啊那也行嘛。[UNKNOWN] 妈还好吧。[UNKNOWN] 感觉我游戏比 比比预想中这个。[UNKNOWN] 简单一点。[UNKNOWN] 你想的也是说你们发的我都有看  (💬 倒下(x9) / 你是？(x9) / 咋这样(x8) / 丨吧宝宝(x8) / 笑牛魔(x6))
+[135m] 🔥 [UNKNOWN] 谢谢小聪弟小皮鞋。[UNKNOWN] 刚抱了小松女的香河闺女。[UNKNOWN] 谢谢明通的高棒。[UNKNOWN] 支付宝上那个软萌小女。[UNKNOWN] 我靠在绿神身上。[UNKNOWN] 他他给我发这个自拍的时候。[UNKNOWN] 发的是仅仅一v一v两个字。[UNKNOWN] 打的拼音呢  (💬 何yiwei(x8) / 丨吧宝宝(x6) / ？？？(x4) / 不要yls了😭不要yls了😭不要yls了(x4) / 你是？(x3))
+[135m] 🔥 [UNKNOWN] 谢谢。[UNKNOWN] 号召第一小段时间玩钢梦。[UNKNOWN] 你可以叫他们在智力。[UNKNOWN] 发出发现一处心盆地精决议。[UNKNOWN] 将其命名为小棕榈下一个。[UNKNOWN] 谢谢。[UNKNOWN] 阴天出雪的钢梦小。[UNKNOWN] 棕榈老师挺指导我们。[UNKNOWN] 不太想知道谢谢  (💬 何yiwei(x9) / 太不是了(x5) / 倒下(x3) / ？？？ / 不要yls了😭不要yls了😭不要yls了)
+[136m] 🔥 [UNKNOWN] 婉然又大暗港吗。[UNKNOWN] 难道小棕榈真的不是ICEB。[UNKNOWN] 小棕榈一直都不是IEB吗。[UNKNOWN] 一直都不是吧。[UNKNOWN] 什么时候让大家有这种。[UNKNOWN] 错误的这个印象。[UNKNOWN] 从来都没有你别脏。[UNKNOWN] 小棕榈。[UNKNOWN] 谢谢武士蒙龙情的钢棒  (💬 何yiwei(x6) / 太不是了(x5) / 倒下(x4) / 难说 / 小松绿不要yls了)
+[136m] 🔥 [UNKNOWN] 糖绿智商高草就一直智商高了。[UNKNOWN] 谢谢水晶葫芦的钢棒。[UNKNOWN] 也谁把SCP小的标还给我。[UNKNOWN] 那个卖掉了。[UNKNOWN] 天夜小象高高。[UNKNOWN] 其实你就有信息就能全自动通关。[UNKNOWN] 他就还要故意被调一下。[UNKNOWN] 其实今天的备选游戏还有那个  (💬 滚木(x11) / 双人什么(x10) / 倒下(x5) / 双人什么？(x4) / 滚木？(x3))
+[137m] 🔥 [UNKNOWN] 结果还有一个特别想玩的是那个。[UNKNOWN] 嘘双人双人滚幕嘛。[UNKNOWN] 那游戏叫啥。[UNKNOWN] 哼。[UNKNOWN] 哦哦原来叫原木骑士。[UNKNOWN] 啊那个就是两个人滚那个木头。[UNKNOWN] 那感觉。[UNKNOWN] 那个就是比较难。[UNKNOWN] 那个会带着  (💬 滚木(x12) / 双人什么(x11) / 双人什么？(x4) / 滚木？(x3) / 双人啥？(x3))
+[137m] 🔥 [UNKNOWN] 哎呀。[UNKNOWN] 搜狐不是搜狐不是多人搜湖。[UNKNOWN] 一个人解谜很没意思。[UNKNOWN] 前安哥尼罗斯港梦咋弄么。[UNKNOWN] 下播偷玩不是我唯独。[UNKNOWN] 我没有下播偷玩。[UNKNOWN] 我们下播去看电影啊。[UNKNOWN] 时间没对上下播了。[UNKNOWN] 再看看什么电影  (💬 倒下(x5) / 思索(x5) / 投降(x3) / 笑牛魔 / ？？？)
+[139m] 🔥 [UNKNOWN] 他说要看那个。[UNKNOWN] cut片吗。[UNKNOWN] 叫叫我什么是叫这个吗。[UNKNOWN] 但我不知道他具体要看的是哪一部。[UNKNOWN] 嗯我不太不太看电影呢。[UNKNOWN] cute cute嗯。[UNKNOWN] 啊这次看这次看星之彩吗。[UNKNOWN] 不知道没看过  (💬 cult(x8) / slg(x7) / iceb(x7) / cute说是(x4) / 倒下(x3))
+[139m] 🔥 [UNKNOWN] 没说没跟我讲看哪一部。[UNKNOWN] 我只知道CCUCU什么c。[UNKNOWN] 啊。[UNKNOWN] 是。[UNKNOWN] 谢谢。[UNKNOWN] blues的come on。[UNKNOWN] 这模型肯定是不能直播了。[UNKNOWN] 越管越严了。[UNKNOWN] 的哥梦苦等一天直播换了两个小时  (💬 iceb(x5) / slg(x4) / cute说是(x3) / 倒下(x3) / 思索)
+[140m] 🔥 [UNKNOWN] 冷暴力没有人搭理你啊。[UNKNOWN] 那小助理竟然稍微变健康了一点了。[UNKNOWN] 没有发现。[UNKNOWN] 我们争取明天彻底康复吧。[UNKNOWN] 谢谢超级六号琴创的组产的SLG啊。[UNKNOWN] SLGMMUA能啊。[UNKNOWN] 但。[UNKNOWN] 还是有点冰  (💬 mua(x43) / 倒下(x4) / slg / 拜托 / 原谅了)
+[141m] 🔥 [UNKNOWN] 嗯完全没有完全没有鼻音的话。[UNKNOWN] 感觉要恢复很久了。[UNKNOWN] 一直以来都有一点点的歌。[UNKNOWN] 呼吸不太畅。[UNKNOWN] 现在却可的刚梦YIS。[UNKNOWN] 刚刚那怎么他跟AI吵架。[UNKNOWN] 我看到你们在吵到。[UNKNOWN] 了这个是有AI弹幕什么的吗  (💬 mua(x13) / 倒下(x4) / 原谅了 / 投降 / 回旋了)
+[141m] 🔥 [UNKNOWN] 直接一个举报。[UNKNOWN] 现在吃香脸的杠棒。[UNKNOWN] 巧克力不是趋势。[UNKNOWN] 错题放松游游戏不行了。[UNKNOWN] 初六游戏力一直都不行啊。[UNKNOWN] 动脑子座位位还能动两下。[UNKNOWN] 动手我就再见了。[UNKNOWN] 拜拜但不对抗。[UNKNOWN] 那比你还强呢  (💬 倒下(x6) / 投降 / 思索 / 调好了 / yls调好了)
+[141m] 🔥 [UNKNOWN] 你那你可以调一调他。[UNKNOWN] 万一哪天调好了。[UNKNOWN] 不是大功一件。[UNKNOWN] 谢在黄鱼水到钢梦。[UNKNOWN] 调一晚上雨及为什么调叶黑素。[UNKNOWN] 叶黑素不需要调叶黑素很乖的。[UNKNOWN] 现在小子天生喜欢像个钢梦。[UNKNOWN] 今天小助理让我发现  (💬 倒下(x4) / 思索(x3) / 投降 / 调好了 / yls调好了)
+[142m] 🔥 [UNKNOWN] 我居然是致性恋小素素实在是太粗。[UNKNOWN] 警惕呀啊真气啊哥。[UNKNOWN] 根本没有真正的错。[UNKNOWN] 聪明人如果觉得一个人很聪明的话。[UNKNOWN] 那你一定是被他一时的假象蒙蔽的。[UNKNOWN] 不存在不存在聪明人呢。[UNKNOWN] 谢谢拥风叔叔啊。[UNKNOWN] 伤心了刚蹦别伤心  (💬 思索(x3) / 调好了 / yls调好了 / 倒下 / ai播，你可以丨了)
+[143m] 🔥 [UNKNOWN] 对我就是喜欢弱智 这个是。[UNKNOWN] 今天去给宇宙串儿又发消息。[UNKNOWN] 说说我说你是弱智。[UNKNOWN] 你明天能刷到欺骗。[UNKNOWN] 然后宇宙串问我说那你喜欢。[UNKNOWN] 那你喜欢弱智吗。[UNKNOWN] 那确实。[UNKNOWN] 那确实喜欢喜欢弱智啊  (💬 倒下(x5) / 投降(x3) / nb / 够绿 / onp)
+[143m] 🔥 [UNKNOWN] 嗯。[UNKNOWN] 现在没空加努努。[UNKNOWN] 练钢梦就是你下播。[UNKNOWN] 我要考别人去了。[UNKNOWN] 别吧别吧。[UNKNOWN] 你今天不会看一晚上电影。[UNKNOWN] 今天晚上可以看一会儿。[UNKNOWN] 看到困了就睡啊。[UNKNOWN] 不知道跳的电电影  (💬 倒下(x6) / 投降(x3) / 喜欢 / 千言万语感谢绿弟 / 她也是调好了)
+[144m] 🔥 [UNKNOWN] 能不能能不能看看睡着。[UNKNOWN] 谢谢。[UNKNOWN] 才哥一二三杠猛绿神。[UNKNOWN] 下次二八七联动。[UNKNOWN] 有三只猴子环节吗。[UNKNOWN] 上次看紫色同期被气晕了。[UNKNOWN] 三只猴子是哪个那个笼子。[UNKNOWN] 瞎子和哑巴吗。[UNKNOWN] 是吗  (💬 倒下(x5) / 今天day几今天day几今天day几(x4) / 是的(x3) / 细节三只 / 对的)
+[144m] 🔥 [UNKNOWN] 我没有我没有认真看那个。[UNKNOWN] 不知道哎。[UNKNOWN] 最近没有什么特别想玩的游戏。[UNKNOWN] 小孩子再小孩子再问一下。[UNKNOWN] 大家有没有想玩的吗。[UNKNOWN] 天贝几今天贝零。[UNKNOWN] 谢谢丽斯戴尔勋爵。[UNKNOWN] 的钢梦怎么不开双人同步视听  (💬 倒下(x9) / 是的(x3) / 今天day几今天day几今天day几 / 纸巾玩过了 / 咋这样)
+[145m] 🔥 [UNKNOWN] 因为那电脑没有办法在。[UNKNOWN] 你在那个直播里面放。[UNKNOWN] 哎不能不播。[UNKNOWN] 肯定是不能播的。[UNKNOWN] 现在超级还没有。[UNKNOWN] 钢梦小苏林甜蜜去吧。[UNKNOWN] 因为说一点不冷不寂寞。[UNKNOWN] 不想要阿弥陀a。[UNKNOWN] 睡觉睡觉谢谢  (💬 倒下(x12) / 投降 / 咋这样 / 健康绿 / 羞死了)
+[145m] 🔥 [UNKNOWN] 恶灵的钢梦想要软诺小苏瑞软糯小。[UNKNOWN] 苏瑞只会在生病的时候跟上学上。[UNKNOWN] 上午营养的时候用。[UNKNOWN] 现在的话就是现在的话就是。[UNKNOWN] 健康了。[UNKNOWN] 谢谢热心视频绿白美金呢哥。[UNKNOWN] 我们今天看完直播。[UNKNOWN] 感觉绿白像模须  (💬 倒下(x10) / 咋这样 / 健康绿 / 同担都是恩人 / OK)
+[145m] 🔥 [UNKNOWN] 啊。[UNKNOWN] 下一个。[UNKNOWN] 谢谢二七九BI的钢本小文逻辑清晰。[UNKNOWN] 同时不失包容内心强大。[UNKNOWN] 思维敏锐价值观。[UNKNOWN] 的没拆的超级六号晴川看允琼直播间。[UNKNOWN] 啊本来其实是想跟也就是。[UNKNOWN] 穿完又换一样的衣服来直播了  (💬 yls我们来聊天吧(x5) / 倒下(x4) / 健康绿 / 同担都是恩人 / 上学这么耗费精力吗)
+[146m] 🔥 [UNKNOWN] 但是那个衣服实在是。[UNKNOWN] 嗯。[UNKNOWN] 就是不太不太适合。[UNKNOWN] 不太适合在直播间里面放出。[UNKNOWN] 就因为小作品老动老动。[UNKNOWN] 那个那个衣服就会往下掉。[UNKNOWN] 今天今天测试了许久。[UNKNOWN] 都没有能成功的穿上。[UNKNOWN] 所以只会以照片的形式出现  (💬 看看(x20) / 倒下(x5) / 咋这样(x5) / 黑话(x5) / 羞死了(x5))
+[147m] 🔥 [UNKNOWN] 就是有给你们发那个照片啊。[UNKNOWN] 不是直播封面不是这个吗。[UNKNOWN] 这个。[UNKNOWN] 这个。[UNKNOWN] 直播封面不是这个吗。[UNKNOWN] 然后就不太行。[UNKNOWN] 不能在直播的时候穿。[UNKNOWN] 一下放感觉调试不太成功。[UNKNOWN] 好好吧  (💬 抓心挠肝了(x12) / 看看(x5) / 香合规女(x5) / 擦边女擦边女擦边女(x5) / 拜托(x3))
+[147m] 🔥 [UNKNOWN] 啊。[UNKNOWN] 肯来是我卡萨丁的。[UNKNOWN] 钢梦小龙妹见过比我聪明的。[UNKNOWN] 比小龙妹聪明的有很多啊。[UNKNOWN] 是。[UNKNOWN] 不小心就摔下来回到起眼游戏吗。[UNKNOWN] 陪玩的那个会比较比较着急啊  (💬 擦边女擦边女擦边女(x4) / 倒下(x4) / 抓心挠肝了 / 擦边女擦边女 / 求转正求转正)
+[150m] 🔥 [UNKNOWN] 这个万一就是真真的想不出来什么。[UNKNOWN] 就是华丽的词藻。[UNKNOWN] 然后再去偷两句了。[UNKNOWN] 然后为你。[UNKNOWN] 被你发现了两只从哪儿偷的时候。[UNKNOWN] 那个就会变得很有意思啊。[UNKNOWN] 总是就想看着我。[UNKNOWN] 现在陆亚彤呢  (💬 倒下(x5) / 思索 / ？？？ / 投降 / 咋这样)
+[151m] ▫️ [UNKNOWN] 不是两个人不是只有两个人。[UNKNOWN] 我本来今天我本来今天是打算下午。[UNKNOWN] 发现位数协议明天更新。[UNKNOWN] 拿过这种第二没拿过这种。[UNKNOWN] 天哪宝宝安抚你一下。[UNKNOWN] 准备下播了去看看电影。[UNKNOWN] 但是我不知道。[UNKNOWN] 我不知道他要看什么  (💬 倒下(x3) / 苍蝇搓手 / 气不气 / zp。。 / 同期同事说不定啥时候就没了，叶绿素只要一直播就在)
+[152m] 🔥 [UNKNOWN] 他应该没有给我发。[UNKNOWN] 懂他吧。[UNKNOWN] 谢谢VIR ry的钢梦。[UNKNOWN] 喜欢弱智吧。[UNKNOWN] 那我知道为什么每次都扭扭捏捏。[UNKNOWN] 说不说喜欢YY还子。[UNKNOWN] 哎。[UNKNOWN] 哎。[UNKNOWN] 没有这个事情。[UNKNOWN] 谢谢煤矿加努力的送么柴绿色  (💬 倒下(x7) / 投降(x6) / 思索 / 唉牛魔 / yls也要看)
+[153m] 🔥 [UNKNOWN] 我今天一整天都躺在床上直播。[UNKNOWN] 就点开独轮车对抗。[UNKNOWN] 我觉得自己很努力能夸夸我们。[UNKNOWN] 当心下次接着被人举报啊嗯。[UNKNOWN] 警惕啊。[UNKNOWN] 谢谢大微微妹的心有蔷薇。[UNKNOWN] 谢谢礼。[UNKNOWN] 谢谢韩西糖的续费舰长  (💬 投降(x7) / 倒下(x5) / 拜托 / [UPOWER_1891335475_倒下] / 苍蝇搓手)
+[154m] 🔥 [UNKNOWN] 其实同一个活动换品哦。[UNKNOWN] 我去我怎么感觉这个我。[UNKNOWN] 怎么感觉这个搓手的声音不一样呢。[UNKNOWN] 跟之前听起来有点不太一样。[UNKNOWN] 哼美少女只不会敲你粗。[UNKNOWN] 再说吧。[UNKNOWN] 变干燥了吃了变干燥了。[UNKNOWN] 我们来谢一下礼物吧  (💬 苍蝇搓手(x14) / 投降(x5) / 拜托(x5) / 思索(x3) / 感谢(x3))
+[154m] 🔥 [UNKNOWN] 我明天白天长长沟。[UNKNOWN] 明天看那个恢风怎么样。[UNKNOWN] 没招了。[UNKNOWN] 求求健康教程。[UNKNOWN] 我再不唱歌我觉得。[UNKNOWN] 想不出来那个歌怎么唱了。[UNKNOWN] 谢谢。[UNKNOWN] 七cid的高梦想了半天。[UNKNOWN] 想不出考子弹幕  (💬 好好好(x8) / 倒下(x4) / 拜托(x3) / 投降 / 没关系的，反正小松绿也不是美少女)
+[155m] 🔥 [UNKNOWN] 也想不出串子。[UNKNOWN] 弹幕那直说而来。[UNKNOWN] 你是个特别可爱的宝宝。[UNKNOWN] 哎谢谢你。[UNKNOWN] 谢谢鸟想儿的高梦。[UNKNOWN] 晚安你有晚安晚安晚安了。[UNKNOWN] 快睡觉。[UNKNOWN] 明天难道是久违的高回吗。[UNKNOWN] 我不知道啊  (💬 倒下(x4) / 好了是不是要找好女孩去玩了 / 绿神的歌回我很怕 / 要到考点了 / 还真是)
+[155m] 🔥 [UNKNOWN] 明天晚上不是行高数吗。[UNKNOWN] 明天做完PPT再看吗。[UNKNOWN] 而且明天还得跟女士友说一声。[UNKNOWN] 嗯女兽还能睡到几点了。[UNKNOWN] 你说我今天今天下午。[UNKNOWN] 八点钟给我发消息就醒了。[UNKNOWN] 我说虽然大家的这个。[UNKNOWN] 作息我一般不在意  (💬 onp(x9) / 下午8点？(x3) / 思索 / 什么作息 / 歌回。。。)
+[156m] 🔥 [UNKNOWN] 但是如果下午八点钟起床的话。[UNKNOWN] 我还是会。[UNKNOWN] 我还是会提醒一下他早早点醒。[UNKNOWN] 免得吵闹。[UNKNOWN] 明天什么时候唱歌啊。[UNKNOWN] 我不知道不知道不一定。[UNKNOWN] 唱就看那个健康程度。[UNKNOWN] 我不确定每天的。[UNKNOWN] 健康程度是什么样的  (💬 下午8点？(x5) / onp(x3) / 什么作息 / 思索 / 什么叫下午八点)
+[156m] 🔥 [UNKNOWN] 你怎么啦。[UNKNOWN] 虫子呢。[UNKNOWN] 钢蹦硬币鸟谢谢你的钢棒。[UNKNOWN] 谢谢。[UNKNOWN] 这里有玫瑰花的港梦。[UNKNOWN] 小人身体健康了。[UNKNOWN] 其实已经恢复一下了。[UNKNOWN] 谢谢赛克来到任州。[UNKNOWN] 的钢梦直播间封面  (💬 倒下(x3) / 投降 / 讨厌你讨厌你 / 我们地球人一般叫晚上八点 / 明天5点半就要赶活动😇感觉不用睡了)
+[156m] 🔥 [UNKNOWN] 可爱可爱好耶。[UNKNOWN] 恭喜欢你。[UNKNOWN] 谢黄恩薯条鼓掌。[UNKNOWN] 谢谢大家鼓掌。[UNKNOWN] 我明天看天气。[UNKNOWN] 要出门溜达一圈。[UNKNOWN] 他明天正好早上六点。[UNKNOWN] 你明天六点我超级。[UNKNOWN] 大笨蛋算小游戏。[UNKNOWN] 炒命白是哼  (💬 倒下(x3) / 投降 / 讨厌你讨厌你 / 哪有女仆八点起床的 / 思索)
+[159m] 🔥 [UNKNOWN] 谢谢龙的亲密之旅。[UNKNOWN] 谢龙的喜欢你。[UNKNOWN] 喜欢你喜欢你。[UNKNOWN] 谢谢小龙比较爱气的喜欢你。[UNKNOWN] 喜欢你喜欢你。[UNKNOWN] 谢谢小辣东哥小歪子。[UNKNOWN] 喜欢你喜欢你。[UNKNOWN] 喜欢你谢谢小龙。[UNKNOWN] 那天都喜欢笑傲喜欢你  (💬 爆了(x20) / 能不能改成滚吧你(x4) / 小松绿（已喊僵尸） / 已取餐 / 投降)
+[159m] 🔥 [UNKNOWN] 喜欢你喜欢你。[UNKNOWN] 谢谢不动气的薯条。[UNKNOWN] 谢谢大家。[UNKNOWN] 三十瓶我收到了。[UNKNOWN] 二零一三年的电影来着。[UNKNOWN] 但是没有看过小棕驴。[UNKNOWN] 不看这种类型的。[UNKNOWN] 二零一三年。[UNKNOWN] 二零一三年是  (💬 能不能改成滚吧你(x4) / 投降(x3) / 永远站在僵尸那边 / 经典僵尸片，实际上是l ol圈的一个经典比喻，用于阴阳怪气。 / 已取餐)
+[159m] 🔥 [UNKNOWN] 十三年前我去。[UNKNOWN] 谢谢不漏子的薯条。[UNKNOWN] 谢谢一顿b的鼓鼓掌。[UNKNOWN] 谢谢大家。[UNKNOWN] 谢谢超级哈里猫。[UNKNOWN] 喜欢你喜欢你喜欢的你。[UNKNOWN] 谢谢那娜喜欢你喜欢你喜欢你。[UNKNOWN] 谢谢四点半的喜欢你。[UNKNOWN] 喜欢你喜欢你  (💬 倒下(x6) / 投降(x4) / 咋这样(x4) / 收到 / [UPOWER_1891335475_投降])
+[160m] 🔥 [UNKNOWN] 谢谢零零远的爱心抱枕。[UNKNOWN] 谢。[UNKNOWN] 一二四o一y的鼓鼓掌谢谢大家。[UNKNOWN] 谢谢今日色真美的喜欢你。[UNKNOWN] 喜欢你喜欢你谢谢小聪明。[UNKNOWN] 喜欢你喜欢你。[UNKNOWN] 谢谢托尔贝电喜欢你。[UNKNOWN] 大把误会了。[UNKNOWN] 谢谢海鸟花的喜欢你  (💬 收到(x5) / 倒下(x5) / 都滚都滚(x4) / 喜欢你喜欢你(x3) / 投降(x3))
+[162m] 🔥 [UNKNOWN] 喜欢你喜欢你。[UNKNOWN] 谢谢萨q来打篮球的鼓掌欢迎。[UNKNOWN] 你们鼓掌。[UNKNOWN] 谢谢CEM条件喜欢你喜欢你。[UNKNOWN] 喜欢你 谢谢。[UNKNOWN] 没空就要努力的喜欢你。[UNKNOWN] 喜欢你喜欢你。[UNKNOWN] 谢谢吃星辰的喜欢你。[UNKNOWN] 喜欢你喜欢你  (💬 我去诽谤啊(x6) / 难说(x3) / 倒下(x3) / 造黄桃了(x3) / 谁来了(x3))
+[162m] 🔥 [UNKNOWN] 当事人自己都说被调好了。[UNKNOWN] 那感觉没少微调。[UNKNOWN] 谢谢。[UNKNOWN] 永远幻想的钢宝宝你是一个群。[UNKNOWN] 我不是。[UNKNOWN] 啊没有张黄桃。[UNKNOWN] 感觉他家外面还有很多很好的姐姐。[UNKNOWN] 姐姐们呢肯定不只有小聪明一个吧  (💬 🍵(x9) / 我去诽谤啊(x8) / 造黄桃了(x3) / 谁来了(x3) / 我不喜欢你)
+[163m] 🔥 [UNKNOWN] 真只有小棕就一个吗。[UNKNOWN] 小东你不信哦。[UNKNOWN] 什么姐姐妹妹的。[UNKNOWN] 嘻嘻。[UNKNOWN] 你们要坏姐姐哦哈他。[UNKNOWN] 那我跟他能一样吗。[UNKNOWN] 那不一样。[UNKNOWN] 那人对自己总是比较宽容的啊。[UNKNOWN] 是。[UNKNOWN] 言于待人宽以待己呀  (💬 🍵(x16) / 那能一样吗(x9) / 我去诽谤啊(x6) / 倒下(x4) / 吃醋了(x3))
+[163m] 🔥 [UNKNOWN] 嗯。[UNKNOWN] 谢谢四s的钢猛。[UNKNOWN] 兄弟们站坚守阵地。[UNKNOWN] 这压滚篮岂不是对脑控了对了吗。[UNKNOWN] 让我单独滚吗。[UNKNOWN] 一起滚吗。[UNKNOWN] 单独滚你有点太特别了。[UNKNOWN] 谢谢江山。[UNKNOWN] 雪儿白的钢梦应该是想被调  (💬 那我支持老登严待你(x7) / 🍵(x4) / 投降(x3) / 倒下 / 😅)
+[164m] 🔥 [UNKNOWN] 喜欢背条。[UNKNOWN] 你现在上学。[UNKNOWN] 马上就不想被调了。[UNKNOWN] 好吗。[UNKNOWN] 那小被调的血没上够。[UNKNOWN] 谢谢jonststone MM的比心。[UNKNOWN] 谢谢一条线花钱的喜欢。[UNKNOWN] 谢谢这里有玫瑰花鼓掌。[UNKNOWN] 感谢感谢布落子的喜欢你  (💬 那我支持老登严待你(x9) / 投降 / 小松绿你真是那个 / 还真是 / 倒下)
+[165m] ▫️ [UNKNOWN] 谢谢三s boy的喜欢你。[UNKNOWN] 我没看到。[UNKNOWN] 哪里有哪里有独轮车。[UNKNOWN] 哪里有刷屏。[UNKNOWN] 嗯没有看到。[UNKNOWN] 可能我这边因为重复消息太多。[UNKNOWN] 被合并掉了。[UNKNOWN] 就如果你们有很多。[UNKNOWN] 个人发一样的消息的话  (💬 同担都是恩人(x7) / 思索(x5) / 投降(x4) / 倒下(x4) / 智力有问题)
+[165m] 🔥 [UNKNOWN] 我只能看见一条。[UNKNOWN] 现在用的弹木机自带合并功能。[UNKNOWN] 就是折折叠掉了 嗯。[UNKNOWN] 大家发一样的话。[UNKNOWN] 就是折叠的比较快。[UNKNOWN] 除了是差一把刷礼呢吗。[UNKNOWN] 嘿嘿。[UNKNOWN] 有的时候你们那个能折叠一百多条  (💬 onp(x8) / 这些紫色的弹幕能不能都封了，大家伙都是白色的，显着他们了(x6) / 投降(x5) / 同担都是恩人(x3) / 倒下(x3))
+[166m] 🔥 [UNKNOWN] 我能看见后面有一个乘乘多少啊。[UNKNOWN] 然后知道有多少条。[UNKNOWN] 但不知道谁在发。[UNKNOWN] 只会有一个人的只会。[UNKNOWN] 有一个人的这个ID。[UNKNOWN] 小心自己被合并合并同类项表的。[UNKNOWN] happy。[UNKNOWN] 那没有办法了那  (💬 iceb(x16) / onp(x9) / 敢折叠我吗(x9) / iceb4(x5) / 倒下(x3))
+[167m] 🔥 [UNKNOWN] 确实会自己给自己。[UNKNOWN] 合并到一起的还还挺多的。[UNKNOWN] 这样合并掉的话比较方便。[UNKNOWN] 我剪弹幕现在弹幕比之前好剪。[UNKNOWN] 多了。[UNKNOWN] 一个这个ICEB有点多啊。[UNKNOWN] 这个。[UNKNOWN] 怎么这样子呢。[UNKNOWN] 谢谢前刚小青的喜欢你喜欢你喜欢你  (💬 iceb(x17) / 丨吧宝宝(x8) / 敢折叠我吗(x7) / iceb7(x7) / ybb(x7))
+[167m] 🔥 [UNKNOWN] 嘻嘻。[UNKNOWN] 好吧啊。[UNKNOWN] 今天的直播间到在这里结束了。[UNKNOWN] 打死一点数字名了来神经六了。[UNKNOWN] 谁孩啊。[UNKNOWN] 嗯。[UNKNOWN] 浅晴我想听哥们玩玩妈吗。[UNKNOWN] 谢谢杰哥小弟。[UNKNOWN] 你喜欢你喜欢你喜欢  (💬 mua(x40) / 晚安晚安(x16) / 丨吧宝宝(x11) / muamuamua(x8) / 倒下(x7))
+[168m] 🔥 [UNKNOWN] 谢谢超级海狸猫的直播间来的宝宝。[UNKNOWN] 我肚子好疼啊有MUV。[UNKNOWN] 好呀。[UNKNOWN] 谢谢你大家进来看直播。[UNKNOWN] 谢谢一只小辣条你好。[UNKNOWN] 感动想不想给以什么。[UNKNOWN] 拜拜晚安。[UNKNOWN] 直播间刚诉那么晚晚安晚安晚安晚安  (💬 mua(x45) / 晚安晚安(x16) / 倒下(x13) / muamuamua(x8) / 丨吧(x5))
+[168m] 🔥 [UNKNOWN] 晚安晚安晚安晚安晚安晚安晚安晚安。[UNKNOWN] 走了走了走了走了拜。[UNKNOWN] 拜  (💬 倒下(x17) / 晚安晚安(x13) / mua(x12) / 丨吧(x4) / muamuamua(x3))
